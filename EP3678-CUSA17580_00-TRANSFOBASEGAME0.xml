@@ -1,9 +1,39 @@
 <?xml version="1.0"?>
 <pkgpatch>
-    <patchInfo description="Removes unnecesary content and all languages except spanish" title_id="CUSA17580" content_id="EP3678-CUSA17580_00-TRANSFOBASEGAME0">
+    <patchInfo description="Removes unnecesary content" title_id="CUSA17580" content_id="EP3678-CUSA17580_00-TRANSFOBASEGAME0">
     </patchInfo>
     <patches>
-        <patch description="Removes all duplicate content from update 01.01 and all languages except spanish" pkg_required_version="01.00" update_version_required="01.01">
+        <patch description="Language Spanish Only" pkg_required_version="01.00" update_version_required="01.00">
+            <file path="Media/StreamingAssets/VOEnglish.bank"/>
+            <file path="Media/StreamingAssets/VOFrench.bank"/>
+            <file path="Media/StreamingAssets/VOGerman.bank"/>
+            <file path="Media/StreamingAssets/VOItalian.bank"/>
+        </patch>
+        <patch description="Language German Only" pkg_required_version="01.00" update_version_required="01.00">
+            <file path="Media/StreamingAssets/VOEnglish.bank"/>
+            <file path="Media/StreamingAssets/VOFrench.bank"/>
+            <file path="Media/StreamingAssets/VOSpanish.bank"/>
+            <file path="Media/StreamingAssets/VOItalian.bank"/>
+        </patch>
+        <patch description="Language English Only" pkg_required_version="01.00" update_version_required="01.00">
+            <file path="Media/StreamingAssets/VOGerman.bank"/>
+            <file path="Media/StreamingAssets/VOFrench.bank"/>
+            <file path="Media/StreamingAssets/VOSpanish.bank"/>
+            <file path="Media/StreamingAssets/VOItalian.bank"/>
+        </patch>
+        <patch description="Language French Only" pkg_required_version="01.00" update_version_required="01.00">
+            <file path="Media/StreamingAssets/VOGerman.bank"/>
+            <file path="Media/StreamingAssets/VOEnglish.bank"/>
+            <file path="Media/StreamingAssets/VOSpanish.bank"/>
+            <file path="Media/StreamingAssets/VOItalian.bank"/>
+        </patch>
+        <patch description="Language Italian Only" pkg_required_version="01.00" update_version_required="01.00">
+            <file path="Media/StreamingAssets/VOEnglish.bank"/>
+            <file path="Media/StreamingAssets/VOFrench.bank"/>
+            <file path="Media/StreamingAssets/VOSpanish.bank"/>
+            <file path="Media/StreamingAssets/VOGerman.bank"/>
+        </patch>
+        <patch description="Removes all duplicate content from update 01.01" pkg_required_version="01.00" update_version_required="01.01">
             <file path="Media/SymbolMap"/>
             <file path="Media/globalgamemanagers"/>
             <file path="Media/globalgamemanagers.assets"/>
@@ -78,10 +108,6 @@
             <file path="Media/sharedassets9.assets"/>
             <file path="Media/Metadata/global-metadata.dat"/>
             <file path="Media/StreamingAssets/Master.bank"/>
-            <file path="Media/StreamingAssets/VOEnglish.bank"/>
-            <file path="Media/StreamingAssets/VOFrench.bank"/>
-            <file path="Media/StreamingAssets/VOGerman.bank"/>
-            <file path="Media/StreamingAssets/VOItalian.bank"/>
         </patch>
         <patch description="fake patch to link the update with your base.pkg file" pkg_required_version="01.01" update_version_required="01.01"/>        
     </patches>

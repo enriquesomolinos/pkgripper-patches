@@ -23,4 +23,4 @@ TBD
  
 ## Colaboration
 
-Any can add more patches simply doing a merge request. 
+Any can add more patches simply doing a merge request or open an issue and I'll add it. 

@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <pkgpatch>
-    <patchInfo description="Removes unnecesary content and all languages except spanish" title_id="CUSA27897" content_id="UP0777-CUSA27897_00-MSGNASCAR21XXXXX">
+    <patchInfo description="Removes unnecesary content" title_id="CUSA27897" content_id="UP0777-CUSA27897_00-MSGNASCAR21XXXXX">
     </patchInfo>
     <patches>
-        <patch description="Removes all duplicate content from update 01.01 and all languages except spanish" pkg_required_version="01.00" update_version_required="01.30">
+        <patch description="Removes all duplicate content from update 01.30" pkg_required_version="01.00" update_version_required="01.30">
             <file path="assets/controllers/ps4/logitech g29.json"/>
             <file path="assets/controllers/fanatec csl ps4.json"/>
             <file path="assets/controllers/fanatec csr elite.json"/>
@@ -732,7 +732,7 @@
             <file path="nascarnext/content/origpath.ue4deepmeta"/>
             <file path="nascarnext/origpath.ue4deepmeta"/>
         </patch>
-        <patch description="Removes not spanish language audio files " pkg_required_version="01.30" update_version_required="01.30">
+        <patch description="Language Spanish Only" pkg_required_version="01.30" update_version_required="01.30">
             <file path="nascarnext/content/fmod/ps4/vo_sportscaster_bra.bank"/>
             <file path="nascarnext/content/fmod/ps4/vo_sportscaster_en.bank"/>
             <file path="nascarnext/content/fmod/ps4/vo_sportscaster_fre.bank"/>
@@ -744,6 +744,67 @@
             <file path="nascarnext/content/fmod/ps4/vospotter_fixed_names_ger.bank"/>
             <file path="nascarnext/content/fmod/ps4/vospotter_fixed_names_ita.bank"/>
         </patch>
+        <patch description="Language English Only" pkg_required_version="01.30" update_version_required="01.30">
+            <file path="nascarnext/content/fmod/ps4/vo_sportscaster_bra.bank"/>
+            <file path="nascarnext/content/fmod/ps4/vo_sportscaster_spa.bank"/>
+            <file path="nascarnext/content/fmod/ps4/vo_sportscaster_fre.bank"/>
+            <file path="nascarnext/content/fmod/ps4/vo_sportscaster_ger.bank"/>
+            <file path="nascarnext/content/fmod/ps4/vo_sportscaster_ita.bank"/>
+            <file path="nascarnext/content/fmod/ps4/vospotter_fixed_names_bra.bank"/>
+            <file path="nascarnext/content/fmod/ps4/vospotter_fixed_names_spa.bank"/>
+            <file path="nascarnext/content/fmod/ps4/vospotter_fixed_names_fre.bank"/>
+            <file path="nascarnext/content/fmod/ps4/vospotter_fixed_names_ger.bank"/>
+            <file path="nascarnext/content/fmod/ps4/vospotter_fixed_names_ita.bank"/>
+        </patch>
+        <patch description="Language Brazilian Only" pkg_required_version="01.30" update_version_required="01.30">
+            <file path="nascarnext/content/fmod/ps4/vo_sportscaster_en.bank"/>
+            <file path="nascarnext/content/fmod/ps4/vo_sportscaster_spa.bank"/>
+            <file path="nascarnext/content/fmod/ps4/vo_sportscaster_fre.bank"/>
+            <file path="nascarnext/content/fmod/ps4/vo_sportscaster_ger.bank"/>
+            <file path="nascarnext/content/fmod/ps4/vo_sportscaster_ita.bank"/>
+            <file path="nascarnext/content/fmod/ps4/vospotter_fixed_names_en.bank"/>
+            <file path="nascarnext/content/fmod/ps4/vospotter_fixed_names_spa.bank"/>
+            <file path="nascarnext/content/fmod/ps4/vospotter_fixed_names_fre.bank"/>
+            <file path="nascarnext/content/fmod/ps4/vospotter_fixed_names_ger.bank"/>
+            <file path="nascarnext/content/fmod/ps4/vospotter_fixed_names_ita.bank"/>
+        </patch>
+        <patch description="Language Frech Only" pkg_required_version="01.30" update_version_required="01.30">
+            <file path="nascarnext/content/fmod/ps4/vo_sportscaster_en.bank"/>
+            <file path="nascarnext/content/fmod/ps4/vo_sportscaster_spa.bank"/>
+            <file path="nascarnext/content/fmod/ps4/vo_sportscaster_bra.bank"/>
+            <file path="nascarnext/content/fmod/ps4/vo_sportscaster_ger.bank"/>
+            <file path="nascarnext/content/fmod/ps4/vo_sportscaster_ita.bank"/>
+            <file path="nascarnext/content/fmod/ps4/vospotter_fixed_names_en.bank"/>
+            <file path="nascarnext/content/fmod/ps4/vospotter_fixed_names_spa.bank"/>
+            <file path="nascarnext/content/fmod/ps4/vospotter_fixed_names_bra.bank"/>
+            <file path="nascarnext/content/fmod/ps4/vospotter_fixed_names_ger.bank"/>
+            <file path="nascarnext/content/fmod/ps4/vospotter_fixed_names_ita.bank"/>
+        </patch>
+        <patch description="Language German Only" pkg_required_version="01.30" update_version_required="01.30">
+            <file path="nascarnext/content/fmod/ps4/vo_sportscaster_en.bank"/>
+            <file path="nascarnext/content/fmod/ps4/vo_sportscaster_spa.bank"/>
+            <file path="nascarnext/content/fmod/ps4/vo_sportscaster_bra.bank"/>
+            <file path="nascarnext/content/fmod/ps4/vo_sportscaster_fre.bank"/>
+            <file path="nascarnext/content/fmod/ps4/vo_sportscaster_ita.bank"/>
+            <file path="nascarnext/content/fmod/ps4/vospotter_fixed_names_en.bank"/>
+            <file path="nascarnext/content/fmod/ps4/vospotter_fixed_names_spa.bank"/>
+            <file path="nascarnext/content/fmod/ps4/vospotter_fixed_names_bra.bank"/>
+            <file path="nascarnext/content/fmod/ps4/vospotter_fixed_names_fre.bank"/>
+            <file path="nascarnext/content/fmod/ps4/vospotter_fixed_names_ita.bank"/>
+        </patch>
+        <patch description="Language Italian Only" pkg_required_version="01.30" update_version_required="01.30">
+            <file path="nascarnext/content/fmod/ps4/vo_sportscaster_en.bank"/>
+            <file path="nascarnext/content/fmod/ps4/vo_sportscaster_spa.bank"/>
+            <file path="nascarnext/content/fmod/ps4/vo_sportscaster_bra.bank"/>
+            <file path="nascarnext/content/fmod/ps4/vo_sportscaster_fre.bank"/>
+            <file path="nascarnext/content/fmod/ps4/vo_sportscaster_ger.bank"/>
+            <file path="nascarnext/content/fmod/ps4/vospotter_fixed_names_en.bank"/>
+            <file path="nascarnext/content/fmod/ps4/vospotter_fixed_names_spa.bank"/>
+            <file path="nascarnext/content/fmod/ps4/vospotter_fixed_names_bra.bank"/>
+            <file path="nascarnext/content/fmod/ps4/vospotter_fixed_names_fre.bank"/>
+            <file path="nascarnext/content/fmod/ps4/vospotter_fixed_names_ger.bank"/>
+        </patch>
+        
     </patches>
 
 </pkgpatch>
