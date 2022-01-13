@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA25234" content_id="EP2037-CUSA25234_00-DKALLIANCE01EURO" />
+  <patches>
+    <patch description="Duplicated content from 01.08" pkg_required_version="01.00" update_version_required="01.08">
+      <file path="coth/content/paks/pakchunk0-ps4.pak" />
+      <file path="coth/content/paks/pakchunk1-ps4.pak" />
+      <file path="coth/content/paks/pakchunk10-ps4.pak" />
+      <file path="coth/content/paks/pakchunk11-ps4.pak" />
+      <file path="coth/content/paks/pakchunk12-ps4.pak" />
+      <file path="coth/content/paks/pakchunk13-ps4.pak" />
+      <file path="coth/content/paks/pakchunk14-ps4.pak" />
+      <file path="coth/content/paks/pakchunk2-ps4.pak" />
+      <file path="coth/content/paks/pakchunk24-ps4.pak" />
+      <file path="coth/content/paks/pakchunk25-ps4.pak" />
+      <file path="coth/content/paks/pakchunk3-ps4.pak" />
+      <file path="coth/content/paks/pakchunk30-ps4.pak" />
+      <file path="coth/content/paks/pakchunk32-ps4.pak" />
+      <file path="coth/content/paks/pakchunk34-ps4.pak" />
+      <file path="coth/content/paks/pakchunk38-ps4.pak" />
+      <file path="coth/content/paks/pakchunk39-ps4.pak" />
+      <file path="coth/content/paks/pakchunk4-ps4.pak" />
+      <file path="coth/content/paks/pakchunk40-ps4.pak" />
+      <file path="coth/content/paks/pakchunk5-ps4.pak" />
+      <file path="coth/content/paks/pakchunk6-ps4.pak" />
+      <file path="coth/content/paks/pakchunk8-ps4.pak" />
+    </patch>
+    <patch description="fake update" pkg_required_version="01.08" update_version_required="01.08" />
+  </patches>
+</pkgpatch>
