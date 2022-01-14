@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA15778" content_id="EP0001-CUSA15778_00-FARCRY6GAME00000" />
+  <patches>
+    <patch description="Duplicated content from update 01.06" pkg_required_version="01.00" update_version_required="01.06">
+      <file path="data_final/orbis/gnm/shadersobj.dat" />
+      <file path="data_final/orbis/gnm/shadersobj.fat" />
+      <file path="data_final/orbis/worlds/fctber_disk.dat" />
+      <file path="data_final/orbis/worlds/fctber_disk.fat" />
+      <file path="data_final/orbis/worlds/fctber_disk_english.dat" />
+      <file path="data_final/orbis/worlds/fctber_disk_english.fat" />
+      <file path="data_final/orbis/worlds/fctworlds.dat" />
+      <file path="data_final/orbis/worlds/fctworlds.fat" />
+      <file path="data_final/orbis/worlds/fctworlds_english.dat" />
+      <file path="data_final/orbis/worlds/fctworlds_english.fat" />
+      <file path="data_final/orbis/worlds/installpkg.dat" />
+      <file path="data_final/orbis/worlds/installpkg.fat" />
+      <file path="data_final/orbis/worlds/installpkg_english.dat" />
+      <file path="data_final/orbis/worlds/installpkg_english.fat" />
+      <file path="data_final/orbis/common.dat" />
+      <file path="data_final/orbis/common.fat" />
+      <file path="data_final/orbis/nomad.loc" />
+    </patch>
+    <patch description="Language Spanish Only" pkg_required_version="01.06" update_version_required="01.06">
+      <file path="data_final/orbis/worlds/installpkg_brazilian.dat" />
+      <file path="data_final/orbis/worlds/installpkg_brazilian.fat" />
+      <file path="data_final/orbis/worlds/installpkg_english.dat" />
+      <file path="data_final/orbis/worlds/installpkg_english.fat" />
+      <file path="data_final/orbis/worlds/installpkg_french.dat" />
+      <file path="data_final/orbis/worlds/installpkg_french.fat" />
+      <file path="data_final/orbis/worlds/installpkg_german.dat" />
+      <file path="data_final/orbis/worlds/installpkg_german.fat" />
+      <file path="data_final/orbis/worlds/installpkg_mexican.dat" />
+      <file path="data_final/orbis/worlds/installpkg_mexican.fat" />
+    </patch>
+    <patch description="Language Brazilian Only" pkg_required_version="01.06" update_version_required="01.06">
+      
+      <file path="data_final/orbis/worlds/installpkg_english.dat" />
+      <file path="data_final/orbis/worlds/installpkg_english.fat" />
+      <file path="data_final/orbis/worlds/installpkg_french.dat" />
+      <file path="data_final/orbis/worlds/installpkg_french.fat" />
+      <file path="data_final/orbis/worlds/installpkg_german.dat" />
+      <file path="data_final/orbis/worlds/installpkg_german.fat" />
+      <file path="data_final/orbis/worlds/installpkg_mexican.dat" />
+      <file path="data_final/orbis/worlds/installpkg_mexican.fat" />
+      <file path="data_final/orbis/worlds/installpkg_spanish.dat" />
+      <file path="data_final/orbis/worlds/installpkg_spanish.fat" />
+    </patch>
+    <patch description="Language English Only" pkg_required_version="01.06" update_version_required="01.06">
+      
+      <file path="data_final/orbis/worlds/installpkg_french.dat" />
+      <file path="data_final/orbis/worlds/installpkg_french.fat" />
+      <file path="data_final/orbis/worlds/installpkg_german.dat" />
+      <file path="data_final/orbis/worlds/installpkg_german.fat" />
+      <file path="data_final/orbis/worlds/installpkg_mexican.dat" />
+      <file path="data_final/orbis/worlds/installpkg_mexican.fat" />
+      <file path="data_final/orbis/worlds/installpkg_spanish.dat" />
+      <file path="data_final/orbis/worlds/installpkg_spanish.fat" />
+      <file path="data_final/orbis/worlds/installpkg_brazilian.dat" />
+      <file path="data_final/orbis/worlds/installpkg_brazilian.fat" />
+    </patch>
+    <patch description="Language French Only" pkg_required_version="01.06" update_version_required="01.06">
+      
+      <file path="data_final/orbis/worlds/installpkg_german.dat" />
+      <file path="data_final/orbis/worlds/installpkg_german.fat" />
+      <file path="data_final/orbis/worlds/installpkg_mexican.dat" />
+      <file path="data_final/orbis/worlds/installpkg_mexican.fat" />
+      <file path="data_final/orbis/worlds/installpkg_spanish.dat" />
+      <file path="data_final/orbis/worlds/installpkg_spanish.fat" />
+      <file path="data_final/orbis/worlds/installpkg_brazilian.dat" />
+      <file path="data_final/orbis/worlds/installpkg_brazilian.fat" />
+        <file path="data_final/orbis/worlds/installpkg_english.dat" />
+      <file path="data_final/orbis/worlds/installpkg_english.fat" />
+    </patch>
+    <patch description="Language German Only" pkg_required_version="01.06" update_version_required="01.06">
+      
+      <file path="data_final/orbis/worlds/installpkg_mexican.dat" />
+      <file path="data_final/orbis/worlds/installpkg_mexican.fat" />
+      <file path="data_final/orbis/worlds/installpkg_spanish.dat" />
+      <file path="data_final/orbis/worlds/installpkg_spanish.fat" />
+      <file path="data_final/orbis/worlds/installpkg_brazilian.dat" />
+      <file path="data_final/orbis/worlds/installpkg_brazilian.fat" />
+      <file path="data_final/orbis/worlds/installpkg_english.dat" />
+      <file path="data_final/orbis/worlds/installpkg_english.fat" />
+      <file path="data_final/orbis/worlds/installpkg_french.dat" />
+      <file path="data_final/orbis/worlds/installpkg_french.fat" />
+    </patch>
+    <patch description="Language Mexican Only" pkg_required_version="01.06" update_version_required="01.06">
+     
+      <file path="data_final/orbis/worlds/installpkg_spanish.dat" />
+      <file path="data_final/orbis/worlds/installpkg_spanish.fat" />
+      <file path="data_final/orbis/worlds/installpkg_brazilian.dat" />
+      <file path="data_final/orbis/worlds/installpkg_brazilian.fat" />
+      <file path="data_final/orbis/worlds/installpkg_english.dat" />
+      <file path="data_final/orbis/worlds/installpkg_english.fat" />
+      <file path="data_final/orbis/worlds/installpkg_french.dat" />
+      <file path="data_final/orbis/worlds/installpkg_french.fat" />
+      <file path="data_final/orbis/worlds/installpkg_german.dat" />
+      <file path="data_final/orbis/worlds/installpkg_german.fat" />
+    </patch>
+  </patches>
+</pkgpatch>

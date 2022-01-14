@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA18673" content_id="EP4291-CUSA18673_00-CRYSIS3REMASTERE" />
+  <patches>
+    <patch description="Duplicated content from update 01.01" pkg_required_version="01.00" update_version_required="01.01">
+      <file path="C3/levels/canyon/filelist.xml" />
+      <file path="C3/levels/canyon/levelshadercache.pak" />
+      <file path="C3/levels/cave/filelist.xml" />
+      <file path="C3/levels/cave/levelshadercache.pak" />
+      <file path="C3/levels/endgame/filelist.xml" />
+      <file path="C3/levels/endgame/levelshadercache.pak" />
+      <file path="C3/levels/fields/filelist.xml" />
+      <file path="C3/levels/fields/levelshadercache.pak" />
+      <file path="C3/levels/islands/levelshadercache.pak" />
+      <file path="C3/levels/jailbreak/level.pak" />
+      <file path="C3/levels/jailbreak/levelshadercache.pak" />
+      <file path="C3/levels/nanosuit_showroom/levelshadercache.pak" />
+      <file path="C3/levels/river/filelist.xml" />
+      <file path="C3/levels/river/levelshadercache.pak" />
+      <file path="C3/levels/river2/filelist.xml" />
+      <file path="C3/levels/river2/levelshadercache.pak" />
+      <file path="C3/levels/swamp/levelshadercache.pak" />
+      <file path="C3/levels/tutorial/level.pak" />
+      <file path="C3/levels/tutorial/levelshadercache.pak" />
+      <file path="C3/objects-part0.pak" />
+      <file path="C3/objects-part1.pak" />
+      <file path="C3/objects-part2.pak" />
+      <file path="C3/videos-part0.pak" />
+      <file path="C3/videos-part1.pak" />
+      <file path="engine/config/cvargroups/sys_spec_full.cfg" />
+      <file path="engine/config/cvargroups/sys_spec_objectdetail.cfg" />
+      <file path="engine/config/cvargroups/sys_spec_particles.cfg" />
+      <file path="engine/config/cvargroups/sys_spec_postprocessing.cfg" />
+      <file path="engine/config/cvargroups/sys_spec_quality.cfg" />
+      <file path="engine/config/cvargroups/sys_spec_shading.cfg" />
+      <file path="engine/config/cvargroups/sys_spec_shadows.cfg" />
+      <file path="engine/config/cvargroups/sys_spec_water.cfg" />
+      <file path="engine/config/gpu/amd.txt" />
+      <file path="engine/config/gpu/nvidia.txt" />
+      <file path="engine/config/console.cfg" />
+      <file path="engine/config/durango-xss.cfg" />
+      <file path="engine/config/durango-xsx.cfg" />
+      <file path="engine/config/durango.cfg" />
+      <file path="engine/config/orbis-ps5.cfg" />
+      <file path="engine/config/orbis.cfg" />
+      <file path="engine/config/pc.cfg" />
+      <file path="engine/engine.pak" />
+      <file path="engine/shadercache.pak" />
+      <file path="engine/shadercachestartup.pak" />
+    </patch>
+    <patch description="Language Chinesse Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="localization/czech.pak" />
+      <file path="localization/english.pak" />
+      <file path="localization/french.pak" />
+      <file path="localization/german.pak" />
+      <file path="localization/italian.pak" />
+      <file path="localization/japanese.pak" />
+      <file path="localization/polish.pak" />
+      <file path="localization/russian.pak" />
+      <file path="localization/spanish.pak" />
+      <file path="localization/turkish.pak" />
+    </patch>
+    <patch description="Language Czech Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="localization/english.pak" />
+      <file path="localization/french.pak" />
+      <file path="localization/german.pak" />
+      <file path="localization/italian.pak" />
+      <file path="localization/japanese.pak" />
+      <file path="localization/polish.pak" />
+      <file path="localization/russian.pak" />
+      <file path="localization/spanish.pak" />
+      <file path="localization/turkish.pak" />
+      <file path="localization/chineset.pak" />
+    </patch>
+    <patch description="Language English Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="localization/french.pak" />
+      <file path="localization/german.pak" />
+      <file path="localization/italian.pak" />
+      <file path="localization/japanese.pak" />
+      <file path="localization/polish.pak" />
+      <file path="localization/russian.pak" />
+      <file path="localization/spanish.pak" />
+      <file path="localization/turkish.pak" />
+      <file path="localization/chineset.pak" />
+      <file path="localization/czech.pak" />
+    </patch>
+    <patch description="Language French Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="localization/german.pak" />
+      <file path="localization/italian.pak" />
+      <file path="localization/japanese.pak" />
+      <file path="localization/polish.pak" />
+      <file path="localization/russian.pak" />
+      <file path="localization/spanish.pak" />
+      <file path="localization/turkish.pak" />
+      <file path="localization/chineset.pak" />
+      <file path="localization/czech.pak" />
+      <file path="localization/english.pak" />
+    </patch>
+    <patch description="Language German Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="localization/italian.pak" />
+      <file path="localization/japanese.pak" />
+      <file path="localization/polish.pak" />
+      <file path="localization/russian.pak" />
+      <file path="localization/spanish.pak" />
+      <file path="localization/turkish.pak" />
+      <file path="localization/chineset.pak" />
+      <file path="localization/czech.pak" />
+      <file path="localization/english.pak" />
+      <file path="localization/french.pak" />
+    </patch>
+    <patch description="Language Italian Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="localization/japanese.pak" />
+      <file path="localization/polish.pak" />
+      <file path="localization/russian.pak" />
+      <file path="localization/spanish.pak" />
+      <file path="localization/turkish.pak" />
+      <file path="localization/chineset.pak" />
+      <file path="localization/czech.pak" />
+      <file path="localization/english.pak" />
+      <file path="localization/french.pak" />
+      <file path="localization/german.pak" />
+    </patch>
+    <patch description="Language Japanese Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="localization/polish.pak" />
+      <file path="localization/russian.pak" />
+      <file path="localization/spanish.pak" />
+      <file path="localization/turkish.pak" />
+      <file path="localization/chineset.pak" />
+      <file path="localization/czech.pak" />
+      <file path="localization/english.pak" />
+      <file path="localization/french.pak" />
+      <file path="localization/german.pak" />
+      <file path="localization/italian.pak" />
+    </patch>
+    <patch description="Language Polish Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="localization/russian.pak" />
+      <file path="localization/spanish.pak" />
+      <file path="localization/turkish.pak" />
+      <file path="localization/chineset.pak" />
+      <file path="localization/czech.pak" />
+      <file path="localization/english.pak" />
+      <file path="localization/french.pak" />
+      <file path="localization/german.pak" />
+      <file path="localization/italian.pak" />
+      <file path="localization/japanese.pak" />
+    </patch>
+    <patch description="Language Russian Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="localization/spanish.pak" />
+      <file path="localization/turkish.pak" />
+      <file path="localization/chineset.pak" />
+      <file path="localization/czech.pak" />
+      <file path="localization/english.pak" />
+      <file path="localization/french.pak" />
+      <file path="localization/german.pak" />
+      <file path="localization/italian.pak" />
+      <file path="localization/japanese.pak" />
+      <file path="localization/polish.pak" />
+    </patch>
+    <patch description="Language Spanish Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="localization/turkish.pak" />
+      <file path="localization/chineset.pak" />
+      <file path="localization/czech.pak" />
+      <file path="localization/english.pak" />
+      <file path="localization/french.pak" />
+      <file path="localization/german.pak" />
+      <file path="localization/italian.pak" />
+      <file path="localization/japanese.pak" />
+      <file path="localization/polish.pak" />
+      <file path="localization/russian.pak" />
+    </patch>
+    <patch description="Language Turkish Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="localization/chineset.pak" />
+      <file path="localization/czech.pak" />
+      <file path="localization/english.pak" />
+      <file path="localization/french.pak" />
+      <file path="localization/german.pak" />
+      <file path="localization/italian.pak" />
+      <file path="localization/japanese.pak" />
+      <file path="localization/polish.pak" />
+      <file path="localization/russian.pak" />
+      <file path="localization/spanish.pak" />
+    </patch>
+    <patch description="Fake patch" pkg_required_version="01.01" update_version_required="01.01" />
+  </patches>
+</pkgpatch>

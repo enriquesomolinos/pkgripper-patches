@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA01715" content_id="EP9000-CUSA01715_00-0000GODOFWAR3PS4" />
+  <patches>
+    <patch description="Language Spanish Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="DUTCH" />
+      <file path="ENGLISH" />
+      <file path="FRENCH" />
+      <file path="GERMAN" />
+      <file path="ITALIAN" />
+      <file path="POLISH" />
+      <file path="PORTUGUESE" />
+      <file path="RUSSIAN" />
+    </patch>
+    <patch description="Language Dutch Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="ENGLISH" />
+      <file path="FRENCH" />
+      <file path="GERMAN" />
+      <file path="ITALIAN" />
+      <file path="POLISH" />
+      <file path="PORTUGUESE" />
+      <file path="RUSSIAN" />
+      <file path="SPANISH" />
+    </patch>
+    <patch description="Language English Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="FRENCH" />
+      <file path="GERMAN" />
+      <file path="ITALIAN" />
+      <file path="POLISH" />
+      <file path="PORTUGUESE" />
+      <file path="RUSSIAN" />
+      <file path="SPANISH" />
+      <file path="DUTCH" />
+    </patch>
+    <patch description="Language French Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="GERMAN" />
+      <file path="ITALIAN" />
+      <file path="POLISH" />
+      <file path="PORTUGUESE" />
+      <file path="RUSSIAN" />
+      <file path="SPANISH" />
+      <file path="DUTCH" />
+      <file path="ENGLISH" />
+    </patch>
+    <patch description="Language German Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="ITALIAN" />
+      <file path="POLISH" />
+      <file path="PORTUGUESE" />
+      <file path="RUSSIAN" />
+      <file path="SPANISH" />
+      <file path="DUTCH" />
+      <file path="ENGLISH" />
+      <file path="FRENCH" />
+    </patch>
+    <patch description="Language italian Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="POLISH" />
+      <file path="PORTUGUESE" />
+      <file path="RUSSIAN" />
+      <file path="SPANISH" />
+      <file path="DUTCH" />
+      <file path="ENGLISH" />
+      <file path="FRENCH" />
+      <file path="GERMAN" />
+    </patch>
+    <patch description="Language Polish Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="PORTUGUESE" />
+      <file path="RUSSIAN" />
+      <file path="SPANISH" />
+      <file path="DUTCH" />
+      <file path="ENGLISH" />
+      <file path="FRENCH" />
+      <file path="GERMAN" />
+      <file path="ITALIAN" />
+    </patch>
+    <patch description="Language Portuguese Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="RUSSIAN" />
+      <file path="SPANISH" />
+      <file path="DUTCH" />
+      <file path="ENGLISH" />
+      <file path="FRENCH" />
+      <file path="GERMAN" />
+      <file path="ITALIAN" />
+      <file path="POLISH" />
+    </patch>
+    <patch description="Language Russian Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="SPANISH" />
+      <file path="DUTCH" />
+      <file path="ENGLISH" />
+      <file path="FRENCH" />
+      <file path="GERMAN" />
+      <file path="ITALIAN" />
+      <file path="POLISH" />
+      <file path="PORTUGUESE" />
+    </patch>
+    <patch description="No cinematics" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="EXEC/CINEMATICS" />
+      <file path="EXEC/SOUNDS/STREAMS_PS4/CINEMATICS" />
+    </patch>
+    <patch description="Fake patch" pkg_required_version="01.01" update_version_required="01.01" />
+  </patches>
+</pkgpatch>

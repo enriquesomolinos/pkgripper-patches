@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA05486" content_id="EP1003-CUSA05486_00-SKYRIMHDFULLGAME" />
+  <patches>
+    <patch description="Duplicated content from 01.17" pkg_required_version="01.00" update_version_required="01.17">
+      <file path="data/interface/translate_english.txt" />
+      <file path="data/interface/translate_french.txt" />
+      <file path="data/interface/translate_german.txt" />
+      <file path="data/interface/translate_italian.txt" />
+      <file path="data/interface/translate_polish.txt" />
+      <file path="data/interface/translate_russian.txt" />
+      <file path="data/interface/translate_spanish.txt" />
+      <file path="data/dawnguard.esm" />
+      <file path="data/dragonborn.esm" />
+      <file path="data/hearthfires.esm" />
+      <file path="data/skyrim - interface.bsa" />
+      <file path="data/skyrim - shaders.bsa" />
+      <file path="data/skyrim.esm" />
+      <file path="data/update.esm" />
+      <file path="Skyrim.ini" />
+      <file path="Skyrim_de.ini" />
+      <file path="Skyrim_es.ini" />
+      <file path="Skyrim_fr.ini" />
+      <file path="Skyrim_it.ini" />
+      <file path="Skyrim_pl.ini" />
+      <file path="Skyrim_ru.ini" />
+    </patch>
+    <patch description="Language German Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="data/skyrim - voices_en0.bsa" />
+      <file path="data/skyrim - voices_en1.bsa" />
+      <file path="data/skyrim - voices_es0.bsa" />
+      <file path="data/skyrim - voices_es1.bsa" />
+      <file path="data/skyrim - voices_fr0.bsa" />
+      <file path="data/skyrim - voices_fr1.bsa" />
+      <file path="data/skyrim - voices_it0.bsa" />
+      <file path="data/skyrim - voices_it1.bsa" />
+      <file path="data/skyrim - voices_pl0.bsa" />
+      <file path="data/skyrim - voices_pl1.bsa" />
+      <file path="data/skyrim - voices_ru0.bsa" />
+      <file path="data/skyrim - voices_ru1.bsa" />
+    </patch>
+    <patch description="Language English Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="data/skyrim - voices_es0.bsa" />
+      <file path="data/skyrim - voices_es1.bsa" />
+      <file path="data/skyrim - voices_fr0.bsa" />
+      <file path="data/skyrim - voices_fr1.bsa" />
+      <file path="data/skyrim - voices_it0.bsa" />
+      <file path="data/skyrim - voices_it1.bsa" />
+      <file path="data/skyrim - voices_pl0.bsa" />
+      <file path="data/skyrim - voices_pl1.bsa" />
+      <file path="data/skyrim - voices_ru0.bsa" />
+      <file path="data/skyrim - voices_ru1.bsa" />
+      <file path="data/skyrim - voices_de0.bsa" />
+      <file path="data/skyrim - voices_de1.bsa" />
+    </patch>
+    <patch description="Language Spanish Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="data/skyrim - voices_fr0.bsa" />
+      <file path="data/skyrim - voices_fr1.bsa" />
+      <file path="data/skyrim - voices_it0.bsa" />
+      <file path="data/skyrim - voices_it1.bsa" />
+      <file path="data/skyrim - voices_pl0.bsa" />
+      <file path="data/skyrim - voices_pl1.bsa" />
+      <file path="data/skyrim - voices_ru0.bsa" />
+      <file path="data/skyrim - voices_ru1.bsa" />
+      <file path="data/skyrim - voices_de0.bsa" />
+      <file path="data/skyrim - voices_de1.bsa" />
+      <file path="data/skyrim - voices_en0.bsa" />
+      <file path="data/skyrim - voices_en1.bsa" />
+    </patch>
+    <patch description="Language French Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="data/skyrim - voices_it0.bsa" />
+      <file path="data/skyrim - voices_it1.bsa" />
+      <file path="data/skyrim - voices_pl0.bsa" />
+      <file path="data/skyrim - voices_pl1.bsa" />
+      <file path="data/skyrim - voices_ru0.bsa" />
+      <file path="data/skyrim - voices_ru1.bsa" />
+      <file path="data/skyrim - voices_de0.bsa" />
+      <file path="data/skyrim - voices_de1.bsa" />
+      <file path="data/skyrim - voices_en0.bsa" />
+      <file path="data/skyrim - voices_en1.bsa" />
+      <file path="data/skyrim - voices_es0.bsa" />
+      <file path="data/skyrim - voices_es1.bsa" />
+    </patch>
+    <patch description="Language Italian Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="data/skyrim - voices_pl0.bsa" />
+      <file path="data/skyrim - voices_pl1.bsa" />
+      <file path="data/skyrim - voices_ru0.bsa" />
+      <file path="data/skyrim - voices_ru1.bsa" />
+      <file path="data/skyrim - voices_de0.bsa" />
+      <file path="data/skyrim - voices_de1.bsa" />
+      <file path="data/skyrim - voices_en0.bsa" />
+      <file path="data/skyrim - voices_en1.bsa" />
+      <file path="data/skyrim - voices_es0.bsa" />
+      <file path="data/skyrim - voices_es1.bsa" />
+      <file path="data/skyrim - voices_fr0.bsa" />
+      <file path="data/skyrim - voices_fr1.bsa" />
+    </patch>
+    <patch description="Language Polish Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="data/skyrim - voices_ru0.bsa" />
+      <file path="data/skyrim - voices_ru1.bsa" />
+      <file path="data/skyrim - voices_de0.bsa" />
+      <file path="data/skyrim - voices_de1.bsa" />
+      <file path="data/skyrim - voices_en0.bsa" />
+      <file path="data/skyrim - voices_en1.bsa" />
+      <file path="data/skyrim - voices_es0.bsa" />
+      <file path="data/skyrim - voices_es1.bsa" />
+      <file path="data/skyrim - voices_fr0.bsa" />
+      <file path="data/skyrim - voices_fr1.bsa" />
+      <file path="data/skyrim - voices_it0.bsa" />
+      <file path="data/skyrim - voices_it1.bsa" />
+    </patch>
+    <patch description="Language Russian Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="data/skyrim - voices_de0.bsa" />
+      <file path="data/skyrim - voices_de1.bsa" />
+      <file path="data/skyrim - voices_en0.bsa" />
+      <file path="data/skyrim - voices_en1.bsa" />
+      <file path="data/skyrim - voices_es0.bsa" />
+      <file path="data/skyrim - voices_es1.bsa" />
+      <file path="data/skyrim - voices_fr0.bsa" />
+      <file path="data/skyrim - voices_fr1.bsa" />
+      <file path="data/skyrim - voices_it0.bsa" />
+      <file path="data/skyrim - voices_it1.bsa" />
+      <file path="data/skyrim - voices_pl0.bsa" />
+      <file path="data/skyrim - voices_pl1.bsa" />
+    </patch>
+    <patch description="Fake patch" pkg_required_version="01.17" update_version_required="01.17" />
+  </patches>
+</pkgpatch>
