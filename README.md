@@ -17,6 +17,7 @@ These patches contains the information to remove contents from your own PS4 back
 | EP4291-CUSA18673_00-CRYSIS3REMASTERE 	| 10.0 GB               |  6.4 GB                   |  1.8 GB                  	|  6.4 GB                      	|
 | EP0001-CUSA15778_00-FARCRY6GAME00000 	| 34.8 GB               | 59.3 GB                   |  0.2 GB                  	| 46.6 GB                      	|
 | EP9000-CUSA01715_00-0000GODOFWAR3PS4 	| 40.0 GB               | 0.1 GB                    | 37.0 GB                  	|  0.1 GB                      	|
+| UP3376-CUSA20594_00-SSVISAGEGAMEPACK 	| 8.45 GB               | 0.13 GB                   | 8.32 GB                  	| 8.32 GB                      	|
 
 ## File structure
 
