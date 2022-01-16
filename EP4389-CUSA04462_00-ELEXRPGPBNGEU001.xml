@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA04462" content_id="EP4389-CUSA04462_00-ELEXRPGPBNGEU001" />
+  <patches>
+    <patch description="Duplicates from update 01.04" pkg_required_version="01.00" update_version_required="01.04">
+      <file path="data/extern/videos/epilog.bik" />
+      <file path="data/ini/ConfigDefault.xml" />
+      <file path="data/ini/credits.cre" />
+      <file path="data/packed/c_0_de.pak" />
+      <file path="data/packed/c_0_en.pak" />
+      <file path="data/packed/c_0_pl.pak" />
+      <file path="data/packed/c_1_de.pak" />
+      <file path="data/packed/c_1_en.pak" />
+      <file path="data/packed/c_1_pl.pak" />
+    </patch>
+    <patch description="Fake Patch" pkg_required_version="01.04" update_version_required="01.04" />
+  </patches>
+</pkgpatch>
