@@ -21,7 +21,7 @@ These patches contains the information to remove contents from your own PS4 back
 | EP1464-CUSA24653_00-AWREMASTERED0000 	| 27.8 GB               | 2.53 GB                   | 26.9 GB                  	| 26.9 GB                      	|
 | EP4497-CUSA16579_00-0000000000000001 	| 59.4 GB               | 33.6 GB                   | 40.8 GB                  	| 40.8 GB                      	|
 | EP4389-CUSA04462_00-ELEXRPGPBNGEU001 	| 22.8 GB               | 18.6 GB                   | 4.9 GB                  	| 4.9 GB                      	|
-
+| EP2165-CUSA15639_00-LOF2GAMEEUXXXXXX 	| 11.7 GB               | 0.5 GB                    | 11.4 GB                  	| 11.4 GB                      	|
 
 
 
