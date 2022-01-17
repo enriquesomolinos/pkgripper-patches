@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA15639" content_id="EP2165-CUSA15639_00-LOF2GAMEEUXXXXXX" />
+  <patches>
+    <patch description="Duplicates from patch 01.02" pkg_required_version="01.00" update_version_required="01.02">
+      <file path="lof2/content/movies/ch1/cinema/ch1_cinema_movie.mp4" />
+      <file path="lof2/content/movies/ch2/cinema/ch2_cinema_movie.mp4" />
+      <file path="lof2/content/movies/ch3/cinema/ch3_cinema_movie.mp4" />
+      <file path="lof2/content/movies/ch4/cinema/ch4_cinema_movie.mp4" />
+      <file path="lof2/content/movies/ch5/cinema/ch5_cinema_movie.mp4" />
+      <file path="lof2/content/movies/endings/brother/ending_brother_pl.srt" />
+      <file path="lof2/content/paks/pakchunk0-ps4.pak" />
+      <file path="lof2/content/paks/pakchunk1-ps4.pak" />
+      <file path="lof2/content/paks/pakchunk10-ps4.pak" />
+      <file path="lof2/content/paks/pakchunk15-ps4.pak" />
+      <file path="lof2/content/paks/pakchunk2-ps4.pak" />
+      <file path="lof2/content/paks/pakchunk3-ps4.pak" />
+    </patch>
+    <patch description="fake update" pkg_required_version="01.02" update_version_required="01.02" />
+  </patches>
+</pkgpatch>
