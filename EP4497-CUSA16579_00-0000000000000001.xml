@@ -2,7 +2,7 @@
 <pkgpatch>
   <patchInfo description="" title_id="CUSA16579" content_id="EP4497-CUSA16579_00-0000000000000001" />
   <patches>
-    <patch description="Duplicates from update 1.31 + Language English Only" pkg_required_version="01.00" update_version_required="01.31">
+    <patch description="Duplicates from update 01.31" pkg_required_version="01.00" update_version_required="01.31">
       <file path="archive/ps4/content/basegame_1_engine.archive" />
       <file path="archive/ps4/content/basegame_2_mainmenu.archive" />
       <file path="archive/ps4/content/basegame_3_nightcity.archive" />
@@ -29,75 +29,23 @@
       <file path="r6/config/inputDeadzones.xml" />
       <file path="r6/config/inputUserMappings.xml" />
       <file path="r6/config/uiInputActions.xml" />
+    </patch>
+    <patch description="Language English Only" pkg_required_version="01.00" update_version_required="01.00">
       <file path="archive/ps4/content/lang_pl_voice.archive" />
       <file path="archive/ps4/content/lang_ru_voice.archive" />
     </patch>
-    <patch description="Duplicates from update 1.31 + Language Polish Only" pkg_required_version="01.00" update_version_required="01.31">
-      <file path="archive/ps4/content/basegame_1_engine.archive" />
-      <file path="archive/ps4/content/basegame_2_mainmenu.archive" />
-      <file path="archive/ps4/content/basegame_3_nightcity.archive" />
-      <file path="archive/ps4/content/basegame_3_nightcity_terrain.archive" />
-      <file path="archive/ps4/content/basegame_4_animation.archive" />
-      <file path="archive/ps4/content/basegame_4_appearance.archive" />
-      <file path="archive/ps4/content/basegame_4_gamedata.archive" />
-      <file path="archive/ps4/content/lang_ar_text.archive" />
-      <file path="archive/ps4/content/lang_cs_text.archive" />
-      <file path="archive/ps4/content/lang_en_text.archive" />
-      <file path="archive/ps4/content/lang_hu_text.archive" />
-      <file path="archive/ps4/content/lang_pl_text.archive" />
-      <file path="archive/ps4/content/lang_ru_text.archive" />
-      <file path="archive/ps4/content/lang_tr_text.archive" />
-      <file path="engine/config/base/general.ini" />
-      <file path="engine/shaderps4_final.cache" />
-      <file path="engine/staticshaderps4_final.cache" />
-      <file path="r6/cache/final.redscripts" />
-      <file path="r6/cache/tweakdb.bin" />
-      <file path="r6/config/settings/platform/orbis/options.json" />
-      <file path="r6/config/settings/options.json" />
-      <file path="r6/config/bumpersSettings.json" />
-      <file path="r6/config/inputContexts.xml" />
-      <file path="r6/config/inputDeadzones.xml" />
-      <file path="r6/config/inputUserMappings.xml" />
-      <file path="r6/config/uiInputActions.xml" />
+    <patch description="Language Polish Only" pkg_required_version="01.00" update_version_required="01.00">
       <file path="archive/ps4/content/lang_ru_voice.archive" />
       <file path="archive/ps4/content/lang_en_voice.archive" />
     </patch>
-    <patch description="Duplicates from update 1.31 + Language Russian Only" pkg_required_version="01.00" update_version_required="01.31">
-      <file path="archive/ps4/content/basegame_1_engine.archive" />
-      <file path="archive/ps4/content/basegame_2_mainmenu.archive" />
-      <file path="archive/ps4/content/basegame_3_nightcity.archive" />
-      <file path="archive/ps4/content/basegame_3_nightcity_terrain.archive" />
-      <file path="archive/ps4/content/basegame_4_animation.archive" />
-      <file path="archive/ps4/content/basegame_4_appearance.archive" />
-      <file path="archive/ps4/content/basegame_4_gamedata.archive" />
-      <file path="archive/ps4/content/lang_ar_text.archive" />
-      <file path="archive/ps4/content/lang_cs_text.archive" />
-      <file path="archive/ps4/content/lang_en_text.archive" />
-      <file path="archive/ps4/content/lang_hu_text.archive" />
-      <file path="archive/ps4/content/lang_pl_text.archive" />
-      <file path="archive/ps4/content/lang_ru_text.archive" />
-      <file path="archive/ps4/content/lang_tr_text.archive" />
-      <file path="engine/config/base/general.ini" />
-      <file path="engine/shaderps4_final.cache" />
-      <file path="engine/staticshaderps4_final.cache" />
-      <file path="r6/cache/final.redscripts" />
-      <file path="r6/cache/tweakdb.bin" />
-      <file path="r6/config/settings/platform/orbis/options.json" />
-      <file path="r6/config/settings/options.json" />
-      <file path="r6/config/bumpersSettings.json" />
-      <file path="r6/config/inputContexts.xml" />
-      <file path="r6/config/inputDeadzones.xml" />
-      <file path="r6/config/inputUserMappings.xml" />
-      <file path="r6/config/uiInputActions.xml" />
+    <patch description="Language Russian Only" pkg_required_version="01.00" update_version_required="01.00">
       <file path="archive/ps4/content/lang_en_voice.archive" />
       <file path="archive/ps4/content/lang_pl_voice.archive" />
     </patch>
-    <patch description="Language Russian Only" pkg_required_version="01.31" update_version_required="01.31">
-      <file path="archive/ps4/patch/lang_pl_voice.archive" />
-    </patch>
-    <patch description="Language English Only" pkg_required_version="01.31" update_version_required="01.31">
-      <file path="archive/ps4/patch/lang_pl_voice.archive" />
-    </patch>
+    <patch description="Fake Update" pkg_required_version="01.31" update_version_required="01.31" />
     <patch description="Language Polish Only" pkg_required_version="01.31" update_version_required="01.31" />
+    <patch description="Language English/Russian Only" pkg_required_version="01.31" update_version_required="01.31">
+      <file path="archive/ps4/patch/lang_pl_voice.archive" />
+    </patch>
   </patches>
 </pkgpatch>
