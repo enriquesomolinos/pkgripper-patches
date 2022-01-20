@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<pkgpatch>
+  <patchInfo description="Remove Duplicate Files" title_id="CUSA15927" content_id="UP2387-CUSA15927_00-FURYUNLEASHED000" />
+  <patches>
+    <patch description="Remove Duplicate Files" pkg_required_version="01.00" update_version_required="01.09">
+      <file path="Media/Metadata/global-metadata.dat" />
+      <file path="Media/Resources/unity_builtin_extra" />
+      <file path="Media/StreamingAssets/AssetBundles/loadingatlases" />
+      <file path="Media/StreamingAssets/AssetBundles/playeratlas" />
+      <file path="Media/StreamingAssets/AssetBundles/playeratlaslow" />
+      <file path="Media/StreamingAssets/AssetBundles/spriteatlasbundle" />
+      <file path="Media/StreamingAssets/AssetBundles/w01additional" />
+      <file path="Media/StreamingAssets/AssetBundles/w01atlases" />
+      <file path="Media/StreamingAssets/AssetBundles/w01rooms" />
+      <file path="Media/StreamingAssets/AssetBundles/w01sketchatlases" />
+      <file path="Media/StreamingAssets/AssetBundles/w02additional" />
+      <file path="Media/StreamingAssets/AssetBundles/w02atlases" />
+      <file path="Media/StreamingAssets/AssetBundles/w02rooms" />
+      <file path="Media/StreamingAssets/AssetBundles/w02sketchatlases" />
+      <file path="Media/StreamingAssets/AssetBundles/w03additional" />
+      <file path="Media/StreamingAssets/AssetBundles/w03atlases" />
+      <file path="Media/StreamingAssets/AssetBundles/w03rooms" />
+      <file path="Media/StreamingAssets/AssetBundles/w03sketchatlases" />
+      <file path="Media/StreamingAssets/AssetBundles/w04additional" />
+      <file path="Media/StreamingAssets/AssetBundles/w04atlases" />
+      <file path="Media/StreamingAssets/AssetBundles/w04rooms" />
+      <file path="Media/StreamingAssets/FuryUnleashed_Placeholders_YetAnotherZombieDefence.bank" />
+      <file path="Media/StreamingAssets/FuryUnleashed_Sounds.bank" />
+      <file path="Media/StreamingAssets/FuryUnleashed_Sounds.strings.bank" />
+      <file path="Media/StreamingAssets/FuryUnleashed_Sounds_VanillaPostCERT.bank" />
+      <file path="Media/StreamingAssets/interactiveconfig.json" />
+      <file path="Media/globalgamemanagers" />
+      <file path="Media/globalgamemanagers.assets" />
+      <file path="Media/level0" />
+      <file path="Media/level1" />
+      <file path="Media/resources.assets" />
+      <file path="Media/resources.assets.resS" />
+      <file path="Media/sharedassets0.assets" />
+      <file path="Media/sharedassets1.assets" />
+      <file path="Media/sharedassets1.assets.resS" />
+    </patch>
+    <patch description="fake patch to link the update with your base.pkg file" pkg_required_version="01.09" update_version_required="01.09"/>  
+    </patches>
+</pkgpatch>
