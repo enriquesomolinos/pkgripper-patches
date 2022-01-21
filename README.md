@@ -4,24 +4,28 @@ These patches contains the information to remove contents from your own PS4 back
 
 
 ## Current patches
-| Game                                 	| Base pkg orig. size 	| Base pkg with pkgripper 	| Update pkg orig. size 	| Update pkg with pkgripper 	|
-|--------------------------------------	|---------------------	|-------------------------	|-----------------------	|---------------------------	|
-| EP1003-CUSA02092_00-DOOMEUROPEROWSKU 	| 45.9 GB             	| 28.5 GB                 	| 29 GB                 	| 24.8 GB                   	|
-| EP3678-CUSA17580_00-TRANSFOBASEGAME0 	| 3.2 GB              	| 2.1 GB                  	| 0.7 GB                	| 0.7 GB                    	|
-| EP4001-CUSA16283_00-F12020EMASTER000 	| 34.85 GB            	| 17.8 GB                 	| 18.5 GB               	| 15.5 GB                   	|
-| EP9000-CUSA12982_00-MEDIEVILHD000001 	| 20 GB               	| 8.0 GB                  	| 16 GB                 	| 16 GB                     	|
-| UP0777-CUSA27897_00-MSGNASCAR21XXXXX 	| 10.7 GB             	| 0.5                     	| 11.5 GB               	| 11.1                      	|
-| EP2037-CUSA25234_00-DKALLIANCE01EURO 	| 19.7 GB               | 1.2 GB                   	| 23.0 GB                  	| 23.0 GB                      	|
-| EP6665-CUSA27790_00-WRC10SIEE0000000 	| 25.3 GB               | 17.0 GB                   | 12.5 GB                  	| 11.4 GB                      	|
-| EP1003-CUSA05486_00-SKYRIMHDFULLGAME 	| 31.1 GB               | 12.4 GB                   |  2.8 GB                  	|  2.8 GB                      	|
-| EP4291-CUSA18673_00-CRYSIS3REMASTERE 	| 10.0 GB               | 1.8 GB                    |  6.4 GB                  	|  6.4 GB                      	|
-| EP0001-CUSA15778_00-FARCRY6GAME00000 	| 34.8 GB               | 0.2 GB                    |  59.3 GB                  | 46.6 GB                      	|
-| EP9000-CUSA01715_00-0000GODOFWAR3PS4 	| 40.0 GB               | 37.0 GB                   | 0.1 GB                  	|  0.1 GB                      	|
-| UP3376-CUSA20594_00-SSVISAGEGAMEPACK 	| 8.45 GB               | 0.13 GB                   | 8.32 GB                  	| 8.32 GB                      	|
-| EP1464-CUSA24653_00-AWREMASTERED0000 	| 27.8 GB               | 2.53 GB                   | 26.9 GB                  	| 26.9 GB                      	|
-| EP4497-CUSA16579_00-0000000000000001 	| 59.4 GB               | 26.4 GB                   | 40.8 GB                  	| 39.6 GB                      	|
-| EP4389-CUSA04462_00-ELEXRPGPBNGEU001 	| 22.8 GB               | 18.6 GB                   | 4.9 GB                  	| 4.9 GB                      	|
-| EP2165-CUSA15639_00-LOF2GAMEEUXXXXXX 	| 11.7 GB               | 0.5 GB                    | 11.4 GB                  	| 11.4 GB                      	|
+| Game                                 	| Base orig. size 	| Base ripped 	| Update orig. size 	| Update ripped 	| Space saved
+|--------------------------------------	|---------------------	|-------------------------	|-----------------------	|---------------------------	| ------------
+| EP1003-CUSA02092_00-DOOMEUROPEROWSKU 	| 45.9 GB             	| 28.5 GB                 	| 29 GB                 	| 24.8 GB                   	| 22 GB
+| EP3678-CUSA17580_00-TRANSFOBASEGAME0 	| 3.2 GB              	| 2.1 GB                  	| 0.7 GB                	| 0.7 GB                    	|  1 GB
+| EP4001-CUSA16283_00-F12020EMASTER000 	| 34.85 GB            	| 17.8 GB                 	| 18.5 GB               	| 15.5 GB                   	| 20 GB
+| EP9000-CUSA12982_00-MEDIEVILHD000001 	| 20 GB               	| 8.0 GB                  	| 16 GB                 	| 16 GB                     	| 12 GB
+| UP0777-CUSA27897_00-MSGNASCAR21XXXXX 	| 10.7 GB             	| 0.5                     	| 11.5 GB               	| 11.1                      	| 10 GB
+| EP2037-CUSA25234_00-DKALLIANCE01EURO 	| 19.7 GB               | 1.2 GB                   	| 23.0 GB                  	| 23.0 GB                      	| 18 GB
+| EP6665-CUSA27790_00-WRC10SIEE0000000 	| 25.3 GB               | 17.0 GB                   | 12.5 GB                  	| 11.4 GB                      	|  9 GB
+| EP1003-CUSA05486_00-SKYRIMHDFULLGAME 	| 31.1 GB               | 12.4 GB                   |  2.8 GB                  	|  2.8 GB                      	| 19 GB
+| EP4291-CUSA18673_00-CRYSIS3REMASTERE 	| 10.0 GB               | 1.8 GB                    |  6.4 GB                  	|  6.4 GB                      	|  8 GB
+| EP0001-CUSA15778_00-FARCRY6GAME00000 	| 34.8 GB               | 0.2 GB                    |  59.3 GB                  | 46.6 GB                      	| 48 GB
+| EP9000-CUSA01715_00-0000GODOFWAR3PS4 	| 40.0 GB               | 37.0 GB                   | 0.1 GB                  	|  0.1 GB                      	|  3 GB
+| UP3376-CUSA20594_00-SSVISAGEGAMEPACK 	| 8.45 GB               | 0.13 GB                   | 8.32 GB                  	| 8.32 GB                      	|  8 GB
+| EP1464-CUSA24653_00-AWREMASTERED0000 	| 27.8 GB               | 2.53 GB                   | 26.9 GB                  	| 26.9 GB                      	| 25 GB
+| EP4497-CUSA16579_00-0000000000000001 	| 59.4 GB               | 26.4 GB                   | 40.8 GB                  	| 39.6 GB                      	| 33 GB
+| EP4389-CUSA04462_00-ELEXRPGPBNGEU001 	| 22.8 GB               | 18.6 GB                   | 4.9 GB                  	| 4.9 GB                      	|  4 GB
+| EP2165-CUSA15639_00-LOF2GAMEEUXXXXXX 	| 11.7 GB               | 0.5 GB                    | 11.4 GB                  	| 11.4 GB                      	| 10 GB
+| EP2028-CUSA03144_00-WASTELAND2GTYPS4 	| 4.8 GB                | 0.6 GB                    | 2.0 GB                  	| 2.0 GB                      	|  4 GB
+| UP1001-CUSA15666_00-WWE2K20MAINSKU01 	| 45.9 GB               | 37.5 GB                   | 13.2 GB                  	| 13.2 GB                      	|  8 GB
+| EP0001-CUSA11560_00-AC3GAMEPS4000001 	| 39.0 GB               | 17.0 GB                   | 19.0 GB                  	| 18.6 GB                      	| 21 GB
+| EP1001-CUSA28235_00-NBA2K22000000000 	| 45.21 GB              | 37.0 GB                   | 46.89 GB                 	| 46.89 GB                     	|  8 GB
 
 
 
