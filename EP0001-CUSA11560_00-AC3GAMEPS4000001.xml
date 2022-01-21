@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA11560" content_id="EP0001-CUSA11560_00-AC3GAMEPS4000001" />
+  <patches>
+    <patch description="Duplicated content from update 01.03" pkg_required_version="01.00" update_version_required="01.03">
+      <file path="ACL/videos/de/intro_ger.bik" />
+      <file path="ACL/videos/en/intro_eng.bik" />
+      <file path="ACL/videos/fr/intro_fra.bik" />
+      <file path="ACL/videos/it/intro_ita.bik" />
+      <file path="ACL/videos/sp/intro_spa.bik" />
+      <file path="ACL/DataOrbis.forge" />
+      <file path="ACL/DataOrbis_ACV_ChichenItzaMines.forge" />
+      <file path="ACL/DataOrbis_ACV_Chichen_Itza.forge" />
+      <file path="ACL/DataOrbis_ACV_Final.forge" />
+      <file path="ACL/DataOrbis_ACV_HallOfRazors.forge" />
+      <file path="ACL/DataOrbis_ACV_New_Orleans.forge" />
+      <file path="ACL/DataOrbis_ACV_New_York.forge" />
+      <file path="ACL/DataOrbis_ACV_Swamp.forge" />
+      <file path="ACL/DataOrbis_ACV_TitleScreen.forge" />
+      <file path="ACL/DataOrbis_ACV_WhiteRoom.forge" />
+      <file path="DataOrbis.forge" />
+      <file path="DataOrbis_6_dlc.forge" />
+      <file path="DataOrbis_AC3_Boston.forge" />
+      <file path="DataOrbis_AC3_Boston_Under.forge" />
+      <file path="DataOrbis_AC3_Brewery.forge" />
+      <file path="DataOrbis_AC3_BunkerHill.forge" />
+      <file path="DataOrbis_AC3_Cozumel.forge" />
+      <file path="DataOrbis_AC3_DLC_BearSpirit_10_dlc.forge" />
+      <file path="DataOrbis_AC3_DLC_Boston_8_dlc.forge" />
+      <file path="DataOrbis_AC3_DLC_EagleSpirit_8_dlc.forge" />
+      <file path="DataOrbis_AC3_DLC_Frontier_6_dlc.forge" />
+      <file path="DataOrbis_AC3_FCTemple.forge" />
+      <file path="DataOrbis_AC3_Frontier.forge" />
+      <file path="DataOrbis_AC3_GhostShip.forge" />
+      <file path="DataOrbis_AC3_Homestead.forge" />
+      <file path="DataOrbis_AC3_NavCarSea.forge" />
+      <file path="DataOrbis_AC3_NavChesaBay.forge" />
+      <file path="DataOrbis_AC3_NavGenOcean.forge" />
+      <file path="DataOrbis_AC3_NavNACoast.forge" />
+      <file path="DataOrbis_AC3_NavPrivCar.forge" />
+      <file path="DataOrbis_AC3_NewYork.forge" />
+      <file path="DataOrbis_AC3_NewYork_Under.forge" />
+      <file path="DataOrbis_AC3_OakIsland.forge" />
+      <file path="DataOrbis_AC3_Opera.forge" />
+      <file path="DataOrbis_AC3_PadreIsland.forge" />
+      <file path="DataOrbis_TitleScreen.forge" />
+      <file path="DataOrbis_WhiteRoom.forge" />
+      <file path="DataOrbis_extra.forge" />
+      <file path="DataOrbis_extra_chr.forge" />
+      <file path="DataOrbis_extra_textures.forge" />
+      <file path="ac3_engine_orbis_fn.elf" />
+      <file path="acl_engine_orbis_fn.elf" />
+    </patch>
+    <patch description="Language Italian Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="ACL/videos/br" />
+      <file path="ACL/videos/de" />
+      <file path="ACL/videos/du" />
+      <file path="ACL/videos/en" />
+      <file path="ACL/videos/fr" />
+      <file path="ACL/videos/pl" />
+      <file path="ACL/videos/ru" />
+      <file path="ACL/videos/sp" />
+      <file path="ACL/sounddata/orbis/sounds_ger.pck" />
+      <file path="sounddata/PS4/sounds_bra.pck" />
+      <file path="sounddata/PS4/sounds_ger.pck" />
+      <file path="sounddata/PS4/sounds_rus.pck" />
+      <file path="ACL/sounddata/orbis/sounds_spa.pck" />
+      <file path="sounddata/PS4/sounds_spa.pck" />
+      <file path="ACL/sounddata/orbis/sounds_eng.pck" />
+      <file path="sounddata/PS4/sounds_eng.pck" />
+      <file path="ACL/sounddata/orbis/sounds_fre.pck" />
+      <file path="sounddata/PS4/sounds_fre.pck" />
+    </patch>
+    <patch description="Language French Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="ACL/videos/br" />
+      <file path="ACL/videos/de" />
+      <file path="ACL/videos/du" />
+      <file path="ACL/videos/en" />
+      <file path="ACL/videos/it" />
+      <file path="ACL/videos/pl" />
+      <file path="ACL/videos/ru" />
+      <file path="ACL/videos/sp" />
+      <file path="ACL/sounddata/orbis/sounds_ger.pck" />
+      <file path="sounddata/PS4/sounds_bra.pck" />
+      <file path="sounddata/PS4/sounds_ger.pck" />
+      <file path="sounddata/PS4/sounds_rus.pck" />
+      <file path="ACL/sounddata/orbis/sounds_spa.pck" />
+      <file path="sounddata/PS4/sounds_spa.pck" />
+      <file path="ACL/sounddata/orbis/sounds_eng.pck" />
+      <file path="sounddata/PS4/sounds_eng.pck" />
+      <file path="ACL/sounddata/orbis/sounds_ita.pck" />
+      <file path="sounddata/PS4/sounds_ita.pck" />
+    </patch>
+    <patch description="Language English Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="ACL/videos/br" />
+      <file path="ACL/videos/de" />
+      <file path="ACL/videos/du" />
+      <file path="ACL/videos/fr" />
+      <file path="ACL/videos/it" />
+      <file path="ACL/videos/pl" />
+      <file path="ACL/videos/ru" />
+      <file path="ACL/videos/sp" />
+      <file path="ACL/sounddata/orbis/sounds_ger.pck" />
+      <file path="sounddata/PS4/sounds_bra.pck" />
+      <file path="sounddata/PS4/sounds_ger.pck" />
+      <file path="sounddata/PS4/sounds_rus.pck" />
+      <file path="ACL/sounddata/orbis/sounds_spa.pck" />
+      <file path="sounddata/PS4/sounds_spa.pck" />
+      <file path="ACL/sounddata/orbis/sounds_ita.pck" />
+      <file path="sounddata/PS4/sounds_ita.pck" />
+      <file path="ACL/sounddata/orbis/sounds_fre.pck" />
+      <file path="sounddata/PS4/sounds_fre.pck" />
+    </patch>
+    <patch description="Language Spanish Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="ACL/videos/br" />
+      <file path="ACL/videos/de" />
+      <file path="ACL/videos/du" />
+      <file path="ACL/videos/fr" />
+      <file path="ACL/videos/it" />
+      <file path="ACL/videos/pl" />
+      <file path="ACL/videos/ru" />
+      <file path="ACL/videos/en" />
+      <file path="ACL/sounddata/orbis/sounds_ger.pck" />
+      <file path="sounddata/PS4/sounds_bra.pck" />
+      <file path="sounddata/PS4/sounds_ger.pck" />
+      <file path="sounddata/PS4/sounds_rus.pck" />
+      <file path="ACL/sounddata/orbis/sounds_ita.pck" />
+      <file path="sounddata/PS4/sounds_ita.pck" />
+      <file path="ACL/sounddata/orbis/sounds_fre.pck" />
+      <file path="sounddata/PS4/sounds_fre.pck" />
+      <file path="ACL/sounddata/orbis/sounds_eng.pck" />
+      <file path="sounddata/PS4/sounds_eng.pck" />
+    </patch>
+    <patch description="Language Spanish Only 01.03" pkg_required_version="01.03" update_version_required="01.03">
+      <file path="ACL/videos/de/intro_ger.bik" />
+      <file path="ACL/videos/en/intro_eng.bik" />
+      <file path="ACL/videos/fr/intro_fra.bik" />
+      <file path="ACL/videos/it/intro_ita.bik" />
+    </patch>
+    <patch description="Language Italian Only 01.03" pkg_required_version="01.03" update_version_required="01.03">
+      <file path="ACL/videos/de/intro_ger.bik" />
+      <file path="ACL/videos/en/intro_eng.bik" />
+      <file path="ACL/videos/fr/intro_fra.bik" />
+      <file path="ACL/videos/sp/intro_spa.bik" />
+    </patch>
+    <patch description="Language French Only 01.03" pkg_required_version="01.03" update_version_required="01.03">
+      <file path="ACL/videos/de/intro_ger.bik" />
+      <file path="ACL/videos/en/intro_eng.bik" />
+      <file path="ACL/videos/sp/intro_spa.bik" />
+      <file path="ACL/videos/it/intro_ita.bik" />
+    </patch>
+    <patch description="Language English Only 01.03" pkg_required_version="01.03" update_version_required="01.03">
+      <file path="ACL/videos/de/intro_ger.bik" />
+      <file path="ACL/videos/sp/intro_spa.bik" />
+      <file path="ACL/videos/it/intro_ita.bik" />
+      <file path="ACL/videos/fr/intro_fra.bik" />
+    </patch>
+  </patches>
+</pkgpatch>

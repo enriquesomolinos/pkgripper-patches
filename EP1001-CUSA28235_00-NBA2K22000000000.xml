@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA28235" content_id="EP1001-CUSA28235_00-NBA2K22000000000" />
+  <patches>
+    <patch description="Duplicated content from update 01.08" pkg_required_version="01.00" update_version_required="01.08">
+      <file path="0A" />
+      <file path="0D" />
+      <file path="0F" />
+      <file path="0H" />
+      <file path="0I" />
+      <file path="0L" />
+      <file path="0N" />
+      <file path="0P" />
+      <file path="0Q" />
+      <file path="0S" />
+      <file path="0V" />
+      <file path="0X" />
+      <file path="0Z" />
+      <file path="1A" />
+      <file path="1C" />
+      <file path="1E" />
+      <file path="1G" />
+      <file path="1J" />
+      <file path="1L" />
+      <file path="1N" />
+      <file path="1O" />
+      <file path="1R" />
+      <file path="1S" />
+      <file path="1V" />
+      <file path="1X" />
+      <file path="1Z" />
+      <file path="2B" />
+      <file path="2D" />
+      <file path="2E" />
+      <file path="2H" />
+      <file path="2J" />
+      <file path="2L" />
+      <file path="2M" />
+      <file path="2O" />
+      <file path="2Q" />
+      <file path="2T" />
+      <file path="2U" />
+      <file path="2Y" />
+      <file path="3A" />
+      <file path="3C" />
+      <file path="3E" />
+      <file path="3G" />
+      <file path="3I" />
+      <file path="3K" />
+      <file path="chunkinfo.bin" />
+    </patch>
+    <patch description="Fake patch" pkg_required_version="01.08" update_version_required="01.08" />
+  </patches>
+</pkgpatch>
