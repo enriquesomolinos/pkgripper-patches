@@ -26,7 +26,7 @@ These patches contains the information to remove contents from your own PS4 back
 | UP1001-CUSA15666_00-WWE2K20MAINSKU01 	| 45.9 GB               | 37.5 GB                   | 13.2 GB                  	| 13.2 GB                      	|  8 GB
 | EP0001-CUSA11560_00-AC3GAMEPS4000001 	| 39.0 GB               | 17.0 GB                   | 19.0 GB                  	| 18.6 GB                      	| 21 GB
 | EP1001-CUSA28235_00-NBA2K22000000000 	| 45.21 GB              | 37.0 GB                   | 46.89 GB                 	| 46.89 GB                     	|  8 GB
-
+| EP0001-CUSA13034_00-ORWFULLGAME00000 	| 28.7 GB               | 22.1 GB                   | 19.4 GB                 	| 16.1 GB                     	|  9 GB
 
 
 ## File structure
