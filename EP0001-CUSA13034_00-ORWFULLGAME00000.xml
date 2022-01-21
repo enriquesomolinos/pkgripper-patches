@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA13034" content_id="EP0001-CUSA13034_00-ORWFULLGAME00000" />
+  <patches>
+    <patch description="Duplicates from update 01.24" pkg_required_version="01.00" update_version_required="01.24">
+      <file path="data_orbis/worlds/london/london.dat" />
+      <file path="data_orbis/worlds/london/london.fat" />
+      <file path="data_orbis/worlds/london/london_cache.dat" />
+      <file path="data_orbis/worlds/london/london_cache.fat" />
+      <file path="data_orbis/worlds/london/london_preload.dat" />
+      <file path="data_orbis/worlds/london/london_preload.fat" />
+      <file path="data_orbis/commonengine.dat" />
+      <file path="data_orbis/commonengine.fat" />
+      <file path="data_orbis/startup.dat" />
+      <file path="data_orbis/startup.fat" />
+    </patch>
+    <patch description="fake patch" pkg_required_version="01.24" update_version_required="01.24" />
+    <patch description="Language Brazilian Only" pkg_required_version="01.24" update_version_required="01.24">
+      <file path="data_orbis/patch_english.dat" />
+      <file path="data_orbis/patch_english.fat" />
+      <file path="data_orbis/patch_french.dat" />
+      <file path="data_orbis/patch_french.fat" />
+      <file path="data_orbis/patch_german.dat" />
+      <file path="data_orbis/patch_german.fat" />
+      <file path="data_orbis/patch_italian.dat" />
+      <file path="data_orbis/patch_italian.fat" />
+      <file path="data_orbis/patch_spanish.dat" />
+      <file path="data_orbis/patch_spanish.fat" />
+    </patch>
+    <patch description="Language English Only" pkg_required_version="01.24" update_version_required="01.24">
+      <file path="data_orbis/patch_french.dat" />
+      <file path="data_orbis/patch_french.fat" />
+      <file path="data_orbis/patch_german.dat" />
+      <file path="data_orbis/patch_german.fat" />
+      <file path="data_orbis/patch_italian.dat" />
+      <file path="data_orbis/patch_italian.fat" />
+      <file path="data_orbis/patch_spanish.dat" />
+      <file path="data_orbis/patch_spanish.fat" />
+      <file path="data_orbis/patch_brazilian.dat" />
+      <file path="data_orbis/patch_brazilian.fat" />
+    </patch>
+    <patch description="Language French Only" pkg_required_version="01.24" update_version_required="01.24">
+      <file path="data_orbis/patch_german.dat" />
+      <file path="data_orbis/patch_german.fat" />
+      <file path="data_orbis/patch_italian.dat" />
+      <file path="data_orbis/patch_italian.fat" />
+      <file path="data_orbis/patch_spanish.dat" />
+      <file path="data_orbis/patch_spanish.fat" />
+      <file path="data_orbis/patch_brazilian.dat" />
+      <file path="data_orbis/patch_brazilian.fat" />
+      <file path="data_orbis/patch_english.dat" />
+      <file path="data_orbis/patch_english.fat" />
+    </patch>
+    <patch description="Language Italian Only" pkg_required_version="01.24" update_version_required="01.24">
+      <file path="data_orbis/patch_spanish.dat" />
+      <file path="data_orbis/patch_spanish.fat" />
+      <file path="data_orbis/patch_brazilian.dat" />
+      <file path="data_orbis/patch_brazilian.fat" />
+      <file path="data_orbis/patch_english.dat" />
+      <file path="data_orbis/patch_english.fat" />
+      <file path="data_orbis/patch_french.dat" />
+      <file path="data_orbis/patch_french.fat" />
+      <file path="data_orbis/patch_german.dat" />
+      <file path="data_orbis/patch_german.fat" />
+    </patch>
+    <patch description="Language Spanish Only" pkg_required_version="01.24" update_version_required="01.24">
+      <file path="data_orbis/patch_brazilian.dat" />
+      <file path="data_orbis/patch_brazilian.fat" />
+      <file path="data_orbis/patch_english.dat" />
+      <file path="data_orbis/patch_english.fat" />
+      <file path="data_orbis/patch_french.dat" />
+      <file path="data_orbis/patch_french.fat" />
+      <file path="data_orbis/patch_german.dat" />
+      <file path="data_orbis/patch_german.fat" />
+      <file path="data_orbis/patch_italian.dat" />
+      <file path="data_orbis/patch_italian.fat" />
+    </patch>
+  </patches>
+</pkgpatch>
