@@ -27,6 +27,8 @@ These patches contains the information to remove contents from your own PS4 back
 | EP0001-CUSA11560_00-AC3GAMEPS4000001 	| 39.0 GB               | 17.0 GB                   | 19.0 GB                  	| 18.6 GB                      	| 21 GB
 | EP1001-CUSA28235_00-NBA2K22000000000 	| 45.21 GB              | 37.0 GB                   | 46.89 GB                 	| 46.89 GB                     	|  8 GB
 | EP0001-CUSA13034_00-ORWFULLGAME00000 	| 28.7 GB               | 22.1 GB                   | 19.4 GB                 	| 16.1 GB                     	|  9 GB
+| UP4040-CUSA01830_00-ASSETTOCORSAXXXX 	| 12.9 GB               |  5.7 GB                   | 16.0 GB                 	| 16.1 GB                     	|  7 GB
+| EP4295-CUSA23755_00-ASTERIXBTA0000EU 	|  1.3 GB               |  0.2 GB                   |  1.2 GB                 	| 1.2 GB                     	|  1 GB
 
 
 ## File structure
