@@ -29,6 +29,13 @@ These patches contains the information to remove contents from your own PS4 back
 | EP0001-CUSA13034_00-ORWFULLGAME00000 	| 28.7 GB               | 22.1 GB                   | 19.4 GB                 	| 16.1 GB                     	|  9 GB
 | UP4040-CUSA01830_00-ASSETTOCORSAXXXX 	| 12.9 GB               |  5.7 GB                   | 16.0 GB                 	| 16.1 GB                     	|  7 GB
 | EP4295-CUSA23755_00-ASTERIXBTA0000EU 	|  1.3 GB               |  0.2 GB                   |  1.2 GB                 	| 1.2 GB                     	|  1 GB
+| EP0403-CUSA05996_00-0000000000000000 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  1.3 GB
+| EP4264-CUSA27312_00-BALDOPS4CONTENT0 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  0.5 GB
+| EP5733-CUSA16609_00-WHIPSEEY00000000 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  0.6 GB
+| UP4134-CUSA08126_00-OWSOULSTORM00001 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|    5 GB
+| UP1091-CUSA27205_00-JASBMALLBRAWL000 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  --  GB
+| UP3971-CUSA23079_00-HONKHONKHONKHONK 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  0.5 GB
+
 
 
 ## File structure
