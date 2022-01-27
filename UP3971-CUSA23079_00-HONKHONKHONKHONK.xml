@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA23079" content_id="UP3971-CUSA23079_00-HONKHONKHONKHONK" />
+  <patches>
+    <patch description="Remove Duplicates" pkg_required_version="01.00" update_version_required="01.02">
+      <file path="Media/Metadata/global-metadata.dat" />
+      <file path="Media/Resources/unity_builtin_extra" />
+      <file path="Media/StreamingAssets/StringTables/base.json" />
+      <file path="Media/StreamingAssets/StringTables/brazilianportuguese.json" />
+      <file path="Media/StreamingAssets/StringTables/chinese.json" />
+      <file path="Media/StreamingAssets/StringTables/english.json" />
+      <file path="Media/StreamingAssets/StringTables/french.json" />
+      <file path="Media/StreamingAssets/StringTables/german.json" />
+      <file path="Media/StreamingAssets/StringTables/italian.json" />
+      <file path="Media/StreamingAssets/StringTables/japanese.json" />
+      <file path="Media/StreamingAssets/StringTables/korean.json" />
+      <file path="Media/StreamingAssets/StringTables/polish.json" />
+      <file path="Media/StreamingAssets/StringTables/russian.json" />
+      <file path="Media/StreamingAssets/StringTables/spanish.json" />
+      <file path="Media/StreamingAssets/AnacapriHigh.bank" />
+      <file path="Media/StreamingAssets/AnacapriLow.bank" />
+      <file path="Media/StreamingAssets/Bruyeres.bank" />
+      <file path="Media/StreamingAssets/FeuxHigh.bank" />
+      <file path="Media/StreamingAssets/FeuxLow.bank" />
+      <file path="Media/StreamingAssets/Master Bank.bank" />
+      <file path="Media/StreamingAssets/Master Bank.strings.bank" />
+      <file path="Media/StreamingAssets/MinstrelsHigh.bank" />
+      <file path="Media/StreamingAssets/MinstrelsLow.bank" />
+      <file path="Media/StreamingAssets/PS4SessionImage.jpg" />
+      <file path="Media/StreamingAssets/PickwickHigh.bank" />
+      <file path="Media/StreamingAssets/PickwickLow.bank" />
+      <file path="Media/StreamingAssets/SerenadeHigh.bank" />
+      <file path="Media/StreamingAssets/SerenadeLow.bank" />
+      <file path="Media/StreamingAssets/backyard.bank" />
+      <file path="Media/StreamingAssets/finale.bank" />
+      <file path="Media/StreamingAssets/garden.bank" />
+      <file path="Media/StreamingAssets/intro.bank" />
+      <file path="Media/StreamingAssets/park.bank" />
+      <file path="Media/StreamingAssets/pub.bank" />
+      <file path="Media/StreamingAssets/radio.bank" />
+      <file path="Media/StreamingAssets/shop.bank" />
+      <file path="Media/SymbolMap" />
+      <file path="Media/globalgamemanagers" />
+      <file path="Media/globalgamemanagers.assets" />
+      <file path="Media/level0" />
+      <file path="Media/level1" />
+      <file path="Media/level2" />
+      <file path="Media/level2.resS" />
+      <file path="Media/resources.assets" />
+      <file path="Media/resources.assets.resS" />
+      <file path="Media/sharedassets0.assets" />
+      <file path="Media/sharedassets1.assets" />
+      <file path="Media/sharedassets2.assets" />
+      <file path="Media/sharedassets2.assets.resS" />
+    </patch>
+	<patch description="fake patch to link the update with your base.pkg file" pkg_required_version="01.02" update_version_required="01.02"/>
+  </patches>
+</pkgpatch>

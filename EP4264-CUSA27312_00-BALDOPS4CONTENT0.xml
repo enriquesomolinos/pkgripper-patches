@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA27312" content_id="EP4264-CUSA27312_00-BALDOPS4CONTENT0" />
+  <patches>
+    <patch description="Remove Duplicates" pkg_required_version="01.00" update_version_required="01.12">
+      <file path="Media/Metadata/global-metadata.dat" />
+      <file path="Media/StreamingAssets/aa/AddressablesLink/link.xml" />
+      <file path="Media/StreamingAssets/aa/PS4/cutscenes_assets_all_6935ce73355f6faca772d7226616774c.bundle" />
+      <file path="Media/StreamingAssets/aa/PS4/defaultlocalgroup_unitybuiltinshaders_a543fb3c1cf9373d9a7fe30b0201bd60.bundle" />
+      <file path="Media/StreamingAssets/aa/PS4/enemies_assets_all_8d83f473d9320ad971c2d071214b2954.bundle" />
+      <file path="Media/StreamingAssets/aa/PS4/items_assets_all_759f8442862ccc604d7928ad3beaaff8.bundle" />
+      <file path="Media/StreamingAssets/aa/PS4/npcs_assets_all_8148dbdd3a9ac39e3671021db1bfb7bf.bundle" />
+      <file path="Media/StreamingAssets/aa/PS4/objects_assets_all_caa9e89648b90ea0c3a7922bc18cfe57.bundle" />
+      <file path="Media/StreamingAssets/aa/catalog.bundle" />
+      <file path="Media/StreamingAssets/aa/settings.json" />
+      <file path="Media/globalgamemanagers" />
+      <file path="Media/globalgamemanagers.assets" />
+      <file path="Media/globalgamemanagers.assets.resS" />
+      <file path="Media/level0" />
+      <file path="Media/level1" />
+      <file path="Media/level2" />
+      <file path="Media/resources.assets" />
+      <file path="Media/resources.assets.resS" />
+      <file path="Media/resources.resource" />
+      <file path="Media/sharedassets0.assets" />
+      <file path="Media/sharedassets0.assets.resS" />
+      <file path="Media/sharedassets1.assets" />
+      <file path="Media/sharedassets1.assets.resS" />
+      <file path="Media/sharedassets1.resource" />
+      <file path="Media/sharedassets2.assets" />
+      <file path="Media/sharedassets2.assets.resS" />
+    </patch>
+	<patch description="fake patch to link the update with your base.pkg file" pkg_required_version="01.12" update_version_required="01.12"/>  
+  </patches>
+</pkgpatch>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA16609" content_id="EP5733-CUSA16609_00-WHIPSEEY00000000" />
+  <patches>
+    <patch description="English Only" pkg_required_version="01.00" update_version_required="01.03">
+      <file path="games/whip_lang_CN.ini" />
+      <file path="games/whip_lang_DE.ini" />
+      <file path="games/whip_lang_ES.ini" />
+      <file path="games/whip_lang_FR.ini" />
+      <file path="games/whip_lang_IT.ini" />
+      <file path="games/whip_lang_JP.ini" />
+      <file path="games/whip_lang_PT.ini" />
+      <file path="games/whip_lang_RU.ini" />
+      <file path="games/whip_lang_SV.ini" />
+      <file path="games/bfs_credits.txt" />
+      <file path="games/game.win" />
+      <file path="games/whip_lang_CN.ini" />
+      <file path="games/whip_lang_DE.ini" />
+      <file path="games/whip_lang_EN.ini" />
+      <file path="games/whip_lang_ES.ini" />
+      <file path="games/whip_lang_FR.ini" />
+      <file path="games/whip_lang_IT.ini" />
+      <file path="games/whip_lang_JP.ini" />
+      <file path="games/whip_lang_PT.ini" />
+      <file path="games/whip_lang_RU.ini" />
+      <file path="games/whip_lang_SV.ini" />
+    </patch>
+	<patch description="fake patch to link the update with your base.pkg file" pkg_required_version="01.03" update_version_required="01.03"/>
+  </patches>
+</pkgpatch>

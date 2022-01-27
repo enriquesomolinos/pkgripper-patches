@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA27205" content_id="UP1091-CUSA27205_00-JASBMALLBRAWL000" />
+  <patches>
+    <patch description="Remove Duplicates" pkg_required_version="01.00" update_version_required="01.01">
+      <file path="Media/SymbolMap" />
+      <file path="Media/globalgamemanagers" />
+      <file path="Media/resources.assets" />
+    </patch>
+	<patch description="fake patch to repack update" pkg_required_version="01.01" update_version_required="01.01" />
+  </patches>
+</pkgpatch>

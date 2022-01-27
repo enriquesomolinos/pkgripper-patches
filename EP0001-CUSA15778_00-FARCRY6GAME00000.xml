@@ -98,5 +98,6 @@
       <file path="data_final/orbis/worlds/installpkg_german.dat" />
       <file path="data_final/orbis/worlds/installpkg_german.fat" />
     </patch>
+	<patch description="fake patch to repack update" pkg_required_version="01.06" update_version_required="01.06" />
   </patches>
 </pkgpatch>
