@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA16260" content_id="EP4365-CUSA16260_00-COMMANDOS2HD0001" />
+  <patches>
+    <patch description="Duplicated content from update 01.02" pkg_required_version="01.00" update_version_required="01.02">
+      <file path="Media/Metadata/global-metadata.dat" />
+      <file path="Media/StreamingAssets/aa/PS4/PS4/audioassets_assets_all_58cefda7309e4efbd217e8ac5969c5d4.bundle" />
+      <file path="Media/StreamingAssets/aa/PS4/PS4/mappam_assets_all_8d0f1f00a658060171146928a2496394.bundle" />
+      <file path="Media/StreamingAssets/aa/PS4/PS4/maptu01_assets_all_ddffa5e32cf7527303dcfe2851ff38fa.bundle" />
+      <file path="Media/StreamingAssets/aa/PS4/PS4/maptu02_assets_all_1737930824576d7df807dc47d1392daa.bundle" />
+      <file path="Media/StreamingAssets/aa/PS4/PS4/maptu05_assets_all_150de5c44b0b4172b565ef9f380ea3e9.bundle" />
+      <file path="Media/StreamingAssets/aa/PS4/catalog.json" />
+      <file path="Media/StreamingAssets/aa/PS4/link.xml" />
+      <file path="Media/StreamingAssets/aa/PS4/settings.json" />
+      <file path="Media/StreamingAssets/BASE.PCK" />
+      <file path="Media/StreamingAssets/aa.meta.private.0" />
+      <file path="Media/SymbolMap" />
+      <file path="Media/boot.config" />
+      <file path="Media/globalgamemanagers" />
+      <file path="Media/globalgamemanagers.assets" />
+      <file path="Media/globalgamemanagers.assets.resS" />
+      <file path="Media/platform_native_link.xml" />
+      <file path="Media/sharedassets1.assets.resS" />
+      <file path="Media/sharedassets1.resource" />
+      <file path="Media/sharedassets2.assets.resS" />
+      <file path="Media/sharedassets2.resource" />
+      <file path="archive.psarc" />
+      <file path="archive.txt" />
+    </patch>
+    <patch description="Fake patch" pkg_required_version="01.02" update_version_required="01.02" />
+  </patches>
+</pkgpatch>

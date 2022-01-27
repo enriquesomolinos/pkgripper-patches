@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA16767" content_id="UP1001-CUSA16767_00-WWEBATTLEGROUNDS" />
+  <patches>
+    <patch description="Duplicated content from update 10.50" pkg_required_version="01.00" update_version_required="10.50">
+      <file path="wweplaygrounds/content/movies/a1085_alexabliss_signature.mp4" />
+      <file path="wweplaygrounds/content/movies/a1085_alexabliss_signature.webm" />
+      <file path="wweplaygrounds/content/movies/a1089_bayley_signature.mp4" />
+      <file path="wweplaygrounds/content/movies/a1089_bayley_signature.webm" />
+      <file path="wweplaygrounds/content/movies/a1090_beckylynch_signature.mp4" />
+      <file path="wweplaygrounds/content/movies/a1090_beckylynch_signature.webm" />
+      <file path="wweplaygrounds/content/movies/a1092_embermoon_signature.mp4" />
+      <file path="wweplaygrounds/content/movies/a1092_embermoon_signature.webm" />
+      <file path="wweplaygrounds/content/movies/a1097_naomi_signature.mp4" />
+      <file path="wweplaygrounds/content/movies/a1097_naomi_signature.webm" />
+      <file path="wweplaygrounds/content/movies/a1099_natalya_signature.mp4" />
+      <file path="wweplaygrounds/content/movies/a1099_natalya_signature.webm" />
+      <file path="wweplaygrounds/content/movies/a1101_sashabanks_signature.mp4" />
+      <file path="wweplaygrounds/content/movies/a1101_sashabanks_signature.webm" />
+      <file path="wweplaygrounds/content/movies/a1102_stephaniemcmahon_signature.mp4" />
+      <file path="wweplaygrounds/content/movies/a1102_stephaniemcmahon_signature.webm" />
+      <file path="wweplaygrounds/content/movies/a1106_bethphoenix_signature.mp4" />
+      <file path="wweplaygrounds/content/movies/a1106_bethphoenix_signature.webm" />
+      <file path="wweplaygrounds/content/movies/a2087_aliciafox_finisher.mp4" />
+      <file path="wweplaygrounds/content/movies/a2087_aliciafox_finisher.webm" />
+      <file path="wweplaygrounds/content/movies/a2090_beckylynch_finisher.mp4" />
+      <file path="wweplaygrounds/content/movies/a2090_beckylynch_finisher.webm" />
+      <file path="wweplaygrounds/content/movies/a2101_sashabanks_finisher.mp4" />
+      <file path="wweplaygrounds/content/movies/a2101_sashabanks_finisher.webm" />
+      <file path="wweplaygrounds/content/movies/a2106_bethphoenix_finisher.mp4" />
+      <file path="wweplaygrounds/content/movies/a2106_bethphoenix_finisher.webm" />
+      <file path="wweplaygrounds/content/movies/a2124_nikkicross_finisher.mp4" />
+      <file path="wweplaygrounds/content/movies/a2124_nikkicross_finisher.webm" />
+      <file path="Manifest_DebugFiles_PS4.txt" />
+    </patch>
+    <patch description="Fake patch" pkg_required_version="10.50" update_version_required="10.50" />
+  </patches>
+</pkgpatch>

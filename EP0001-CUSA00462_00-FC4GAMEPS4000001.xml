@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA00462" content_id="EP0001-CUSA00462_00-FC4GAMEPS4000001" />
+  <patches>
+    <patch description="Language Brazilian Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="data_orbis/worlds/fcc_main/fcc_main_french.dat" />
+      <file path="data_orbis/worlds/fcc_main/fcc_main_english.dat" />
+      <file path="data_orbis/worlds/fcc_main/fcc_main_german.dat" />
+      <file path="data_orbis/worlds/fcc_main/fcc_main_italian.dat" />
+      <file path="data_orbis/worlds/fcc_main/fcc_main_russian.dat" />
+      <file path="data_orbis/worlds/fcc_main/fcc_main_spanish.dat" />
+      <file path="data_orbis/worlds/multicommon/multicommon_english.dat" />
+      <file path="data_orbis/worlds/multicommon/multicommon_french.dat" />
+      <file path="data_orbis/worlds/multicommon/multicommon_german.dat" />
+      <file path="data_orbis/worlds/multicommon/multicommon_italian.dat" />
+      <file path="data_orbis/worlds/multicommon/multicommon_russian.dat" />
+      <file path="data_orbis/worlds/multicommon/multicommon_spanish.dat" />
+      <file path="data_orbis/installpkg_english.dat" />
+      <file path="data_orbis/installpkg_french.dat" />
+      <file path="data_orbis/installpkg_german.dat" />
+      <file path="data_orbis/installpkg_italian.dat" />
+      <file path="data_orbis/installpkg_russian.dat" />
+      <file path="data_orbis/installpkg_spanish.dat" />
+    </patch>
+    <patch description="Language French Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="data_orbis/worlds/fcc_main/fcc_main_english.dat" />
+      <file path="data_orbis/worlds/fcc_main/fcc_main_german.dat" />
+      <file path="data_orbis/worlds/fcc_main/fcc_main_italian.dat" />
+      <file path="data_orbis/worlds/fcc_main/fcc_main_russian.dat" />
+      <file path="data_orbis/worlds/fcc_main/fcc_main_spanish.dat" />
+      <file path="data_orbis/worlds/multicommon/multicommon_english.dat" />
+      <file path="data_orbis/worlds/multicommon/multicommon_german.dat" />
+      <file path="data_orbis/worlds/multicommon/multicommon_italian.dat" />
+      <file path="data_orbis/worlds/multicommon/multicommon_russian.dat" />
+      <file path="data_orbis/worlds/multicommon/multicommon_spanish.dat" />
+      <file path="data_orbis/installpkg_english.dat" />
+      <file path="data_orbis/installpkg_german.dat" />
+      <file path="data_orbis/installpkg_italian.dat" />
+      <file path="data_orbis/installpkg_russian.dat" />
+      <file path="data_orbis/installpkg_spanish.dat" />
+      <file path="data_orbis/worlds/fcc_main/fcc_main_brazilian.dat" />
+      <file path="data_orbis/worlds/multicommon/multicommon_brazilian.dat" />
+      <file path="data_orbis/installpkg_brazilian.dat" />
+    </patch>
+    <patch description="Language English Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="data_orbis/worlds/fcc_main/fcc_main_german.dat" />
+      <file path="data_orbis/worlds/fcc_main/fcc_main_italian.dat" />
+      <file path="data_orbis/worlds/fcc_main/fcc_main_russian.dat" />
+      <file path="data_orbis/worlds/fcc_main/fcc_main_spanish.dat" />
+      <file path="data_orbis/worlds/multicommon/multicommon_german.dat" />
+      <file path="data_orbis/worlds/multicommon/multicommon_italian.dat" />
+      <file path="data_orbis/worlds/multicommon/multicommon_russian.dat" />
+      <file path="data_orbis/worlds/multicommon/multicommon_spanish.dat" />
+      <file path="data_orbis/installpkg_german.dat" />
+      <file path="data_orbis/installpkg_italian.dat" />
+      <file path="data_orbis/installpkg_russian.dat" />
+      <file path="data_orbis/installpkg_spanish.dat" />
+      <file path="data_orbis/worlds/fcc_main/fcc_main_brazilian.dat" />
+      <file path="data_orbis/worlds/multicommon/multicommon_brazilian.dat" />
+      <file path="data_orbis/installpkg_brazilian.dat" />
+      <file path="data_orbis/worlds/fcc_main/fcc_main_french.dat" />
+      <file path="data_orbis/worlds/multicommon/multicommon_french.dat" />
+      <file path="data_orbis/installpkg_french.dat" />
+    </patch>
+    <patch description="Language German Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="data_orbis/worlds/fcc_main/fcc_main_italian.dat" />
+      <file path="data_orbis/worlds/fcc_main/fcc_main_russian.dat" />
+      <file path="data_orbis/worlds/fcc_main/fcc_main_spanish.dat" />
+      <file path="data_orbis/worlds/multicommon/multicommon_italian.dat" />
+      <file path="data_orbis/worlds/multicommon/multicommon_russian.dat" />
+      <file path="data_orbis/worlds/multicommon/multicommon_spanish.dat" />
+      <file path="data_orbis/installpkg_italian.dat" />
+      <file path="data_orbis/installpkg_russian.dat" />
+      <file path="data_orbis/installpkg_spanish.dat" />
+      <file path="data_orbis/worlds/fcc_main/fcc_main_brazilian.dat" />
+      <file path="data_orbis/worlds/multicommon/multicommon_brazilian.dat" />
+      <file path="data_orbis/installpkg_brazilian.dat" />
+      <file path="data_orbis/worlds/fcc_main/fcc_main_french.dat" />
+      <file path="data_orbis/worlds/multicommon/multicommon_french.dat" />
+      <file path="data_orbis/installpkg_french.dat" />
+      <file path="data_orbis/worlds/fcc_main/fcc_main_english.dat" />
+      <file path="data_orbis/worlds/multicommon/multicommon_english.dat" />
+      <file path="data_orbis/installpkg_english.dat" />
+    </patch>
+    <patch description="Language Italian Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="data_orbis/worlds/fcc_main/fcc_main_russian.dat" />
+      <file path="data_orbis/worlds/fcc_main/fcc_main_spanish.dat" />
+      <file path="data_orbis/worlds/multicommon/multicommon_russian.dat" />
+      <file path="data_orbis/worlds/multicommon/multicommon_spanish.dat" />
+      <file path="data_orbis/installpkg_russian.dat" />
+      <file path="data_orbis/installpkg_spanish.dat" />
+      <file path="data_orbis/worlds/fcc_main/fcc_main_brazilian.dat" />
+      <file path="data_orbis/worlds/multicommon/multicommon_brazilian.dat" />
+      <file path="data_orbis/installpkg_brazilian.dat" />
+      <file path="data_orbis/worlds/fcc_main/fcc_main_french.dat" />
+      <file path="data_orbis/worlds/multicommon/multicommon_french.dat" />
+      <file path="data_orbis/installpkg_french.dat" />
+      <file path="data_orbis/worlds/fcc_main/fcc_main_english.dat" />
+      <file path="data_orbis/worlds/multicommon/multicommon_english.dat" />
+      <file path="data_orbis/installpkg_english.dat" />
+      <file path="data_orbis/worlds/fcc_main/fcc_main_german.dat" />
+      <file path="data_orbis/worlds/multicommon/multicommon_german.dat" />
+      <file path="data_orbis/installpkg_german.dat" />
+    </patch>
+    <patch description="Language Russian Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="data_orbis/worlds/fcc_main/fcc_main_spanish.dat" />
+      <file path="data_orbis/worlds/multicommon/multicommon_spanish.dat" />
+      <file path="data_orbis/installpkg_spanish.dat" />
+      <file path="data_orbis/worlds/fcc_main/fcc_main_brazilian.dat" />
+      <file path="data_orbis/worlds/multicommon/multicommon_brazilian.dat" />
+      <file path="data_orbis/installpkg_brazilian.dat" />
+      <file path="data_orbis/worlds/fcc_main/fcc_main_french.dat" />
+      <file path="data_orbis/worlds/multicommon/multicommon_french.dat" />
+      <file path="data_orbis/installpkg_french.dat" />
+      <file path="data_orbis/worlds/fcc_main/fcc_main_english.dat" />
+      <file path="data_orbis/worlds/multicommon/multicommon_english.dat" />
+      <file path="data_orbis/installpkg_english.dat" />
+      <file path="data_orbis/worlds/fcc_main/fcc_main_german.dat" />
+      <file path="data_orbis/worlds/multicommon/multicommon_german.dat" />
+      <file path="data_orbis/installpkg_german.dat" />
+      <file path="data_orbis/worlds/fcc_main/fcc_main_italian.dat" />
+      <file path="data_orbis/worlds/multicommon/multicommon_italian.dat" />
+      <file path="data_orbis/installpkg_italian.dat" />
+    </patch>
+    <patch description="Language Spanish Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="data_orbis/worlds/fcc_main/fcc_main_brazilian.dat" />
+      <file path="data_orbis/worlds/multicommon/multicommon_brazilian.dat" />
+      <file path="data_orbis/installpkg_brazilian.dat" />
+      <file path="data_orbis/worlds/fcc_main/fcc_main_french.dat" />
+      <file path="data_orbis/worlds/multicommon/multicommon_french.dat" />
+      <file path="data_orbis/installpkg_french.dat" />
+      <file path="data_orbis/worlds/fcc_main/fcc_main_english.dat" />
+      <file path="data_orbis/worlds/multicommon/multicommon_english.dat" />
+      <file path="data_orbis/installpkg_english.dat" />
+      <file path="data_orbis/worlds/fcc_main/fcc_main_german.dat" />
+      <file path="data_orbis/worlds/multicommon/multicommon_german.dat" />
+      <file path="data_orbis/installpkg_german.dat" />
+      <file path="data_orbis/worlds/fcc_main/fcc_main_italian.dat" />
+      <file path="data_orbis/worlds/multicommon/multicommon_italian.dat" />
+      <file path="data_orbis/installpkg_italian.dat" />
+      <file path="data_orbis/worlds/fcc_main/fcc_main_russian.dat" />
+      <file path="data_orbis/worlds/multicommon/multicommon_russian.dat" />
+      <file path="data_orbis/installpkg_russian.dat" />
+    </patch>
+  </patches>
+</pkgpatch>

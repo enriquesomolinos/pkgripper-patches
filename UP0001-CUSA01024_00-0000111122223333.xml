@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA01024" content_id="UP0001-CUSA01024_00-0000111122223333" />
+  <patches>
+    <patch description="Duplicated content from update 01.01" pkg_required_version="01.00" update_version_required="01.01">
+      <file path="Media/Managed/mono/2.0/machine.config" />
+      <file path="Media/Managed/Assembly-CSharp.dll" />
+      <file path="Media/Managed/JsonFx.Json.dll" />
+      <file path="Media/Managed/QemShared.dll" />
+      <file path="Media/Managed/SonyNP.dll" />
+      <file path="Media/Managed/SonyPS4SavedGames.dll" />
+      <file path="Media/Managed/System.Configuration.dll" />
+      <file path="Media/Managed/System.Core.dll" />
+      <file path="Media/Managed/System.Xml.Linq.dll" />
+      <file path="Media/Managed/System.Xml.dll" />
+      <file path="Media/Managed/System.dll" />
+      <file path="Media/Managed/UnityEngine.dll" />
+      <file path="Media/Managed/mscorlib.dll" />
+      <file path="Media/Modules/mono-ps4.sprx" />
+      <file path="Media/Resources/unity default resources" />
+      <file path="Media/Resources/unity_builtin_extra" />
+      <file path="Media/StreamingAssets/AssetBundles/PlatformBundle.unity3d" />
+      <file path="Media/StreamingAssets/Localization/FrontEndData/dutch.bin" />
+      <file path="Media/StreamingAssets/Localization/FrontEndData/french.bin" />
+      <file path="Media/StreamingAssets/Localization/FrontEndData/german.bin" />
+      <file path="Media/StreamingAssets/Localization/FrontEndData/italian.bin" />
+      <file path="Media/StreamingAssets/Localization/FrontEndData/russian.bin" />
+      <file path="Media/StreamingAssets/Localization/FrontEndData/spanish.bin" />
+      <file path="Media/StreamingAssets/Localization/FrontEndData/ukenglish.bin" />
+      <file path="Media/StreamingAssets/Localization/FrontEndData/usenglish.bin" />
+      <file path="Media/StreamingAssets/Localization/QuestionPack1/QuestionPack_dutch.bin" />
+      <file path="Media/StreamingAssets/Localization/QuestionPack1/QuestionPack_french.bin" />
+      <file path="Media/StreamingAssets/Localization/QuestionPack1/QuestionPack_german.bin" />
+      <file path="Media/StreamingAssets/Localization/QuestionPack1/QuestionPack_italian.bin" />
+      <file path="Media/StreamingAssets/Localization/QuestionPack1/QuestionPack_russian.bin" />
+      <file path="Media/StreamingAssets/Localization/QuestionPack1/QuestionPack_spanish.bin" />
+      <file path="Media/StreamingAssets/Localization/QuestionPack1/QuestionPack_ukenglish.bin" />
+      <file path="Media/StreamingAssets/Localization/QuestionPack1/QuestionPack_usenglish.bin" />
+      <file path="Media/StreamingAssets/QuestionData/QuestionPack1/QuestionPack.dat" />
+      <file path="Media/StreamingAssets/QuestionData/QuestionPack1/RichMedia.dat" />
+      <file path="Media/level0" />
+      <file path="Media/level1" />
+      <file path="Media/level2" />
+      <file path="Media/level3" />
+      <file path="Media/level4" />
+      <file path="Media/mainData" />
+      <file path="Media/resources.assets" />
+      <file path="Media/resources.assets.resS" />
+      <file path="Media/sharedassets0.assets" />
+      <file path="Media/sharedassets1.assets" />
+      <file path="Media/sharedassets2.assets" />
+      <file path="Media/sharedassets3.assets" />
+      <file path="Media/sharedassets4.assets" />
+      <file path="Media/sharedassets5.assets" />
+    </patch>
+    <patch description="Fake patch" pkg_required_version="01.01" update_version_required="01.01" />
+  </patches>
+</pkgpatch>

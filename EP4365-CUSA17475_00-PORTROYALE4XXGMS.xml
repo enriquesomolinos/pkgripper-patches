@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA17475" content_id="EP4365-CUSA17475_00-PORTROYALE4XXGMS" />
+  <patches>
+    <patch description="Language English Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="movie/france_intro.bk2" />
+      <file path="movie/france_outro.bk2" />
+      <file path="movie/netherlands_intro.bk2" />
+      <file path="movie/netherlands_outro.bk2" />
+      <file path="movie/spain_intro.bk2" />
+      <file path="movie/spain_outro.bk2" />
+    </patch>
+    <patch description="Language French Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="movie/netherlands_intro.bk2" />
+      <file path="movie/netherlands_outro.bk2" />
+      <file path="movie/spain_intro.bk2" />
+      <file path="movie/spain_outro.bk2" />
+      <file path="movie/england_intro.bk2" />
+      <file path="movie/england_outro.bk2" />
+    </patch>
+    <patch description="Language Netherland Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="movie/spain_intro.bk2" />
+      <file path="movie/spain_outro.bk2" />
+      <file path="movie/england_intro.bk2" />
+      <file path="movie/england_outro.bk2" />
+      <file path="movie/france_intro.bk2" />
+      <file path="movie/france_outro.bk2" />
+    </patch>
+    <patch description="Language Spanish Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="movie/england_intro.bk2" />
+      <file path="movie/england_outro.bk2" />
+      <file path="movie/france_intro.bk2" />
+      <file path="movie/france_outro.bk2" />
+      <file path="movie/netherlands_intro.bk2" />
+      <file path="movie/netherlands_outro.bk2" />
+    </patch>
+    <patch description="Duplicated content from update 01.05" pkg_required_version="01.00" update_version_required="01.05">
+      <file path="movie/england_intro.bk2" />
+      <file path="movie/england_outro.bk2" />
+      <file path="movie/spain_intro.bk2" />
+    </patch>
+    <patch description="Language English Only update 01.05" pkg_required_version="01.05" update_version_required="01.05">
+      <file path="movie/spain_intro.bk2" />
+    </patch>
+    <patch description="Language Spanish Only update 01.05" pkg_required_version="01.05" update_version_required="01.05">
+      <file path="movie/england_intro.bk2" />
+      <file path="movie/england_outro.bk2" />
+    </patch>
+    <patch description="Language Nor English Nor Spanish update 01.05" pkg_required_version="01.05" update_version_required="01.05">
+      <file path="movie/england_intro.bk2" />
+      <file path="movie/england_outro.bk2" />
+      <file path="movie/spain_intro.bk2" />
+    </patch>
+  </patches>
+</pkgpatch>

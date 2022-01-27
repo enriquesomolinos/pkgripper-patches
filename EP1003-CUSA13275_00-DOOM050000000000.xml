@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA13275" content_id="EP1003-CUSA13275_00-DOOM050000000000" />
+  <patches>
+    <patch description="Duplicated content from update 01.02" pkg_required_version="01.00" update_version_required="01.02">
+      <file path="base/controller_layouts/demon_classic.cfg" />
+      <file path="base/controller_layouts/demon_default.cfg" />
+      <file path="base/controller_layouts/demon_knuckles.cfg" />
+      <file path="base/controller_layouts/demon_mirrored.cfg" />
+      <file path="base/controller_layouts/demon_strafe.cfg" />
+      <file path="base/controller_layouts/demon_tactical.cfg" />
+      <file path="base/sound/soundbanks/ps4/mus.pck" />
+      <file path="base/sound/soundbanks/ps4/sfx.pck" />
+      <file path="base/sound/soundbanks/ps4/vo_French(France).snd" />
+      <file path="base/sound/soundbanks/ps4/vo_German.snd" />
+      <file path="base/sound/soundbanks/ps4/vo_Italian.snd" />
+      <file path="base/sound/soundbanks/ps4/vo_Polish.snd" />
+      <file path="base/sound/soundbanks/ps4/vo_Russian.snd" />
+      <file path="base/sound/soundbanks/ps4/vo_Spanish(Spain).snd" />
+      <file path="base/sound/soundbanks/ps4/vo_english.pck" />
+      <file path="base/sound/soundbanks/ps4/vo_french.pck" />
+      <file path="base/sound/soundbanks/ps4/vo_german.pck" />
+      <file path="base/sound/soundbanks/ps4/vo_italian.pck" />
+      <file path="base/sound/soundbanks/ps4/vo_polish.pck" />
+      <file path="base/sound/soundbanks/ps4/vo_russian.pck" />
+      <file path="base/sound/soundbanks/ps4/vo_spanish.pck" />
+      <file path="base/sound/soundmetadata.bin" />
+      <file path="base/video/tutorials/tutorial_boss_icon_of_sin_a.bk2" />
+      <file path="base/video/tutorials/tutorial_boss_icon_of_sin_b.bk2" />
+      <file path="base/video/tutorials/tutorial_boss_khan_maykr.bk2" />
+      <file path="base/video/tutorials/tutorial_cueball.bk2" />
+      <file path="base/video/tutorials/tutorial_mancubus_movement.bk2" />
+      <file path="base/video/tutorials/tutorial_pvp_block_drops.bk2" />
+      <file path="base/video/tutorials/tutorial_pvp_demon_card_deck2.bk2" />
+      <file path="base/video/tutorials/tutorial_pvp_respawn.bk2" />
+      <file path="base/video/tutorials/tutorial_pvp_summon_demons.bk2" />
+      <file path="base/video/tutorials/tutorial_pvp_summoning_icons.bk2" />
+      <file path="base/video/tutorials/tutorial_sentinel_battery.bk2" />
+      <file path="base/video/tutorials/tutorial_weak_point_arachnotron.bk2" />
+      <file path="base/video/tutorials/tutorial_weak_point_cacodemon.bk2" />
+      <file path="base/video/tutorials/tutorial_weak_point_cyber_mancubus.bk2" />
+      <file path="base/video/tutorials/tutorial_weak_point_doomhunter.bk2" />
+      <file path="base/video/tutorials/tutorial_weak_point_mancubus.bk2" />
+      <file path="base/video/tutorials/tutorial_weak_point_marauder.bk2" />
+      <file path="base/video/tutorials/tutorial_weak_point_maykr_zombie.bk2" />
+      <file path="base/video/tutorials/tutorial_weak_point_revenant.bk2" />
+      <file path="base/candidate.cfg" />
+      <file path="base/default.cfg" />
+      <file path="base/disclayout.cfg" />
+      <file path="base/meta.resources" />
+      <file path="base/package.cfg" />
+      <file path="base/packagemapspec.json" />
+      <file path="base/rcbootstrap.bin" />
+    </patch>
+    <patch description="Language non English" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="base/sound/soundbanks/ps4/vo_English(US).snd" />
+    </patch>
+    <patch description="Fake patch" pkg_required_version="01.02" update_version_required="01.02" />
+    <patch description="Language French Only" pkg_required_version="01.02" update_version_required="01.02">
+      <file path="base/sound/soundbanks/ps4/vo_German.snd" />
+      <file path="base/sound/soundbanks/ps4/vo_Italian.snd" />
+      <file path="base/sound/soundbanks/ps4/vo_Polish.snd" />
+      <file path="base/sound/soundbanks/ps4/vo_Russian.snd" />
+      <file path="base/sound/soundbanks/ps4/vo_Spanish(Spain).snd" />
+    </patch>
+    <patch description="Language German Only" pkg_required_version="01.02" update_version_required="01.02">
+      <file path="base/sound/soundbanks/ps4/vo_Italian.snd" />
+      <file path="base/sound/soundbanks/ps4/vo_Polish.snd" />
+      <file path="base/sound/soundbanks/ps4/vo_Russian.snd" />
+      <file path="base/sound/soundbanks/ps4/vo_Spanish(Spain).snd" />
+      <file path="base/sound/soundbanks/ps4/vo_French(France).snd" />
+    </patch>
+    <patch description="Language Italian Only" pkg_required_version="01.02" update_version_required="01.02">
+      <file path="base/sound/soundbanks/ps4/vo_Polish.snd" />
+      <file path="base/sound/soundbanks/ps4/vo_Russian.snd" />
+      <file path="base/sound/soundbanks/ps4/vo_Spanish(Spain).snd" />
+      <file path="base/sound/soundbanks/ps4/vo_French(France).snd" />
+      <file path="base/sound/soundbanks/ps4/vo_German.snd" />
+    </patch>
+    <patch description="Language Polish Only" pkg_required_version="01.02" update_version_required="01.02">
+      <file path="base/sound/soundbanks/ps4/vo_Russian.snd" />
+      <file path="base/sound/soundbanks/ps4/vo_Spanish(Spain).snd" />
+      <file path="base/sound/soundbanks/ps4/vo_French(France).snd" />
+      <file path="base/sound/soundbanks/ps4/vo_German.snd" />
+      <file path="base/sound/soundbanks/ps4/vo_Italian.snd" />
+    </patch>
+    <patch description="Language Russian Only" pkg_required_version="01.02" update_version_required="01.02">
+      <file path="base/sound/soundbanks/ps4/vo_Spanish(Spain).snd" />
+      <file path="base/sound/soundbanks/ps4/vo_French(France).snd" />
+      <file path="base/sound/soundbanks/ps4/vo_German.snd" />
+      <file path="base/sound/soundbanks/ps4/vo_Italian.snd" />
+      <file path="base/sound/soundbanks/ps4/vo_Polish.snd" />
+    </patch>
+    <patch description="Language Spanish Only" pkg_required_version="01.02" update_version_required="01.02">
+      <file path="base/sound/soundbanks/ps4/vo_French(France).snd" />
+      <file path="base/sound/soundbanks/ps4/vo_German.snd" />
+      <file path="base/sound/soundbanks/ps4/vo_Italian.snd" />
+      <file path="base/sound/soundbanks/ps4/vo_Polish.snd" />
+      <file path="base/sound/soundbanks/ps4/vo_Russian.snd" />
+    </patch>
+  </patches>
+</pkgpatch>

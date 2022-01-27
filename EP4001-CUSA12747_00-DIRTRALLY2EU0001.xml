@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA12747" content_id="EP4001-CUSA12747_00-DIRTRALLY2EU0001" />
+  <patches>
+    <patch description="Duplicated content from update 01.26" pkg_required_version="01.00" update_version_required="01.26">
+      <file path="cars/131.nefs" />
+      <file path="cars/202.nefs" />
+      <file path="cars/205.nefs" />
+      <file path="cars/20b.nefs" />
+      <file path="cars/20r.nefs" />
+      <file path="cars/20x.nefs" />
+      <file path="cars/24z.nefs" />
+      <file path="cars/555.nefs" />
+      <file path="cars/6rb.nefs" />
+      <file path="cars/99r.nefs" />
+      <file path="cars/ada.nefs" />
+      <file path="cars/alp.nefs" />
+      <file path="cars/amr.nefs" />
+      <file path="cars/aqe.nefs" />
+      <file path="cars/asc.nefs" />
+      <file path="cars/c3r.nefs" />
+      <file path="cars/car.nefs" />
+      <file path="cars/cds.nefs" />
+      <file path="cars/clx.nefs" />
+      <file path="cars/crk.nefs" />
+      <file path="cars/ers.nefs" />
+      <file path="cars/es2.nefs" />
+      <file path="cars/ev6.nefs" />
+      <file path="cars/f8x.nefs" />
+      <file path="cars/fr2.nefs" />
+      <file path="cars/fr5.nefs" />
+      <file path="cars/frx.nefs" />
+      <file path="cars/ful.nefs" />
+      <file path="cars/gt4.nefs" />
+      <file path="cars/gti.nefs" />
+      <file path="cars/kad.nefs" />
+      <file path="cars/ldi.nefs" />
+      <file path="cars/lds.nefs" />
+      <file path="cars/m3r.nefs" />
+      <file path="cars/mcs.nefs" />
+      <file path="cars/mer.nefs" />
+      <file path="cars/mr5.nefs" />
+      <file path="cars/nr4.nefs" />
+      <file path="cars/ocx.nefs" />
+      <file path="cars/olx.nefs" />
+      <file path="cars/pr5.nefs" />
+      <file path="cars/r5t.nefs" />
+      <file path="cars/rmx.nefs" />
+      <file path="cars/rsb.nefs" />
+      <file path="cars/rxl.nefs" />
+      <file path="cars/s1x.nefs" />
+      <file path="cars/sr5.nefs" />
+      <file path="cars/srs.nefs" />
+      <file path="cars/str.nefs" />
+      <file path="cars/stx.nefs" />
+      <file path="cars/vwx.nefs" />
+      <file path="game/game.dat" />
+      <file path="game/game.nefs" />
+      <file path="game/game_1.dat" />
+      <file path="locations/belgium__mettet_rallycross.nefs" />
+      <file path="locations/new_zealand__new_zealand_rally_01.nefs" />
+      <file path="locations/poland__poland_rally_02.nefs" />
+      <file path="locations/south_america__argentina_rally_01.nefs" />
+      <file path="locations/south_america__argentina_rally_02.nefs" />
+      <file path="locations/spain__barcelona_rallycross.nefs" />
+      <file path="locations/spain__spain_rally_01.nefs" />
+      <file path="locations/spain__spain_rally_02.nefs" />
+      <file path="locations/uk__silverstone_rallycross.nefs" />
+      <file path="locations/usa__usa_rally_01.nefs" />
+      <file path="locations/usa__usa_rally_02.nefs" />
+      <file path="video/attract.bk2" />
+      <file path="video/his_rally_complete.bk2" />
+      <file path="video/his_rally_tier_1.bk2" />
+      <file path="video/his_rally_tier_2.bk2" />
+      <file path="video/his_rally_tier_3.bk2" />
+      <file path="video/his_rally_tier_4.bk2" />
+      <file path="video/his_rallyx_intro.bk2" />
+      <file path="video/studio_logo.bk2" />
+      <file path="video/wrx_finish_win.bk2" />
+      <file path="video/wrx_reveal_e01.bk2" />
+      <file path="video/wrx_reveal_e02.bk2" />
+      <file path="video/wrx_reveal_e03.bk2" />
+      <file path="video/wrx_reveal_e04.bk2" />
+      <file path="video/wrx_reveal_e05.bk2" />
+      <file path="video/wrx_reveal_e06.bk2" />
+      <file path="video/wrx_reveal_e07.bk2" />
+      <file path="video/wrx_reveal_e08.bk2" />
+    </patch>
+    <patch description="Fake update" pkg_required_version="01.26" update_version_required="01.26" />
+  </patches>
+</pkgpatch>
