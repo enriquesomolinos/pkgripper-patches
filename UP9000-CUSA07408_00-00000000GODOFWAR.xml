@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <pkgpatch>
   <patchInfo description="" title_id="CUSA07408" content_id="UP9000-CUSA07408_00-00000000GODOFWAR" />
   <patches>
@@ -1179,6 +1179,70 @@
       <file path="exec/wad/orbis_le/xpl980_beachwaterfall.wad" />
       <file path="exec/boot-options.json" />
     </patch>
+    <patch description="Language, English Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="exec/sound/orbis_le/french(france)" />
+      <file path="exec/sound/orbis_le/portuguese(brazil)" />
+      <file path="exec/sound/orbis_le/spanish(mexico)" />
+      <file path="exec/wad/orbis_le/soundbanks/french(france)" />
+      <file path="exec/wad/orbis_le/soundbanks/portuguese(brazil)" />
+      <file path="exec/wad/orbis_le/soundbanks/spanish(mexico)" />
+    </patch>
+    <patch description="Language, French Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="exec/sound/orbis_le/portuguese(brazil)" />
+      <file path="exec/sound/orbis_le/spanish(mexico)" />
+      <file path="exec/wad/orbis_le/soundbanks/portuguese(brazil)" />
+      <file path="exec/wad/orbis_le/soundbanks/spanish(mexico)" />
+      <file path="exec/sound/orbis_le/english(us)" />
+      <file path="exec/wad/orbis_le/soundbanks/english(us)" />
+    </patch>
+    <patch description="Language, Portugese Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="exec/sound/orbis_le/spanish(mexico)" />
+      <file path="exec/wad/orbis_le/soundbanks/spanish(mexico)" />
+      <file path="exec/sound/orbis_le/english(us)" />
+      <file path="exec/wad/orbis_le/soundbanks/english(us)" />
+      <file path="exec/sound/orbis_le/french(france)" />
+      <file path="exec/wad/orbis_le/soundbanks/french(france)" />
+    </patch>
+    <patch description="Language, Spanish Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="exec/sound/orbis_le/english(us)" />
+      <file path="exec/wad/orbis_le/soundbanks/english(us)" />
+      <file path="exec/sound/orbis_le/french(france)" />
+      <file path="exec/wad/orbis_le/soundbanks/french(france)" />
+      <file path="exec/sound/orbis_le/portuguese(brazil)" />
+      <file path="exec/wad/orbis_le/soundbanks/portuguese(brazil)" />
+    </patch>
     <patch description="Fake patch to repack update" pkg_required_version="01.33" update_version_required="01.33" />
+    <patch description="(Patch 1.33) Language, English only" pkg_required_version="01.33" update_version_required="01.33">
+      <file path="exec/sound/orbis_le/french(france)" />
+      <file path="exec/sound/orbis_le/portuguese(brazil)" />
+      <file path="exec/sound/orbis_le/spanish(mexico)" />
+      <file path="exec/wad/orbis_le/soundbanks/french(france)" />
+      <file path="exec/wad/orbis_le/soundbanks/portuguese(brazil)" />
+      <file path="exec/wad/orbis_le/soundbanks/spanish(mexico)" />
+    </patch>
+    <patch description="(Patch 1.33) Language, French only" pkg_required_version="01.33" update_version_required="01.33">
+      <file path="exec/sound/orbis_le/portuguese(brazil)" />
+      <file path="exec/sound/orbis_le/spanish(mexico)" />
+      <file path="exec/wad/orbis_le/soundbanks/portuguese(brazil)" />
+      <file path="exec/wad/orbis_le/soundbanks/spanish(mexico)" />
+      <file path="exec/wad/orbis_le/soundbanks/english(us)" />
+      <file path="exec/sound/orbis_le/english(us)" />
+    </patch>
+    <patch description="(Patch 1.33) Language, Portugese only" pkg_required_version="01.33" update_version_required="01.33">
+      <file path="exec/sound/orbis_le/spanish(mexico)" />
+      <file path="exec/wad/orbis_le/soundbanks/spanish(mexico)" />
+      <file path="exec/wad/orbis_le/soundbanks/english(us)" />
+      <file path="exec/sound/orbis_le/english(us)" />
+      <file path="exec/sound/orbis_le/french(france)" />
+      <file path="exec/wad/orbis_le/soundbanks/french(france)" />
+    </patch>
+    <patch description="(Patch 1.33) Language, Spanish only" pkg_required_version="01.33" update_version_required="01.33">
+      <file path="exec/wad/orbis_le/soundbanks/english(us)" />
+      <file path="exec/sound/orbis_le/english(us)" />
+      <file path="exec/sound/orbis_le/french(france)" />
+      <file path="exec/wad/orbis_le/soundbanks/french(france)" />
+      <file path="exec/sound/orbis_le/portuguese(brazil)" />
+      <file path="exec/wad/orbis_le/soundbanks/portuguese(brazil)" />
+    </patch>
   </patches>
 </pkgpatch>
