@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA26098" content_id="EP6713-CUSA26098_00-KINGSBOUNTY200EU" />
+  <patches>
+    <patch description="Duplicated content from update 01.06" pkg_required_version="01.00" update_version_required="01.06">
+      <file path="kingsbounty2/content/fmod/ps4/ba_bgm_exploration.bank" />
+      <file path="kingsbounty2/content/fmod/ps4/ba_bgm_master.assets.bank" />
+      <file path="kingsbounty2/content/fmod/ps4/ba_bgm_master.bank" />
+      <file path="kingsbounty2/content/fmod/ps4/ba_masterbank.bank" />
+      <file path="kingsbounty2/content/fmod/ps4/ba_masterbank.strings.bank" />
+      <file path="kingsbounty2/content/fmod/ps4/ba_sfx_hero_aivar.bank" />
+      <file path="kingsbounty2/content/fmod/ps4/c0510u.assets.bank" />
+      <file path="kingsbounty2/content/fmod/ps4/c0510u.bank" />
+      <file path="kingsbounty2/content/fmod/ps4/voiceover_en-us.assets.bank" />
+      <file path="kingsbounty2/content/fmod/ps4/voiceover_ru.assets.bank" />
+      <file path="kingsbounty2/content/paks/kingsbounty2-ps4.pak" />
+    </patch>
+    <patch description="Fake patch" pkg_required_version="01.06" update_version_required="01.06" />
+  </patches>
+</pkgpatch>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA17722" content_id="UP9000-CUSA17722_00-MARVELSSMMORALES" />
+  <patches>
+    <patch description="Language English Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="asset_archive/a00s019.fr" />
+      <file path="asset_archive/a00s028.br" />
+      <file path="asset_archive/a00s030.la" />
+    </patch>
+    <patch description="Language French Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="asset_archive/a00s028.br" />
+      <file path="asset_archive/a00s030.la" />
+      <file path="asset_archive/a00s018.us" />
+    </patch>
+    <patch description="Language Brazilian Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="asset_archive/a00s030.la" />
+      <file path="asset_archive/a00s018.us" />
+      <file path="asset_archive/a00s019.fr" />
+    </patch>
+    <patch description="Language Spanish Latin Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="asset_archive/a00s018.us" />
+      <file path="asset_archive/a00s019.fr" />
+      <file path="asset_archive/a00s028.br" />
+    </patch>
+    <patch description="Fake patch" pkg_required_version="01.09" update_version_required="01.09" />
+  </patches>
+</pkgpatch>

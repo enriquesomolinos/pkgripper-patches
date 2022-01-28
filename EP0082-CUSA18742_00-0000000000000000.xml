@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA18742" content_id="EP0082-CUSA18742_00-0000000000000000" />
+  <patches>
+    <patch description="Duplicated content from update 01.03" pkg_required_version="01.00" update_version_required="01.03">
+      <file path="movie/MOVIE_ATRACT_GESTALT.mp4" />
+      <file path="sound/info.pck" />
+      <file path="sound/media.pck" />
+      <file path="sound/stream.pck" />
+      <file path="sound/stream2.pck" />
+      <file path="common.arc" />
+      <file path="info.arc" />
+      <file path="param.arc" />
+    </patch>
+    <patch description="Fake patch" pkg_required_version="01.03" update_version_required="01.03" />
+  </patches>
+</pkgpatch>
