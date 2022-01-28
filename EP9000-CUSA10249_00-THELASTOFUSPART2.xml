@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA10249" content_id="EP9000-CUSA10249_00-THELASTOFUSPART2" />
+  <patches>
+    <patch description="Duplicated content from update 01.07" pkg_required_version="01.00" update_version_required="01.07">
+      <file path="build/ps4/main/movie1/cin-end-credits-t2.mp4" />
+      <file path="build/ps4/main/actor97.txt" />
+      <file path="build/ps4/main/bin.psarc" />
+      <file path="build/ps4/main/pak68.txt" />
+      <file path="build/ps4/main/paks.txt" />
+      <file path="build/ps4/main/shaders.psarc" />
+      <file path="discname.txt" />
+    </patch>
+    <patch description="Fake patch to repack update" pkg_required_version="01.07" update_version_required="01.07" />
+    </patch>
+  </patches>
+</pkgpatch>
