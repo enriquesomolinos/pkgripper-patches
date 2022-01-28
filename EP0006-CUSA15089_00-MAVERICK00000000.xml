@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA15089" content_id="EP0006-CUSA15089_00-MAVERICK00000000" />
+  <patches>
+    <patch description="Multiplayer content" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="Data/Gen4b/game/installation/mp/cas.cat" />
+      <file path="Data/Gen4b/game/installation/mp/cas_01.cas" />
+      <file path="Data/Gen4b/game/installation/mp/cas_02.cas" />
+      <file path="Data/Gen4b/game/installation/mp/cas_03.cas" />
+      <file path="Data/Gen4b/game/installation/mp/cas_04.cas" />
+    </patch>
+    <patch description="Multiplayer content from update 01.03" pkg_required_version="01.03" update_version_required="01.03">
+      <file path="Patch/Gen4b/game/installation/mp/cas.cat" />
+      <file path="Patch/Gen4b/game/installation/mp/cas_01.cas" />
+      <file path="Patch/Gen4b/game/installation/mp/cas_02.cas" />
+      <file path="Patch/Gen4b/game/installation/mp/cas_03.cas" />
+      <file path="Patch/Gen4b/game/installation/mp/cas_04.cas" />
+    </patch>
+  </patches>
+</pkgpatch>

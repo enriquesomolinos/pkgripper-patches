@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA16832" content_id="UP1001-CUSA16832_00-00000PGATOUR2K21" />
+  <patches>
+    <patch description="Duplicated Content from 01.05" pkg_required_version="01.00" update_version_required="01.05">
+      <file path="Media/Metadata/global-metadata.dat" />
+      <file path="Media/Plugins/lib_burst_generated.txt" />
+      <file path="Media/StreamingAssets/AssetBundles/animation" />
+      <file path="Media/StreamingAssets/AssetBundles/animationdebug" />
+      <file path="Media/StreamingAssets/AssetBundles/audio" />
+      <file path="Media/StreamingAssets/AssetBundles/avatar" />
+      <file path="Media/StreamingAssets/AssetBundles/coursegenerator" />
+      <file path="Media/StreamingAssets/AssetBundles/equipmenticons" />
+      <file path="Media/StreamingAssets/AssetBundles/golfclubs" />
+      <file path="Media/StreamingAssets/AssetBundles/mvc" />
+      <file path="Media/StreamingAssets/AssetBundles/nis" />
+      <file path="Media/StreamingAssets/AssetBundles/preload" />
+      <file path="Media/StreamingAssets/AssetBundles/sharedavatar" />
+      <file path="Media/StreamingAssets/AssetBundles/simulatedopponents" />
+      <file path="Media/StreamingAssets/AssetBundles/speech" />
+      <file path="Media/StreamingAssets/AssetBundles/tests" />
+      <file path="Media/StreamingAssets/CrowdAnimation.asset" />
+      <file path="Media/globalgamemanagers" />
+      <file path="Media/globalgamemanagers.assets" />
+      <file path="Media/level0" />
+      <file path="Media/level1" />
+      <file path="Media/level10" />
+      <file path="Media/level10.resS" />
+      <file path="Media/level11" />
+      <file path="Media/level11.resS" />
+      <file path="Media/level12" />
+      <file path="Media/level12.resS" />
+      <file path="Media/level13" />
+      <file path="Media/level14" />
+      <file path="Media/level2" />
+      <file path="Media/level2.resS" />
+      <file path="Media/level3" />
+      <file path="Media/level4" />
+      <file path="Media/level5" />
+      <file path="Media/level6" />
+      <file path="Media/level7" />
+      <file path="Media/level8" />
+      <file path="Media/level9" />
+      <file path="Media/level9.resS" />
+      <file path="Media/resources.assets" />
+      <file path="Media/resources.assets.resS" />
+      <file path="Media/sharedassets0.assets" />
+      <file path="Media/sharedassets0.assets.resS" />
+      <file path="Media/sharedassets1.assets" />
+      <file path="Media/sharedassets10.assets" />
+      <file path="Media/sharedassets12.assets" />
+      <file path="Media/sharedassets12.assets.resS" />
+      <file path="Media/sharedassets13.assets" />
+      <file path="Media/sharedassets14.assets" />
+      <file path="Media/sharedassets2.assets" />
+      <file path="Media/sharedassets3.assets" />
+      <file path="Media/sharedassets3.assets.resS" />
+      <file path="Media/sharedassets4.assets" />
+      <file path="Media/sharedassets5.assets" />
+      <file path="Media/sharedassets6.assets" />
+      <file path="Media/sharedassets7.assets" />
+      <file path="Media/sharedassets7.assets.resS" />
+      <file path="Media/sharedassets8.assets" />
+      <file path="Media/sharedassets9.assets" />
+    </patch>
+    <patch description="Fake patch" pkg_required_version="01.05" update_version_required="01.05" />
+    
+  </patches>
+</pkgpatch>

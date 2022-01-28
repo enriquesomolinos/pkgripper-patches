@@ -18,6 +18,7 @@ These patches contains the information to remove contents from your own PS4 back
 | EP9000-CUSA12982_00-MEDIEVILHD000001 	| 20 GB               	| 8.0 GB                  	| 16 GB                 	| 16 GB                     	| 12 GB
 | UP0777-CUSA27897_00-MSGNASCAR21XXXXX 	| 10.7 GB             	| 0.5                     	| 11.5 GB               	| 11.1                      	| 10 GB
 | EP2165-CUSA15639_00-LOF2GAMEEUXXXXXX 	| 11.7 GB               | 0.5 GB                    | 11.4 GB                  	| 11.4 GB                      	| 10 GB
+| EP6713-CUSA26098_00-KINGSBOUNTY200EU 	| 10.3 GB               | 9.1 GB                    |  1.4 GB                 	| 9.1 GB                     	| 9.9GB
 | EP0001-CUSA13034_00-ORWFULLGAME00000 	| 28.7 GB               | 22.1 GB                   | 19.4 GB                 	| 16.1 GB                     	|  9 GB
 | EP6665-CUSA27790_00-WRC10SIEE0000000 	| 25.3 GB               | 17.0 GB                   | 12.5 GB                  	| 11.4 GB                      	|  9 GB
 | UP1001-CUSA15666_00-WWE2K20MAINSKU01 	| 45.9 GB               | 37.5 GB                   | 13.2 GB                  	| 13.2 GB                      	|  8 GB
@@ -26,12 +27,16 @@ These patches contains the information to remove contents from your own PS4 back
 | UP3376-CUSA20594_00-SSVISAGEGAMEPACK 	| 8.45 GB               | 0.13 GB                   | 8.32 GB                  	| 8.32 GB                      	|  8 GB
 | EP1003-CUSA13275_00-DOOM050000000000 	|  38.8 GB              |  34.5 GB                  |  6.3 GB                 	| 3.3 GB                     	|  7.5 GB
 | UP4040-CUSA01830_00-ASSETTOCORSAXXXX 	| 12.9 GB               |  5.7 GB                   | 16.0 GB                 	| 16.1 GB                     	|  7 GB
+| UP1001-CUSA16832_00-00000PGATOUR2K21 	|  5.5 GB               |  5.4 GB                   |  0.2 GB                 	| 5.4 GB                     	|  5.3 GB
 | UP4134-CUSA08126_00-OWSOULSTORM00001 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  5 GB
 | EP4389-CUSA04462_00-ELEXRPGPBNGEU001 	| 22.8 GB               | 18.6 GB                   | 4.9 GB                  	| 4.9 GB                      	|  4 GB
 | EP2028-CUSA03144_00-WASTELAND2GTYPS4 	| 4.8 GB                | 0.6 GB                    | 2.0 GB                  	| 2.0 GB                      	|  4 GB
 | EP0001-CUSA00462_00-FC4GAMEPS4000001 	|  23  GB               |  --- GB                   |  19  GB                 	| --- GB                     	|  4 GB
-| EP9000-CUSA01715_00-0000GODOFWAR3PS4 	| 40.0 GB               | 37.0 GB                   | 0.1 GB                  	|  0.1 GB                      	|  3 GB
+| UP9000-CUSA17722_00-MARVELSSMMORALES 	|  40.3 GB              |  10.7 GB                  |  36.9 GB                 	| 10.7 GB                     	|  3.4 GB
+| EP9000-CUSA01715_00-0000GODOFWAR3PS4 	| 40.0 GB               | 37.0 GB                   | 0.1 GB                  	|  0.1 GB                      	|   3 GB
+| EP0006-CUSA15089_00-MAVERICK00000000 	|  19.0 GB              |  1.9 GB                   |  16.8 GB                 	|  1.6 GB                     	|  2.5 GB
 | EP4365-CUSA17475_00-PORTROYALE4XXGMS 	|  5.7 GB               |  2.1 GB                   |  3.7 GB                 	| 1.6 GB                     	|  2.5 GB
+| EP0082-CUSA18742_00-0000000000000000 	|  21.0 GB              |  2.3 GB                   |  19.0 GB                 	| 2.3 GB                     	|  2.0 GB
 | EP4365-CUSA16260_00-COMMANDOS2HD0001 	|  3.4 GB               |  1.9 GB                   |  2.9 GB                 	| 2.9 GB                     	|  1.5 GB
 | EP0403-CUSA05996_00-0000000000000000 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  1.3 GB
 | UP1063-CUSA23468_00-FLREVENANTS00001 	|  1.4 GB               |  1.5 GB                   |  0.1 GB                 	| 1.5 GB                     	|  1.3 GB
@@ -44,15 +49,8 @@ These patches contains the information to remove contents from your own PS4 back
 | UP3971-CUSA23079_00-HONKHONKHONKHONK 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  0.5 GB
 | UP0001-CUSA01024_00-0000111122223333 	|  0.5 GB               |  0.5 GB                   |  0.2 GB                 	| 0.5 GB                     	|  0.5 GB
 | UP1001-CUSA16767_00-WWEBATTLEGROUNDS 	|  6.0 GB               |  2.4 GB                   |  5.6 GB                 	| 2.4 GB                     	|  0.4 GB
+| EP4356-CUSA18194_00-RIDE4FULLGAME000 	|  14.3 GB              |  7.1 GB                   |  13.9 GB                 	| 7.1 GB                     	|  0.4 GB
 | UP1091-CUSA27205_00-JASBMALLBRAWL000 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  --  GB
-
-
-
-
-
-
-
-
 
 
 ## File structure
