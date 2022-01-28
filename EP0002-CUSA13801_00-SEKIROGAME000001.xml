@@ -855,6 +855,5 @@
       <file path="dvdroot_ps4/sound/xm25.itl" />
     </patch>
     <patch description="Fake patch to repack update" pkg_required_version="01.04" update_version_required="01.04" />
-    </patch>
   </patches>
 </pkgpatch>

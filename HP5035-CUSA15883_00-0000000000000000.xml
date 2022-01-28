@@ -244,6 +244,5 @@
       <file path="Media/sharedassets99.assets" />
     </patch>
     <patch description="Fake patch to repack update" pkg_required_version="01.20" update_version_required="01.20" />
-    </patch>
   </patches>
 </pkgpatch>

@@ -50,6 +50,5 @@
       <file path="archive.psarc" />
     </patch>
     <patch description="Fake patch to repack update" pkg_required_version="01.02" update_version_required="01.02" />
-    </patch>
   </patches>
 </pkgpatch>

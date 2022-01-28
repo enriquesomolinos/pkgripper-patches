@@ -1829,6 +1829,5 @@
       <file path="version.txt" />
     </patch>
     <patch description="Fake patch to repack update" pkg_required_version="01.05" update_version_required="01.05" />
-    </patch>
   </patches>
 </pkgpatch>

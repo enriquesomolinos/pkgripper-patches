@@ -1180,6 +1180,5 @@
       <file path="exec/boot-options.json" />
     </patch>
     <patch description="Fake patch to repack update" pkg_required_version="01.33" update_version_required="01.33" />
-    </patch>
   </patches>
 </pkgpatch>

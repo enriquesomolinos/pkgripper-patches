@@ -2311,6 +2311,5 @@
       <file path="string/mes_zidane_voice_spa.bin" />
     </patch>
     <patch description="Fake patch to repack update" pkg_required_version="01.44" update_version_required="01.44" />
-    </patch>
   </patches>
 </pkgpatch>

@@ -14,6 +14,5 @@
       <file path="Manifest_DebugFiles_PS4.txt" />
     </patch>
     <patch description="Fake patch to repack update" pkg_required_version="01.07" update_version_required="01.07" />
-    </patch>
   </patches>
 </pkgpatch>

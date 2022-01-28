@@ -405,6 +405,5 @@
       <file path="dvdroot_ps4/sound/sprj_sm36_ptb.fsb" />
     </patch>
     <patch description="Fake patch to repack update" pkg_required_version="01.09" update_version_required="01.09" />
-    </patch>
   </patches>
 </pkgpatch>

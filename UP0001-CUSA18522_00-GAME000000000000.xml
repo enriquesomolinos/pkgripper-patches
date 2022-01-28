@@ -19,6 +19,5 @@
       <file path="streaminginstall.ini" />
     </patch>
     <patch description="Fake patch to repack update" pkg_required_version="01.01" update_version_required="01.01" />
-    </patch>
   </patches>
 </pkgpatch>
