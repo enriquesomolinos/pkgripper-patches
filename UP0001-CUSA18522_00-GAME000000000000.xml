@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA18522" content_id="UP0001-CUSA18522_00-GAME000000000000" />
+  <patches>
+    <patch description="Duplicated content from update 01.01" pkg_required_version="01.00" update_version_required="01.01">
+      <file path="videos/RL1_MQ050_CIN_CheatingDeath_Part010_Female.webm" />
+      <file path="videos/RL1_MQ050_CIN_CheatingDeath_Part010_Male.webm" />
+      <file path="videos/WM3_MQ060_S060_CIN_Parley_Aelfred.webm" />
+      <file path="DataPS4_ACK_Asgard_gnm.forge" />
+      <file path="DataPS4_ACK_EndGame_gnm.forge" />
+      <file path="DataPS4_ACK_England_gnm.forge" />
+      <file path="DataPS4_ACK_Jotunheim_gnm.forge" />
+      <file path="DataPS4_ACK_Norway_gnm.forge" />
+      <file path="DataPS4_ACK_TitleScreen_gnm.forge" />
+      <file path="DataPS4_SharedGroup_00_gnm.forge" />
+      <file path="DataPS4_extra_gnm.forge" />
+      <file path="DataPS4_gnm.forge" />
+      <file path="ShaderData.bin" />
+      <file path="streaminginstall.ini" />
+    </patch>
+    <patch description="Fake patch to repack update" pkg_required_version="01.01" update_version_required="01.01" />
+    </patch>
+  </patches>
+</pkgpatch>
