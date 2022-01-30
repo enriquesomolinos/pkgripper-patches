@@ -52,6 +52,17 @@ These patches contains the information to remove contents from your own PS4 back
 | EP4356-CUSA18194_00-RIDE4FULLGAME000 	|  14.3 GB              |  7.1 GB                   |  13.9 GB                 	| 7.1 GB                     	|  0.4 GB
 | UP1091-CUSA27205_00-JASBMALLBRAWL000 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  --  GB
 
+| EP0002-CUSA13801_00-SEKIROGAME000001 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  --  GB
+| EP0082-CUSA09244_00-NTPKG00000000000 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  --  GB
+| EP0082-CUSA24103_00-DXM0000000000001 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  --  GB
+| EP9000-CUSA03173_00-BLOODBORNE0000EU 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  --  GB
+| EP9000-CUSA10249_00-THELASTOFUSPART2 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  --  GB
+| HP5035-CUSA15883_00-0000000000000000 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  --  GB
+| UP0001-CUSA18522_00-GAME000000000000	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  --  GB
+| UP0002-CUSA17922_00-TH12RTHEGAME0001 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  --  GB
+| UP0031-CUSA12059_00-NEPTUNIA2D000001 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  --  GB
+| UP9000-CUSA07408_00-00000000GODOFWAR 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  --  GB
+
 
 ## File structure
 
