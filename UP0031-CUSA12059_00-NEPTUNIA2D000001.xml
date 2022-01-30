@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA12059" content_id="UP0031-CUSA12059_00-NEPTUNIA2D000001" />
+  <patches>
+    <patch description="Duplicated content from update 01.02" pkg_required_version="01.00" update_version_required="01.02">
+      <file path="Media/Managed/Artisan.Unity.dll" />
+      <file path="Media/Managed/Assembly-CSharp.dll" />
+      <file path="Media/StreamingAssets/skinned/artisan_chan.default" />
+      <file path="Media/StreamingAssets/skinned/artisan_chan.default.manifest" />
+      <file path="Media/StreamingAssets/skinned/blackheart.default" />
+      <file path="Media/StreamingAssets/skinned/blackheart.default.manifest" />
+      <file path="Media/StreamingAssets/skinned/blackheartshadow.default" />
+      <file path="Media/StreamingAssets/skinned/blackheartshadow.default.manifest" />
+      <file path="Media/StreamingAssets/skinned/blanc.default" />
+      <file path="Media/StreamingAssets/skinned/blanc.default.manifest" />
+      <file path="Media/StreamingAssets/skinned/chrome.default" />
+      <file path="Media/StreamingAssets/skinned/chrome.default.manifest" />
+      <file path="Media/StreamingAssets/skinned/compa.default" />
+      <file path="Media/StreamingAssets/skinned/compa.default.manifest" />
+      <file path="Media/StreamingAssets/skinned/greenheart.default" />
+      <file path="Media/StreamingAssets/skinned/greenheart.default.manifest" />
+      <file path="Media/StreamingAssets/skinned/greenheartshadow.default" />
+      <file path="Media/StreamingAssets/skinned/greenheartshadow.default.manifest" />
+      <file path="Media/StreamingAssets/skinned/if.default" />
+      <file path="Media/StreamingAssets/skinned/if.default.manifest" />
+      <file path="Media/StreamingAssets/skinned/kamura.default" />
+      <file path="Media/StreamingAssets/skinned/kamura.default.manifest" />
+      <file path="Media/StreamingAssets/skinned/kukei.default" />
+      <file path="Media/StreamingAssets/skinned/kukei.default.manifest" />
+      <file path="Media/StreamingAssets/skinned/noire.default" />
+      <file path="Media/StreamingAssets/skinned/noire.default.manifest" />
+      <file path="Media/StreamingAssets/skinned/purpleheart.default" />
+      <file path="Media/StreamingAssets/skinned/purpleheart.default.manifest" />
+      <file path="Media/StreamingAssets/skinned/purupurupet.default" />
+      <file path="Media/StreamingAssets/skinned/purupurupet.default.manifest" />
+      <file path="Media/StreamingAssets/skinned/robot.default" />
+      <file path="Media/StreamingAssets/skinned/robot.default.manifest" />
+      <file path="Media/StreamingAssets/skinned/ronflex.default" />
+      <file path="Media/StreamingAssets/skinned/ronflex.default.manifest" />
+      <file path="Media/StreamingAssets/skinned/surara.default" />
+      <file path="Media/StreamingAssets/skinned/surara.default.manifest" />
+      <file path="Media/StreamingAssets/skinned/whiteheart.default" />
+      <file path="Media/StreamingAssets/skinned/whiteheart.default.manifest" />
+      <file path="Media/StreamingAssets/PS4" />
+      <file path="Media/StreamingAssets/PS4.manifest" />
+      <file path="Media/globalgamemanagers" />
+      <file path="Media/globalgamemanagers.assets" />
+      <file path="Media/sharedassets2.assets.resS" />
+      <file path="Media/sharedassets3.assets.resS" />
+      <file path="archive.psarc" />
+    </patch>
+    <patch description="Fake patch to repack update" pkg_required_version="01.02" update_version_required="01.02" />
+  </patches>
+</pkgpatch>

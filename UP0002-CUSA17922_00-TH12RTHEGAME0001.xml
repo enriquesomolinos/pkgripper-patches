@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA17922" content_id="UP0002-CUSA17922_00-TH12RTHEGAME0001" />
+  <patches>
+    <patch description="Duplicated content from update 01.07" pkg_required_version="01.00" update_version_required="01.07">
+      <file path="base/content/movies/skatervids/alc-char-rg final.mp4" />
+      <file path="base/content/movies/startupmovies/mp_autosavebackground.uasset" />
+      <file path="base/content/movies/tutorialvids/tut_specialtrick.mp4" />
+      <file path="base/content/movies/tutorialvids/tutorial_vid_cap_playerstart.mp4" />
+      <file path="base/content/movies/tutorialvids/tutorial_vid_cap_welcome.mp4" />
+      <file path="base/content/movies/vidscreen/vidscreen_shrimp_movie.bk2" />
+      <file path="base/content/movies/frontendbacksplashvid.mp4" />
+      <file path="engine/build/ps4/inviteicon.jpg" />
+      <file path="Manifest_DebugFiles_PS4.txt" />
+    </patch>
+    <patch description="Fake patch to repack update" pkg_required_version="01.07" update_version_required="01.07" />
+  </patches>
+</pkgpatch>
