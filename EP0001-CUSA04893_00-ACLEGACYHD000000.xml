@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA04893" content_id="EP0001-CUSA04893_00-ACLEGACYHD000000" />
+  <patches>
+    <patch description="Language English Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="AC2/sounddata/Orbis/sounds_fre.pck" />
+      <file path="AC2/sounddata/Orbis/sounds_ger.pck" />
+      <file path="AC2/sounddata/Orbis/sounds_ita.pck" />
+      <file path="AC2/sounddata/Orbis/sounds_rus.pck" />
+      <file path="AC2/sounddata/Orbis/sounds_spa.pck" />
+      <file path="ACB/Sounddata/Orbis/sounds_fre.pck" />
+      <file path="ACB/Sounddata/Orbis/sounds_ger.pck" />
+      <file path="ACB/Sounddata/Orbis/sounds_ita.pck" />
+      <file path="ACB/Sounddata/Orbis/sounds_rus.pck" />
+      <file path="ACB/Sounddata/Orbis/sounds_spa.pck" />
+      <file path="ACR/sounddata/Orbis/sounds_fre.pck" />
+      <file path="ACR/sounddata/Orbis/sounds_ger.pck" />
+      <file path="ACR/sounddata/Orbis/sounds_ita.pck" />
+      <file path="ACR/sounddata/Orbis/sounds_rus.pck" />
+      <file path="ACR/sounddata/Orbis/sounds_spa.pck" />
+    </patch>
+    <patch description="Language French Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="AC2/sounddata/Orbis/sounds_ger.pck" />
+      <file path="AC2/sounddata/Orbis/sounds_ita.pck" />
+      <file path="AC2/sounddata/Orbis/sounds_rus.pck" />
+      <file path="AC2/sounddata/Orbis/sounds_spa.pck" />
+      <file path="ACB/Sounddata/Orbis/sounds_ger.pck" />
+      <file path="ACB/Sounddata/Orbis/sounds_ita.pck" />
+      <file path="ACB/Sounddata/Orbis/sounds_rus.pck" />
+      <file path="ACB/Sounddata/Orbis/sounds_spa.pck" />
+      <file path="ACR/sounddata/Orbis/sounds_ger.pck" />
+      <file path="ACR/sounddata/Orbis/sounds_ita.pck" />
+      <file path="ACR/sounddata/Orbis/sounds_rus.pck" />
+      <file path="ACR/sounddata/Orbis/sounds_spa.pck" />
+      <file path="AC2/sounddata/Orbis/sounds_eng.pck" />
+      <file path="ACB/Sounddata/Orbis/sounds_eng.pck" />
+      <file path="ACR/sounddata/Orbis/sounds_eng.pck" />
+    </patch>
+    <patch description="Language German Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="AC2/sounddata/Orbis/sounds_ita.pck" />
+      <file path="AC2/sounddata/Orbis/sounds_rus.pck" />
+      <file path="AC2/sounddata/Orbis/sounds_spa.pck" />
+      <file path="ACB/Sounddata/Orbis/sounds_ita.pck" />
+      <file path="ACB/Sounddata/Orbis/sounds_rus.pck" />
+      <file path="ACB/Sounddata/Orbis/sounds_spa.pck" />
+      <file path="ACR/sounddata/Orbis/sounds_ita.pck" />
+      <file path="ACR/sounddata/Orbis/sounds_rus.pck" />
+      <file path="ACR/sounddata/Orbis/sounds_spa.pck" />
+      <file path="AC2/sounddata/Orbis/sounds_eng.pck" />
+      <file path="ACB/Sounddata/Orbis/sounds_eng.pck" />
+      <file path="ACR/sounddata/Orbis/sounds_eng.pck" />
+      <file path="AC2/sounddata/Orbis/sounds_fre.pck" />
+      <file path="ACB/Sounddata/Orbis/sounds_fre.pck" />
+      <file path="ACR/sounddata/Orbis/sounds_fre.pck" />
+    </patch>
+    <patch description="Language Italian Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="AC2/sounddata/Orbis/sounds_rus.pck" />
+      <file path="AC2/sounddata/Orbis/sounds_spa.pck" />
+      <file path="ACB/Sounddata/Orbis/sounds_rus.pck" />
+      <file path="ACB/Sounddata/Orbis/sounds_spa.pck" />
+      <file path="ACR/sounddata/Orbis/sounds_rus.pck" />
+      <file path="ACR/sounddata/Orbis/sounds_spa.pck" />
+      <file path="AC2/sounddata/Orbis/sounds_eng.pck" />
+      <file path="ACB/Sounddata/Orbis/sounds_eng.pck" />
+      <file path="ACR/sounddata/Orbis/sounds_eng.pck" />
+      <file path="AC2/sounddata/Orbis/sounds_fre.pck" />
+      <file path="ACB/Sounddata/Orbis/sounds_fre.pck" />
+      <file path="ACR/sounddata/Orbis/sounds_fre.pck" />
+      <file path="AC2/sounddata/Orbis/sounds_ger.pck" />
+      <file path="ACB/Sounddata/Orbis/sounds_ger.pck" />
+      <file path="ACR/sounddata/Orbis/sounds_ger.pck" />
+    </patch>
+    <patch description="Language Russian Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="AC2/sounddata/Orbis/sounds_spa.pck" />
+      <file path="ACB/Sounddata/Orbis/sounds_spa.pck" />
+      <file path="ACR/sounddata/Orbis/sounds_spa.pck" />
+      <file path="AC2/sounddata/Orbis/sounds_eng.pck" />
+      <file path="ACB/Sounddata/Orbis/sounds_eng.pck" />
+      <file path="ACR/sounddata/Orbis/sounds_eng.pck" />
+      <file path="AC2/sounddata/Orbis/sounds_fre.pck" />
+      <file path="ACB/Sounddata/Orbis/sounds_fre.pck" />
+      <file path="ACR/sounddata/Orbis/sounds_fre.pck" />
+      <file path="AC2/sounddata/Orbis/sounds_ger.pck" />
+      <file path="ACB/Sounddata/Orbis/sounds_ger.pck" />
+      <file path="ACR/sounddata/Orbis/sounds_ger.pck" />
+      <file path="AC2/sounddata/Orbis/sounds_ita.pck" />
+      <file path="ACB/Sounddata/Orbis/sounds_ita.pck" />
+      <file path="ACR/sounddata/Orbis/sounds_ita.pck" />
+    </patch>
+    <patch description="Language Spanish Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="AC2/sounddata/Orbis/sounds_eng.pck" />
+      <file path="ACB/Sounddata/Orbis/sounds_eng.pck" />
+      <file path="ACR/sounddata/Orbis/sounds_eng.pck" />
+      <file path="AC2/sounddata/Orbis/sounds_fre.pck" />
+      <file path="ACB/Sounddata/Orbis/sounds_fre.pck" />
+      <file path="ACR/sounddata/Orbis/sounds_fre.pck" />
+      <file path="AC2/sounddata/Orbis/sounds_ger.pck" />
+      <file path="ACB/Sounddata/Orbis/sounds_ger.pck" />
+      <file path="ACR/sounddata/Orbis/sounds_ger.pck" />
+      <file path="AC2/sounddata/Orbis/sounds_ita.pck" />
+      <file path="ACB/Sounddata/Orbis/sounds_ita.pck" />
+      <file path="ACR/sounddata/Orbis/sounds_ita.pck" />
+      <file path="AC2/sounddata/Orbis/sounds_rus.pck" />
+      <file path="ACB/Sounddata/Orbis/sounds_rus.pck" />
+      <file path="ACR/sounddata/Orbis/sounds_rus.pck" />
+    </patch>
+  </patches>
+</pkgpatch>
