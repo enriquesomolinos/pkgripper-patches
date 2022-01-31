@@ -15,6 +15,8 @@ These patches contains the information to remove contents from your own PS4 back
 | EP1003-CUSA05486_00-SKYRIMHDFULLGAME 	| 31.1 GB               | 12.4 GB                   |  2.8 GB                  	|  2.8 GB                      	| 19 GB
 | EP4001-CUSA12747_00-DIRTRALLY2EU0001 	| 26.5 GB               |  51.0 GB                  |  7.6 GB                 	| 51.0 GB                     	| 19 GB
 | EP2037-CUSA25234_00-DKALLIANCE01EURO 	| 19.7 GB               | 1.2 GB                   	| 23.0 GB                  	| 23.0 GB                      	| 18 GB
+| UP1001-CUSA16990_00-MAFIATWOREMASTER 	|  44.6 GB              |  9.0 GB                   |  29.6 GB                 	| 6.2 GB                     	|  17.8  GB
+| UP1001-CUSA18097_00-MAFIAONEREMASTER 	|  36.2 GB              |  7.1 GB                   |  24.4 GB                 	| 6.1 GB                     	|  12.8  GB
 | EP9000-CUSA12982_00-MEDIEVILHD000001 	| 20 GB               	| 8.0 GB                  	| 16 GB                 	| 16 GB                     	| 12 GB
 | UP0777-CUSA27897_00-MSGNASCAR21XXXXX 	| 10.7 GB             	| 0.5                     	| 11.5 GB               	| 11.1                      	| 10 GB
 | EP2165-CUSA15639_00-LOF2GAMEEUXXXXXX 	| 11.7 GB               | 0.5 GB                    | 11.4 GB                  	| 11.4 GB                      	| 10 GB
@@ -32,6 +34,7 @@ These patches contains the information to remove contents from your own PS4 back
 | EP4389-CUSA04462_00-ELEXRPGPBNGEU001 	| 22.8 GB               | 18.6 GB                   | 4.9 GB                  	| 4.9 GB                      	|  4 GB
 | EP2028-CUSA03144_00-WASTELAND2GTYPS4 	| 4.8 GB                | 0.6 GB                    | 2.0 GB                  	| 2.0 GB                      	|  4 GB
 | EP0001-CUSA00462_00-FC4GAMEPS4000001 	|  23  GB               |  --- GB                   |  19  GB                 	| --- GB                     	|  4 GB
+| EP0001-CUSA04893_00-ACLEGACYHD000000 	|  39.1 GB              |  --- GB                   |  35.3 GB                 	| --- GB                     	|  3.8  GB
 | UP9000-CUSA17722_00-MARVELSSMMORALES 	|  40.3 GB              |  10.7 GB                  |  36.9 GB                 	| 10.7 GB                     	|  3.4 GB
 | EP9000-CUSA01715_00-0000GODOFWAR3PS4 	| 40.0 GB               | 37.0 GB                   | 0.1 GB                  	|  0.1 GB                      	|   3 GB
 | EP0006-CUSA15089_00-MAVERICK00000000 	|  19.0 GB              |  1.9 GB                   |  16.8 GB                 	|  1.6 GB                     	|  2.5 GB
@@ -62,6 +65,9 @@ These patches contains the information to remove contents from your own PS4 back
 | UP0002-CUSA17922_00-TH12RTHEGAME0001 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  --  GB
 | UP0031-CUSA12059_00-NEPTUNIA2D000001 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  --  GB
 | UP9000-CUSA07408_00-00000000GODOFWAR 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  --  GB
+
+
+
 
 
 ## File structure
