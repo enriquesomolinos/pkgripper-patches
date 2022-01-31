@@ -53,8 +53,8 @@ These patches contains the information to remove contents from your own PS4 back
 | UP0001-CUSA01024_00-0000111122223333 	|  0.5 GB               |  0.5 GB                   |  0.2 GB                 	| 0.5 GB                     	|  0.5 GB
 | UP1001-CUSA16767_00-WWEBATTLEGROUNDS 	|  6.0 GB               |  2.4 GB                   |  5.6 GB                 	| 2.4 GB                     	|  0.4 GB
 | EP4356-CUSA18194_00-RIDE4FULLGAME000 	|  14.3 GB              |  7.1 GB                   |  13.9 GB                 	| 7.1 GB                     	|  0.4 GB
+| UP2456-CUSA06840_00-STARDEW00000SIEA 	|  0.16 GB              |  0.06 GB                   |  0.3 GB                 	| 0.3 GB                     	|  0.1  GB
 | UP1091-CUSA27205_00-JASBMALLBRAWL000 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  --  GB
-
 | EP0002-CUSA13801_00-SEKIROGAME000001 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  --  GB
 | EP0082-CUSA09244_00-NTPKG00000000000 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  --  GB
 | EP0082-CUSA24103_00-DXM0000000000001 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  --  GB
@@ -65,6 +65,13 @@ These patches contains the information to remove contents from your own PS4 back
 | UP0002-CUSA17922_00-TH12RTHEGAME0001 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  --  GB
 | UP0031-CUSA12059_00-NEPTUNIA2D000001 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  --  GB
 | UP9000-CUSA07408_00-00000000GODOFWAR 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  --  GB
+| UP0895-CUSA15452_00-CROSSCODEPLAYSTA 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  --  GB
+| UP4399-CUSA25807_00-2857473382458244 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  --  GB
+| UP4907-CUSA27022_00-ALWASLEGACY00001 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  --  GB
+| UP9000-CUSA10237_00-HRZCE00000000000	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  --  GB
+| UP1003-CUSA24593_00-QKRMST0000000000 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  --  GB
+| EP3746-CUSA15250_00-TFSHVCDRPS4EU084 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  --  GB
+| UP9000-CUSA00552_00-THELASTOFUS00000 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  --  GB
 
 
 
