@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA24593" content_id="UP1003-CUSA24593_00-QKRMST0000000000" />
+  <patches>
+    <patch description="Remove Duplicates" pkg_required_version="01.00" update_version_required="01.05">
+      <file path="QuakeEX.kpf" />
+      <file path="ageRestrictions.json" />
+      <file path="ps4.kpf" />
+    </patch>
+    <patch description="fake patch to repack update" pkg_required_version="01.05" update_version_required="01.05" />
+  </patches>
+</pkgpatch>

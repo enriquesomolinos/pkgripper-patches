@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA10237" content_id="UP9000-CUSA10237_00-HRZCE00000000000" />
+  <patches>
+    <patch description="English Only" pkg_required_version="01.00" update_version_required="01.52">
+      <file path="packed_pink/dlc1_french.bin" />
+      <file path="packed_pink/dlc1_latampor.bin" />
+      <file path="packed_pink/dlc1_latamsp.bin" />
+      <file path="packed_pink/initial_french.bin" />
+      <file path="packed_pink/initial_latampor.bin" />
+      <file path="packed_pink/initial_latamsp.bin" />
+      <file path="packed_pink/remainder_french.bin" />
+      <file path="packed_pink/remainder_latampor.bin" />
+      <file path="packed_pink/remainder_latamsp.bin" />
+    </patch>
+    <patch description="French Only" pkg_required_version="01.00" update_version_required="01.52">
+      <file path="packed_pink/dlc1_english.bin" />
+      <file path="packed_pink/dlc1_latampor.bin" />
+      <file path="packed_pink/dlc1_latamsp.bin" />
+      <file path="packed_pink/initial_english.bin" />
+      <file path="packed_pink/initial_latampor.bin" />
+      <file path="packed_pink/initial_latamsp.bin" />
+      <file path="packed_pink/remainder_english.bin" />
+      <file path="packed_pink/remainder_latampor.bin" />
+      <file path="packed_pink/remainder_latamsp.bin" />
+    </patch>
+    <patch description="Portuguese Only" pkg_required_version="01.00" update_version_required="01.52">
+      <file path="packed_pink/dlc1_english.bin" />
+      <file path="packed_pink/dlc1_french.bin" />
+      <file path="packed_pink/dlc1_latamsp.bin" />
+      <file path="packed_pink/initial_french.bin" />
+      <file path="packed_pink/initial_latamsp.bin" />
+      <file path="packed_pink/remainder_english.bin" />
+      <file path="packed_pink/remainder_french.bin" />
+      <file path="packed_pink/remainder_latamsp.bin" />
+    </patch>
+    <patch description="Spanish Only" pkg_required_version="01.00" update_version_required="01.52">
+      <file path="packed_pink/dlc1_english.bin" />
+      <file path="packed_pink/dlc1_french.bin" />
+      <file path="packed_pink/dlc1_latampor.bin" />
+      <file path="packed_pink/initial_english.bin" />
+      <file path="packed_pink/initial_french.bin" />
+      <file path="packed_pink/initial_latampor.bin" />
+      <file path="packed_pink/remainder_english.bin" />
+      <file path="packed_pink/remainder_french.bin" />
+      <file path="packed_pink/remainder_latampor.bin" />
+    </patch>
+	<patch description="fake patch to repack update" pkg_required_version="01.52" update_version_required="01.52" />
+  </patches>
+</pkgpatch>

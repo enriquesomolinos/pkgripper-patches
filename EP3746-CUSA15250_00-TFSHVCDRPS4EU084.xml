@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA15250" content_id="EP3746-CUSA15250_00-TFSHVCDRPS4EU084" />
+  <patches>
+    <patch description="English Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="games/lang/lang_ja.json" />
+    </patch>
+  </patches>
+</pkgpatch>

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA00552" content_id="UP9000-CUSA00552_00-THELASTOFUS00000" />
+  <patches>
+    <patch description="fake patch to repack update" pkg_required_version="01.10" update_version_required="01.10" />
+    <patch description="English Only" pkg_required_version="01.00" update_version_required="01.10">
+      <file path="build/ps4/main/sound1/streams/speech/brazilian-mp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/brazilian-sp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/french-mp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/french-sp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/sam-spanish-mp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/sam-spanish-sp.psarc" />
+    </patch>
+    <patch description="Brazilian Only" pkg_required_version="01.00" update_version_required="01.10">
+      <file path="" />
+      <file path="build/ps4/main/sound1/streams/speech/english-mp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/english-sp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/french-mp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/french-sp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/sam-spanish-mp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/sam-spanish-sp.psarc" />
+    </patch>
+    <patch description="French Only" pkg_required_version="01.00" update_version_required="01.10">
+      <file path="" />
+      <file path="build/ps4/main/sound1/streams/speech/brazilian-mp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/brazilian-sp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/english-mp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/english-sp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/sam-spanish-mp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/sam-spanish-sp.psarc" />
+    </patch>
+    <patch description="Spanish Only" pkg_required_version="01.00" update_version_required="01.10">
+      <file path="" />
+      <file path="build/ps4/main/sound1/streams/speech/brazilian-mp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/brazilian-sp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/english-mp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/english-sp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/french-mp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/french-sp.psarc" />
+    </patch>
+  </patches>
+</pkgpatch>
