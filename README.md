@@ -28,24 +28,31 @@ These patches contains the information to remove contents from your own PS4 back
 | EP4291-CUSA18673_00-CRYSIS3REMASTERE 	| 10.0 GB               | 1.8 GB                    |  6.4 GB                  	|  6.4 GB                      	|  8 GB
 | UP3376-CUSA20594_00-SSVISAGEGAMEPACK 	| 8.45 GB               | 0.13 GB                   | 8.32 GB                  	| 8.32 GB                      	|  8 GB
 | EP1003-CUSA13275_00-DOOM050000000000 	|  38.8 GB              |  34.5 GB                  |  6.3 GB                 	| 3.3 GB                     	|  7.5 GB
+| UP0001-CUSA05904_00-FARCRY5GAME00000 |  31.2 GB               |  8.5 GB                   |  25.2 GB                 	| 7.5 GB                     	|  7.3  GB
 | UP4040-CUSA01830_00-ASSETTOCORSAXXXX 	| 12.9 GB               |  5.7 GB                   | 16.0 GB                 	| 16.1 GB                     	|  7 GB
+| EP4008-CUSA19439_00-WRC9SIEE00000000 	|  20.3 GB              |  8.1 GB                   |  14.0 GB                 	| 8.1 GB                     	|  6.3 GB
 | UP1001-CUSA16832_00-00000PGATOUR2K21 	|  5.5 GB               |  5.4 GB                   |  0.2 GB                 	| 5.4 GB                     	|  5.3 GB
 | UP4134-CUSA08126_00-OWSOULSTORM00001 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  5 GB
 | EP4389-CUSA04462_00-ELEXRPGPBNGEU001 	| 22.8 GB               | 18.6 GB                   | 4.9 GB                  	| 4.9 GB                      	|  4 GB
 | EP2028-CUSA03144_00-WASTELAND2GTYPS4 	| 4.8 GB                | 0.6 GB                    | 2.0 GB                  	| 2.0 GB                      	|  4 GB
 | EP0001-CUSA00462_00-FC4GAMEPS4000001 	|  23  GB               |  --- GB                   |  19  GB                 	| --- GB                     	|  4 GB
-| EP0001-CUSA04893_00-ACLEGACYHD000000 	|  39.1 GB              |  --- GB                   |  35.3 GB                 	| --- GB                     	|  3.8  GB
+| EP0001-CUSA04893_00-ACLEGACYHD000000 	|  39.1 GB              |  --- GB                   |  35.3 GB                 	| --- GB                     	|  3.8 GB
 | UP9000-CUSA17722_00-MARVELSSMMORALES 	|  40.3 GB              |  10.7 GB                  |  36.9 GB                 	| 10.7 GB                     	|  3.4 GB
 | EP9000-CUSA01715_00-0000GODOFWAR3PS4 	| 40.0 GB               | 37.0 GB                   | 0.1 GB                  	|  0.1 GB                      	|   3 GB
 | EP0006-CUSA15089_00-MAVERICK00000000 	|  19.0 GB              |  1.9 GB                   |  16.8 GB                 	|  1.6 GB                     	|  2.5 GB
 | EP4365-CUSA17475_00-PORTROYALE4XXGMS 	|  5.7 GB               |  2.1 GB                   |  3.7 GB                 	| 1.6 GB                     	|  2.5 GB
 | EP0082-CUSA18742_00-0000000000000000 	|  21.0 GB              |  2.3 GB                   |  19.0 GB                 	| 2.3 GB                     	|  2.0 GB
+| EP1001-CUSA15381_00-CIV6BASE00000000 	| 3.4 GB               |  5.1 GB                   |  1.7 GB                 	| 5.1 GB                     	|  1.7 GB
+| EP0001-CUSA10123_00-ACRGAMEPS4000001 	|  9.6 GB               |  --- GB                   |  8.0 GB                 	| --- GB                     	|  1.6 GB
 | EP4365-CUSA16260_00-COMMANDOS2HD0001 	|  3.4 GB               |  1.9 GB                   |  2.9 GB                 	| 2.9 GB                     	|  1.5 GB
 | EP0403-CUSA05996_00-0000000000000000 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  1.3 GB
 | UP1063-CUSA23468_00-FLREVENANTS00001 	|  1.4 GB               |  1.5 GB                   |  0.1 GB                 	| 1.5 GB                     	|  1.3 GB
 | EP4008-CUSA23445_00-TWT2SIEE00000000 	|  6.4 GB               |  1.5 GB                   |  5.2 GB                 	| 1.5 GB                     	|  1.2 GB
 | EP3678-CUSA17580_00-TRANSFOBASEGAME0 	| 3.2 GB              	| 2.1 GB                  	| 0.7 GB                	| 0.7 GB                    	|  1 GB
 | EP4295-CUSA23755_00-ASTERIXBTA0000EU 	|  1.3 GB               |  0.2 GB                   |  1.2 GB                 	| 1.2 GB                     	|  1 GB
+| EP0001-CUSA00009_00-AC4GAMEPS4000001 	|  20.1 GB              |  --- GB                   |  19.1 GB                 	| --- GB                     	|  1  GB
+| EP0177-CUSA16745_00-LIKEADRAGON00000 	|  42.9 GB              |  --- GB                   |  41.9 GB                 	| --- GB                     	|  1  GB
+| EP0001-CUSA00435_00-ACBFDLCSPSA00001 	|  6.9 GB               |  --- GB                   |  6.0 GB                 	| --- GB                     	|  0.9 GB
 | EP4295-CUSA16983_00-ASTERIXXXL3EUR00 	|  1.1 GB               |  0.6 GB                   |  0.4 GB                 	| 0.6 GB                     	|  0.7 GB
 | EP5733-CUSA16609_00-WHIPSEEY00000000 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  0.6 GB
 | EP4264-CUSA27312_00-BALDOPS4CONTENT0 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  0.5 GB
@@ -53,7 +60,7 @@ These patches contains the information to remove contents from your own PS4 back
 | UP0001-CUSA01024_00-0000111122223333 	|  0.5 GB               |  0.5 GB                   |  0.2 GB                 	| 0.5 GB                     	|  0.5 GB
 | UP1001-CUSA16767_00-WWEBATTLEGROUNDS 	|  6.0 GB               |  2.4 GB                   |  5.6 GB                 	| 2.4 GB                     	|  0.4 GB
 | EP4356-CUSA18194_00-RIDE4FULLGAME000 	|  14.3 GB              |  7.1 GB                   |  13.9 GB                 	| 7.1 GB                     	|  0.4 GB
-| UP2456-CUSA06840_00-STARDEW00000SIEA 	|  0.16 GB              |  0.06 GB                   |  0.3 GB                 	| 0.3 GB                     	|  0.1  GB
+| UP2456-CUSA06840_00-STARDEW00000SIEA 	|  0.16 GB              |  0.06 GB                   |  0.3 GB                 	| 0.3 GB                     	|  0.1 GB
 | UP1091-CUSA27205_00-JASBMALLBRAWL000 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  --  GB
 | EP0002-CUSA13801_00-SEKIROGAME000001 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  --  GB
 | EP0082-CUSA09244_00-NTPKG00000000000 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  --  GB
@@ -72,6 +79,11 @@ These patches contains the information to remove contents from your own PS4 back
 | UP1003-CUSA24593_00-QKRMST0000000000 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  --  GB
 | EP3746-CUSA15250_00-TFSHVCDRPS4EU084 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  --  GB
 | UP9000-CUSA00552_00-THELASTOFUS00000 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  --  GB
+
+
+
+
+
 
 
 
