@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA10123" content_id="EP0001-CUSA10123_00-ACRGAMEPS4000001" />
+  <patches>
+    <patch description="Language Brazilian Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="sounddata/Orbis/sounds_eng.pck" />
+      <file path="sounddata/Orbis/sounds_eng_pck_2.pck" />
+      <file path="sounddata/Orbis/sounds_fre.pck" />
+      <file path="sounddata/Orbis/sounds_fre_pck_2.pck" />
+      <file path="sounddata/Orbis/sounds_ger.pck" />
+      <file path="sounddata/Orbis/sounds_ger_pck_2.pck" />
+      <file path="sounddata/Orbis/sounds_ita.pck" />
+      <file path="sounddata/Orbis/sounds_ita_pck_2.pck" />
+      <file path="sounddata/Orbis/sounds_rus.pck" />
+      <file path="sounddata/Orbis/sounds_rus_pck_2.pck" />
+      <file path="sounddata/Orbis/sounds_spa.pck" />
+      <file path="sounddata/Orbis/sounds_spa_pck_2.pck" />
+    </patch>
+    <patch description="Language English Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="sounddata/Orbis/sounds_fre.pck" />
+      <file path="sounddata/Orbis/sounds_fre_pck_2.pck" />
+      <file path="sounddata/Orbis/sounds_ger.pck" />
+      <file path="sounddata/Orbis/sounds_ger_pck_2.pck" />
+      <file path="sounddata/Orbis/sounds_ita.pck" />
+      <file path="sounddata/Orbis/sounds_ita_pck_2.pck" />
+      <file path="sounddata/Orbis/sounds_rus.pck" />
+      <file path="sounddata/Orbis/sounds_rus_pck_2.pck" />
+      <file path="sounddata/Orbis/sounds_spa.pck" />
+      <file path="sounddata/Orbis/sounds_spa_pck_2.pck" />
+      <file path="sounddata/Orbis/sounds_bra.pck" />
+      <file path="sounddata/Orbis/sounds_bra_pck_2.pck" />
+    </patch>
+    <patch description="Language French Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="sounddata/Orbis/sounds_ger.pck" />
+      <file path="sounddata/Orbis/sounds_ger_pck_2.pck" />
+      <file path="sounddata/Orbis/sounds_ita.pck" />
+      <file path="sounddata/Orbis/sounds_ita_pck_2.pck" />
+      <file path="sounddata/Orbis/sounds_rus.pck" />
+      <file path="sounddata/Orbis/sounds_rus_pck_2.pck" />
+      <file path="sounddata/Orbis/sounds_spa.pck" />
+      <file path="sounddata/Orbis/sounds_spa_pck_2.pck" />
+      <file path="sounddata/Orbis/sounds_bra.pck" />
+      <file path="sounddata/Orbis/sounds_bra_pck_2.pck" />
+      <file path="sounddata/Orbis/sounds_eng.pck" />
+      <file path="sounddata/Orbis/sounds_eng_pck_2.pck" />
+    </patch>
+    <patch description="Language German Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="sounddata/Orbis/sounds_ita.pck" />
+      <file path="sounddata/Orbis/sounds_ita_pck_2.pck" />
+      <file path="sounddata/Orbis/sounds_rus.pck" />
+      <file path="sounddata/Orbis/sounds_rus_pck_2.pck" />
+      <file path="sounddata/Orbis/sounds_spa.pck" />
+      <file path="sounddata/Orbis/sounds_spa_pck_2.pck" />
+      <file path="sounddata/Orbis/sounds_bra.pck" />
+      <file path="sounddata/Orbis/sounds_bra_pck_2.pck" />
+      <file path="sounddata/Orbis/sounds_eng.pck" />
+      <file path="sounddata/Orbis/sounds_eng_pck_2.pck" />
+      <file path="sounddata/Orbis/sounds_fre.pck" />
+      <file path="sounddata/Orbis/sounds_fre_pck_2.pck" />
+    </patch>
+    <patch description="Language Italian Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="sounddata/Orbis/sounds_rus.pck" />
+      <file path="sounddata/Orbis/sounds_rus_pck_2.pck" />
+      <file path="sounddata/Orbis/sounds_spa.pck" />
+      <file path="sounddata/Orbis/sounds_spa_pck_2.pck" />
+      <file path="sounddata/Orbis/sounds_bra.pck" />
+      <file path="sounddata/Orbis/sounds_bra_pck_2.pck" />
+      <file path="sounddata/Orbis/sounds_eng.pck" />
+      <file path="sounddata/Orbis/sounds_eng_pck_2.pck" />
+      <file path="sounddata/Orbis/sounds_fre.pck" />
+      <file path="sounddata/Orbis/sounds_fre_pck_2.pck" />
+      <file path="sounddata/Orbis/sounds_ger.pck" />
+      <file path="sounddata/Orbis/sounds_ger_pck_2.pck" />
+    </patch>
+    <patch description="Language Russian Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="sounddata/Orbis/sounds_spa.pck" />
+      <file path="sounddata/Orbis/sounds_spa_pck_2.pck" />
+      <file path="sounddata/Orbis/sounds_bra.pck" />
+      <file path="sounddata/Orbis/sounds_bra_pck_2.pck" />
+      <file path="sounddata/Orbis/sounds_eng.pck" />
+      <file path="sounddata/Orbis/sounds_eng_pck_2.pck" />
+      <file path="sounddata/Orbis/sounds_fre.pck" />
+      <file path="sounddata/Orbis/sounds_fre_pck_2.pck" />
+      <file path="sounddata/Orbis/sounds_ger.pck" />
+      <file path="sounddata/Orbis/sounds_ger_pck_2.pck" />
+      <file path="sounddata/Orbis/sounds_ita.pck" />
+      <file path="sounddata/Orbis/sounds_ita_pck_2.pck" />
+    </patch>
+    <patch description="Language Spanish Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="sounddata/Orbis/sounds_bra.pck" />
+      <file path="sounddata/Orbis/sounds_bra_pck_2.pck" />
+      <file path="sounddata/Orbis/sounds_eng.pck" />
+      <file path="sounddata/Orbis/sounds_eng_pck_2.pck" />
+      <file path="sounddata/Orbis/sounds_fre.pck" />
+      <file path="sounddata/Orbis/sounds_fre_pck_2.pck" />
+      <file path="sounddata/Orbis/sounds_ger.pck" />
+      <file path="sounddata/Orbis/sounds_ger_pck_2.pck" />
+      <file path="sounddata/Orbis/sounds_ita.pck" />
+      <file path="sounddata/Orbis/sounds_ita_pck_2.pck" />
+      <file path="sounddata/Orbis/sounds_rus.pck" />
+      <file path="sounddata/Orbis/sounds_rus_pck_2.pck" />
+    </patch>
+  </patches>
+</pkgpatch>

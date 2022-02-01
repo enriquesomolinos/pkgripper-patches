@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA16745" content_id="EP0177-CUSA16745_00-LIKEADRAGON00000" />
+  <patches>
+    <patch description="Language English Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="data/ui.yazawa.de.par" />
+      <file path="data/ui.yazawa.es.par" />
+      <file path="data/ui.yazawa.fr.par" />
+      <file path="data/ui.yazawa.it.par" />
+      <file path="data/db.yazawa.de.par" />
+      <file path="data/db.yazawa.es.par" />
+      <file path="data/db.yazawa.fr.par" />
+      <file path="data/db.yazawa.it.par" />
+    </patch>
+    <patch description="Language German Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="data/ui.yazawa.es.par" />
+      <file path="data/ui.yazawa.fr.par" />
+      <file path="data/ui.yazawa.it.par" />
+      <file path="data/db.yazawa.es.par" />
+      <file path="data/db.yazawa.fr.par" />
+      <file path="data/db.yazawa.it.par" />
+      <file path="data/db.yazawa.en.par" />
+      <file path="data/ui.yazawa.en.par" />
+    </patch>
+    <patch description="Language Spanish Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="data/ui.yazawa.fr.par" />
+      <file path="data/ui.yazawa.it.par" />
+      <file path="data/db.yazawa.fr.par" />
+      <file path="data/db.yazawa.it.par" />
+      <file path="data/db.yazawa.en.par" />
+      <file path="data/ui.yazawa.en.par" />
+      <file path="data/db.yazawa.de.par" />
+      <file path="data/ui.yazawa.de.par" />
+    </patch>
+    <patch description="Language French Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="data/ui.yazawa.it.par" />
+      <file path="data/db.yazawa.it.par" />
+      <file path="data/db.yazawa.en.par" />
+      <file path="data/ui.yazawa.en.par" />
+      <file path="data/db.yazawa.de.par" />
+      <file path="data/ui.yazawa.de.par" />
+      <file path="data/db.yazawa.es.par" />
+      <file path="data/ui.yazawa.es.par" />
+    </patch>
+    <patch description="Language Italian Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="data/db.yazawa.en.par" />
+      <file path="data/ui.yazawa.en.par" />
+      <file path="data/db.yazawa.de.par" />
+      <file path="data/ui.yazawa.de.par" />
+      <file path="data/db.yazawa.es.par" />
+      <file path="data/ui.yazawa.es.par" />
+      <file path="data/db.yazawa.fr.par" />
+      <file path="data/ui.yazawa.fr.par" />
+    </patch>
+  </patches>
+</pkgpatch>

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA05904" content_id="UP0001-CUSA05904_00-FARCRY5GAME00000" />
+  <patches>
+    <patch description="Language Brazilian Only" pkg_required_version="01.15" update_version_required="01.15">
+      <file path="data_final/orbis/patch_english.dat" />
+      <file path="data_final/orbis/patch_french.dat" />
+      <file path="data_final/orbis/patch_spanish.dat" />
+    </patch>
+    <patch description="Language English Only" pkg_required_version="01.15" update_version_required="01.15">
+      <file path="data_final/orbis/patch_french.dat" />
+      <file path="data_final/orbis/patch_spanish.dat" />
+      <file path="data_final/orbis/patch_brazilian.dat" />
+    </patch>
+    <patch description="Language French Only" pkg_required_version="01.15" update_version_required="01.15">
+      <file path="data_final/orbis/patch_spanish.dat" />
+      <file path="data_final/orbis/patch_brazilian.dat" />
+      <file path="data_final/orbis/patch_english.dat" />
+    </patch>
+    <patch description="Language Spanish Only" pkg_required_version="01.15" update_version_required="01.15">
+      <file path="data_final/orbis/patch_brazilian.dat" />
+      <file path="data_final/orbis/patch_english.dat" />
+      <file path="data_final/orbis/patch_french.dat" />
+    </patch>
+    <patch description="Language Brazilian Only 1.00" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="data_final/orbis/worlds/farcry5_english.dat" />
+      <file path="data_final/orbis/worlds/farcry5_french.dat" />
+      <file path="data_final/orbis/worlds/farcry5_spanish.dat" />
+      <file path="data_final/orbis/worlds/installpkg_english.dat" />
+      <file path="data_final/orbis/worlds/installpkg_french.dat" />
+      <file path="data_final/orbis/worlds/installpkg_spanish.dat" />
+    </patch>
+    <patch description="Language English Only 1.00" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="data_final/orbis/worlds/farcry5_french.dat" />
+      <file path="data_final/orbis/worlds/farcry5_spanish.dat" />
+      <file path="data_final/orbis/worlds/installpkg_french.dat" />
+      <file path="data_final/orbis/worlds/installpkg_spanish.dat" />
+      <file path="data_final/orbis/worlds/farcry5_brazilian.dat" />
+      <file path="data_final/orbis/worlds/installpkg_brazilian.dat" />
+    </patch>
+    <patch description="Language French Only 1.00" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="data_final/orbis/worlds/farcry5_spanish.dat" />
+      <file path="data_final/orbis/worlds/installpkg_spanish.dat" />
+      <file path="data_final/orbis/worlds/farcry5_brazilian.dat" />
+      <file path="data_final/orbis/worlds/installpkg_brazilian.dat" />
+      <file path="data_final/orbis/worlds/farcry5_english.dat" />
+      <file path="data_final/orbis/worlds/installpkg_english.dat" />
+    </patch>
+    <patch description="Language Spanish Only 1.00" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="data_final/orbis/worlds/farcry5_brazilian.dat" />
+      <file path="data_final/orbis/worlds/installpkg_brazilian.dat" />
+      <file path="data_final/orbis/worlds/farcry5_english.dat" />
+      <file path="data_final/orbis/worlds/installpkg_english.dat" />
+      <file path="data_final/orbis/worlds/farcry5_french.dat" />
+      <file path="data_final/orbis/worlds/installpkg_french.dat" />
+    </patch>
+  </patches>
+</pkgpatch>
