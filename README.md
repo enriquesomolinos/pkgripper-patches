@@ -107,7 +107,10 @@ TBD
 
 </pkgpatch>
 ´´´´
- 
+## Thanks
+
+Special thanks to PhR34x0r, Androxilogin, Brutal-sam for their patches 
+
 ## Colaboration
 
 Any can add more patches simply doing a merge request or open an issue and I'll add it. 
