@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA10300" content_id="EP1003-CUSA10300_00-RAGE02FULLGAME00" />
+  <patches>
+    <patch description="Language English Only for 1.09" pkg_required_version="01.09" update_version_required="01.09">
+      <file path="patch_archives_orbis/supplemental/languages/fre/game1.arc" />
+      <file path="patch_archives_orbis/supplemental/languages/ger/game1.arc" />
+      <file path="patch_archives_orbis/supplemental/languages/ita/game1.arc" />
+      <file path="patch_archives_orbis/supplemental/languages/pol/game1.arc" />
+      <file path="patch_archives_orbis/supplemental/languages/rus/game1.arc" />
+      <file path="patch_archives_orbis/supplemental/languages/spa/game1.arc" />
+    </patch>
+    <patch description="Language French Only for 1.09" pkg_required_version="01.09" update_version_required="01.09">
+      <file path="patch_archives_orbis/supplemental/languages/ger/game1.arc" />
+      <file path="patch_archives_orbis/supplemental/languages/ita/game1.arc" />
+      <file path="patch_archives_orbis/supplemental/languages/pol/game1.arc" />
+      <file path="patch_archives_orbis/supplemental/languages/rus/game1.arc" />
+      <file path="patch_archives_orbis/supplemental/languages/spa/game1.arc" />
+      <file path="patch_archives_orbis/supplemental/languages/eng/game1.arc" />
+    </patch>
+    <patch description="Language German Only for 1.09" pkg_required_version="01.09" update_version_required="01.09">
+      <file path="patch_archives_orbis/supplemental/languages/ita/game1.arc" />
+      <file path="patch_archives_orbis/supplemental/languages/pol/game1.arc" />
+      <file path="patch_archives_orbis/supplemental/languages/rus/game1.arc" />
+      <file path="patch_archives_orbis/supplemental/languages/spa/game1.arc" />
+      <file path="patch_archives_orbis/supplemental/languages/eng/game1.arc" />
+      <file path="patch_archives_orbis/supplemental/languages/fre/game1.arc" />
+    </patch>
+    <patch description="Language Italian Only for 1.09" pkg_required_version="01.09" update_version_required="01.09">
+      <file path="patch_archives_orbis/supplemental/languages/pol/game1.arc" />
+      <file path="patch_archives_orbis/supplemental/languages/rus/game1.arc" />
+      <file path="patch_archives_orbis/supplemental/languages/spa/game1.arc" />
+      <file path="patch_archives_orbis/supplemental/languages/eng/game1.arc" />
+      <file path="patch_archives_orbis/supplemental/languages/fre/game1.arc" />
+      <file path="patch_archives_orbis/supplemental/languages/ger/game1.arc" />
+    </patch>
+    <patch description="Language Polish Only for 1.09" pkg_required_version="01.09" update_version_required="01.09">
+      <file path="patch_archives_orbis/supplemental/languages/rus/game1.arc" />
+      <file path="patch_archives_orbis/supplemental/languages/spa/game1.arc" />
+      <file path="patch_archives_orbis/supplemental/languages/eng/game1.arc" />
+      <file path="patch_archives_orbis/supplemental/languages/fre/game1.arc" />
+      <file path="patch_archives_orbis/supplemental/languages/ger/game1.arc" />
+      <file path="patch_archives_orbis/supplemental/languages/ita/game1.arc" />
+    </patch>
+    <patch description="Language Russian Only for 1.09" pkg_required_version="01.09" update_version_required="01.09">
+      <file path="patch_archives_orbis/supplemental/languages/spa/game1.arc" />
+      <file path="patch_archives_orbis/supplemental/languages/eng/game1.arc" />
+      <file path="patch_archives_orbis/supplemental/languages/fre/game1.arc" />
+      <file path="patch_archives_orbis/supplemental/languages/ger/game1.arc" />
+      <file path="patch_archives_orbis/supplemental/languages/ita/game1.arc" />
+      <file path="patch_archives_orbis/supplemental/languages/pol/game1.arc" />
+    </patch>
+    <patch description="Language Spanish Only for 1.09" pkg_required_version="01.09" update_version_required="01.09">
+      <file path="patch_archives_orbis/supplemental/languages/eng/game1.arc" />
+      <file path="patch_archives_orbis/supplemental/languages/fre/game1.arc" />
+      <file path="patch_archives_orbis/supplemental/languages/ger/game1.arc" />
+      <file path="patch_archives_orbis/supplemental/languages/ita/game1.arc" />
+      <file path="patch_archives_orbis/supplemental/languages/pol/game1.arc" />
+      <file path="patch_archives_orbis/supplemental/languages/rus/game1.arc" />
+    </patch>
+    <patch description="Language English Only" pkg_required_version="01.09" update_version_required="01.09">
+      <file path="patch_archives_orbis/supplemental/languages/fre" />
+      <file path="patch_archives_orbis/supplemental/languages/ger" />
+      <file path="patch_archives_orbis/supplemental/languages/ita" />
+      <file path="patch_archives_orbis/supplemental/languages/pol" />
+      <file path="patch_archives_orbis/supplemental/languages/rus" />
+      <file path="patch_archives_orbis/supplemental/languages/spa" />
+      <file path="patch_archives_orbis/initial/languages/fre" />
+      <file path="patch_archives_orbis/initial/languages/ger" />
+      <file path="patch_archives_orbis/initial/languages/ita" />
+      <file path="patch_archives_orbis/initial/languages/pol" />
+      <file path="patch_archives_orbis/initial/languages/rus" />
+      <file path="patch_archives_orbis/initial/languages/spa" />
+    </patch>
+    <patch description="Language French Only" pkg_required_version="01.09" update_version_required="01.09">
+      <file path="patch_archives_orbis/supplemental/languages/ger" />
+      <file path="patch_archives_orbis/supplemental/languages/ita" />
+      <file path="patch_archives_orbis/supplemental/languages/pol" />
+      <file path="patch_archives_orbis/supplemental/languages/rus" />
+      <file path="patch_archives_orbis/supplemental/languages/spa" />
+      <file path="patch_archives_orbis/initial/languages/ger" />
+      <file path="patch_archives_orbis/initial/languages/ita" />
+      <file path="patch_archives_orbis/initial/languages/pol" />
+      <file path="patch_archives_orbis/initial/languages/rus" />
+      <file path="patch_archives_orbis/initial/languages/spa" />
+      <file path="patch_archives_orbis/initial/languages/eng" />
+      <file path="patch_archives_orbis/supplemental/languages/eng" />
+    </patch>
+    <patch description="Language German Only" pkg_required_version="01.09" update_version_required="01.09">
+      <file path="patch_archives_orbis/supplemental/languages/ita" />
+      <file path="patch_archives_orbis/supplemental/languages/pol" />
+      <file path="patch_archives_orbis/supplemental/languages/rus" />
+      <file path="patch_archives_orbis/supplemental/languages/spa" />
+      <file path="patch_archives_orbis/initial/languages/ita" />
+      <file path="patch_archives_orbis/initial/languages/pol" />
+      <file path="patch_archives_orbis/initial/languages/rus" />
+      <file path="patch_archives_orbis/initial/languages/spa" />
+      <file path="patch_archives_orbis/initial/languages/eng" />
+      <file path="patch_archives_orbis/supplemental/languages/eng" />
+      <file path="patch_archives_orbis/initial/languages/fre" />
+      <file path="patch_archives_orbis/supplemental/languages/fre" />
+    </patch>
+    <patch description="Language Italian Only" pkg_required_version="01.09" update_version_required="01.09">
+      <file path="patch_archives_orbis/supplemental/languages/pol" />
+      <file path="patch_archives_orbis/supplemental/languages/rus" />
+      <file path="patch_archives_orbis/supplemental/languages/spa" />
+      <file path="patch_archives_orbis/initial/languages/pol" />
+      <file path="patch_archives_orbis/initial/languages/rus" />
+      <file path="patch_archives_orbis/initial/languages/spa" />
+      <file path="patch_archives_orbis/initial/languages/eng" />
+      <file path="patch_archives_orbis/supplemental/languages/eng" />
+      <file path="patch_archives_orbis/initial/languages/fre" />
+      <file path="patch_archives_orbis/supplemental/languages/fre" />
+      <file path="patch_archives_orbis/initial/languages/ger" />
+      <file path="patch_archives_orbis/supplemental/languages/ger" />
+    </patch>
+    <patch description="Language Polish Only" pkg_required_version="01.09" update_version_required="01.09">
+      <file path="patch_archives_orbis/supplemental/languages/rus" />
+      <file path="patch_archives_orbis/supplemental/languages/spa" />
+      <file path="patch_archives_orbis/initial/languages/rus" />
+      <file path="patch_archives_orbis/initial/languages/spa" />
+      <file path="patch_archives_orbis/initial/languages/eng" />
+      <file path="patch_archives_orbis/supplemental/languages/eng" />
+      <file path="patch_archives_orbis/initial/languages/fre" />
+      <file path="patch_archives_orbis/supplemental/languages/fre" />
+      <file path="patch_archives_orbis/initial/languages/ger" />
+      <file path="patch_archives_orbis/supplemental/languages/ger" />
+      <file path="patch_archives_orbis/initial/languages/ita" />
+      <file path="patch_archives_orbis/supplemental/languages/ita" />
+    </patch>
+    <patch description="Language Russian Only" pkg_required_version="01.09" update_version_required="01.09">
+      <file path="patch_archives_orbis/supplemental/languages/spa" />
+      <file path="patch_archives_orbis/initial/languages/spa" />
+      <file path="patch_archives_orbis/initial/languages/eng" />
+      <file path="patch_archives_orbis/supplemental/languages/eng" />
+      <file path="patch_archives_orbis/initial/languages/fre" />
+      <file path="patch_archives_orbis/supplemental/languages/fre" />
+      <file path="patch_archives_orbis/initial/languages/ger" />
+      <file path="patch_archives_orbis/supplemental/languages/ger" />
+      <file path="patch_archives_orbis/initial/languages/ita" />
+      <file path="patch_archives_orbis/supplemental/languages/ita" />
+      <file path="patch_archives_orbis/initial/languages/pol" />
+      <file path="patch_archives_orbis/supplemental/languages/pol" />
+    </patch>
+    <patch description="Language Spanish Only" pkg_required_version="01.09" update_version_required="01.09">
+      <file path="patch_archives_orbis/initial/languages/eng" />
+      <file path="patch_archives_orbis/supplemental/languages/eng" />
+      <file path="patch_archives_orbis/initial/languages/fre" />
+      <file path="patch_archives_orbis/supplemental/languages/fre" />
+      <file path="patch_archives_orbis/initial/languages/ger" />
+      <file path="patch_archives_orbis/supplemental/languages/ger" />
+      <file path="patch_archives_orbis/initial/languages/ita" />
+      <file path="patch_archives_orbis/supplemental/languages/ita" />
+      <file path="patch_archives_orbis/initial/languages/pol" />
+      <file path="patch_archives_orbis/supplemental/languages/pol" />
+      <file path="patch_archives_orbis/initial/languages/rus" />
+      <file path="patch_archives_orbis/supplemental/languages/rus" />
+    </patch>
+    <patch description="Language English Only 01.00" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="archives_orbis/initial/languages/fre" />
+      <file path="archives_orbis/initial/languages/ger" />
+      <file path="archives_orbis/initial/languages/ita" />
+      <file path="archives_orbis/initial/languages/pol" />
+      <file path="archives_orbis/initial/languages/rus" />
+      <file path="archives_orbis/initial/languages/spa" />
+      <file path="archives_orbis/supplemental/languages/fre" />
+      <file path="archives_orbis/supplemental/languages/ger" />
+      <file path="archives_orbis/supplemental/languages/ita" />
+      <file path="archives_orbis/supplemental/languages/pol" />
+      <file path="archives_orbis/supplemental/languages/rus" />
+      <file path="archives_orbis/supplemental/languages/spa" />
+    </patch>
+    <patch description="Language French Only 01.00" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="archives_orbis/initial/languages/ger" />
+      <file path="archives_orbis/initial/languages/ita" />
+      <file path="archives_orbis/initial/languages/pol" />
+      <file path="archives_orbis/initial/languages/rus" />
+      <file path="archives_orbis/initial/languages/spa" />
+      <file path="archives_orbis/supplemental/languages/ger" />
+      <file path="archives_orbis/supplemental/languages/ita" />
+      <file path="archives_orbis/supplemental/languages/pol" />
+      <file path="archives_orbis/supplemental/languages/rus" />
+      <file path="archives_orbis/supplemental/languages/spa" />
+      <file path="archives_orbis/initial/languages/eng" />
+      <file path="archives_orbis/supplemental/languages/eng" />
+    </patch>
+    <patch description="Language German Only 01.00" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="archives_orbis/initial/languages/ita" />
+      <file path="archives_orbis/initial/languages/pol" />
+      <file path="archives_orbis/initial/languages/rus" />
+      <file path="archives_orbis/initial/languages/spa" />
+      <file path="archives_orbis/supplemental/languages/ita" />
+      <file path="archives_orbis/supplemental/languages/pol" />
+      <file path="archives_orbis/supplemental/languages/rus" />
+      <file path="archives_orbis/supplemental/languages/spa" />
+      <file path="archives_orbis/initial/languages/eng" />
+      <file path="archives_orbis/supplemental/languages/eng" />
+      <file path="archives_orbis/initial/languages/fre" />
+      <file path="archives_orbis/supplemental/languages/fre" />
+    </patch>
+    <patch description="Language Italian Only 01.00" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="archives_orbis/initial/languages/pol" />
+      <file path="archives_orbis/initial/languages/rus" />
+      <file path="archives_orbis/initial/languages/spa" />
+      <file path="archives_orbis/supplemental/languages/pol" />
+      <file path="archives_orbis/supplemental/languages/rus" />
+      <file path="archives_orbis/supplemental/languages/spa" />
+      <file path="archives_orbis/initial/languages/eng" />
+      <file path="archives_orbis/supplemental/languages/eng" />
+      <file path="archives_orbis/initial/languages/fre" />
+      <file path="archives_orbis/supplemental/languages/fre" />
+      <file path="archives_orbis/initial/languages/ger" />
+      <file path="archives_orbis/supplemental/languages/ger" />
+    </patch>
+    <patch description="Language Polish Only 01.00" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="archives_orbis/initial/languages/rus" />
+      <file path="archives_orbis/initial/languages/spa" />
+      <file path="archives_orbis/supplemental/languages/rus" />
+      <file path="archives_orbis/supplemental/languages/spa" />
+      <file path="archives_orbis/initial/languages/eng" />
+      <file path="archives_orbis/supplemental/languages/eng" />
+      <file path="archives_orbis/initial/languages/fre" />
+      <file path="archives_orbis/supplemental/languages/fre" />
+      <file path="archives_orbis/initial/languages/ger" />
+      <file path="archives_orbis/supplemental/languages/ger" />
+      <file path="archives_orbis/initial/languages/ita" />
+      <file path="archives_orbis/supplemental/languages/ita" />
+    </patch>
+    <patch description="Language Russian Only 01.00" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="archives_orbis/initial/languages/spa" />
+      <file path="archives_orbis/supplemental/languages/spa" />
+      <file path="archives_orbis/initial/languages/eng" />
+      <file path="archives_orbis/supplemental/languages/eng" />
+      <file path="archives_orbis/initial/languages/fre" />
+      <file path="archives_orbis/supplemental/languages/fre" />
+      <file path="archives_orbis/initial/languages/ger" />
+      <file path="archives_orbis/supplemental/languages/ger" />
+      <file path="archives_orbis/initial/languages/ita" />
+      <file path="archives_orbis/supplemental/languages/ita" />
+      <file path="archives_orbis/initial/languages/pol" />
+      <file path="archives_orbis/supplemental/languages/pol" />
+    </patch>
+    <patch description="Language Spanish Only 01.00" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="archives_orbis/initial/languages/eng" />
+      <file path="archives_orbis/supplemental/languages/eng" />
+      <file path="archives_orbis/initial/languages/fre" />
+      <file path="archives_orbis/supplemental/languages/fre" />
+      <file path="archives_orbis/initial/languages/ger" />
+      <file path="archives_orbis/supplemental/languages/ger" />
+      <file path="archives_orbis/initial/languages/ita" />
+      <file path="archives_orbis/supplemental/languages/ita" />
+      <file path="archives_orbis/initial/languages/pol" />
+      <file path="archives_orbis/supplemental/languages/pol" />
+      <file path="archives_orbis/initial/languages/rus" />
+      <file path="archives_orbis/supplemental/languages/rus" />
+    </patch>
+  </patches>
+</pkgpatch>
