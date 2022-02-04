@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA00006" content_id="EP9000-CUSA00006_00-KNACK00000000000" />
+  <patches>
+    <patch description="Keep GER" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="data/cdata/lang/dan" />
+      <file path="data/cdata/lang/ena" />
+      <file path="data/cdata/lang/ene" />
+      <file path="data/cdata/lang/esa" />
+      <file path="data/cdata/lang/ese" />
+      <file path="data/cdata/lang/fin" />
+      <file path="data/cdata/lang/fre" />
+      <file path="data/cdata/lang/ita" />
+      <file path="data/cdata/lang/jpn" />
+      <file path="data/cdata/lang/nld" />
+      <file path="data/cdata/lang/nor" />
+      <file path="data/cdata/lang/pol" />
+      <file path="data/cdata/lang/pta" />
+      <file path="data/cdata/lang/pte" />
+      <file path="data/cdata/lang/rus" />
+      <file path="data/cdata/lang/swe" />
+      <file path="data/cdata/lang/tur" />
+      <file path="data/raw/lang/dan" />
+      <file path="data/raw/lang/ena" />
+      <file path="data/raw/lang/esa" />
+      <file path="data/raw/lang/ese" />
+      <file path="data/raw/lang/fin" />
+      <file path="data/raw/lang/fre" />
+      <file path="data/raw/lang/ita" />
+      <file path="data/raw/lang/jpn" />
+      <file path="data/raw/lang/nld" />
+      <file path="data/raw/lang/nor" />
+      <file path="data/raw/lang/pol" />
+      <file path="data/raw/lang/pta" />
+      <file path="data/raw/lang/pte" />
+      <file path="data/raw/lang/rus" />
+      <file path="data/raw/lang/swe" />
+      <file path="data/raw/lang/tur" />
+    </patch>
+  </patches>
+</pkgpatch>

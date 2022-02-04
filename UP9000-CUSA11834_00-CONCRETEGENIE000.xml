@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA11834" content_id="UP9000-CUSA11834_00-CONCRETEGENIE000" />
+  <patches>
+    <patch description="Duplicated Content from update 01.06" pkg_required_version="01.00" update_version_required="01.06">
+      <file path="concretegenie/binaries/ps4" />
+      <file path="concretegenie/content/movies/intro_cutscene_part1_5.1mixpm_novo.bk2" />
+      <file path="Manifest_NonUFSFiles_PS4.txt" />
+    </patch>
+    <patch description="Fake PKG" pkg_required_version="01.06" update_version_required="01.06" />
+  </patches>
+</pkgpatch>

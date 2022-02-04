@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA18271" content_id="UP4382-CUSA18271_00-AVICIIINVECTOR00" />
+  <patches>
+    <patch description="Duplicated Content from update 01.04" pkg_required_version="01.00" update_version_required="01.04">
+      <file path="Media/Metadata/global-metadata.dat" />
+      <file path="Media/Resources/unity_builtin_extra" />
+      <file path="Media/boot.config" />
+      <file path="Media/globalgamemanagers" />
+      <file path="Media/globalgamemanagers.assets" />
+      <file path="Media/level0" />
+      <file path="Media/level1" />
+      <file path="Media/level10" />
+      <file path="Media/level10.resS" />
+      <file path="Media/level11" />
+      <file path="Media/level11.resS" />
+      <file path="Media/level12" />
+      <file path="Media/level12.resS" />
+      <file path="Media/level13" />
+      <file path="Media/level14" />
+      <file path="Media/level15" />
+      <file path="Media/level16" />
+      <file path="Media/level17" />
+      <file path="Media/level17.resS" />
+      <file path="Media/level18" />
+      <file path="Media/level19" />
+      <file path="Media/level2" />
+      <file path="Media/level2.resS" />
+      <file path="Media/level3" />
+      <file path="Media/level3.resS" />
+      <file path="Media/level4" />
+      <file path="Media/level4.resS" />
+      <file path="Media/level5" />
+      <file path="Media/level5.resS" />
+      <file path="Media/level6" />
+      <file path="Media/level6.resS" />
+      <file path="Media/level7" />
+      <file path="Media/level7.resS" />
+      <file path="Media/level8" />
+      <file path="Media/level9" />
+      <file path="Media/resources.assets" />
+      <file path="Media/resources.assets.resS" />
+      <file path="Media/resources.resource" />
+      <file path="Media/sharedassets0.assets" />
+      <file path="Media/sharedassets0.assets.resS" />
+      <file path="Media/sharedassets1.assets" />
+      <file path="Media/sharedassets1.assets.resS" />
+      <file path="Media/sharedassets10.assets" />
+      <file path="Media/sharedassets11.assets" />
+      <file path="Media/sharedassets12.assets" />
+      <file path="Media/sharedassets13.assets" />
+      <file path="Media/sharedassets14.assets" />
+      <file path="Media/sharedassets15.assets" />
+      <file path="Media/sharedassets16.assets" />
+      <file path="Media/sharedassets17.assets" />
+      <file path="Media/sharedassets18.assets" />
+      <file path="Media/sharedassets19.assets" />
+      <file path="Media/sharedassets2.assets" />
+      <file path="Media/sharedassets2.assets.resS" />
+      <file path="Media/sharedassets3.assets" />
+      <file path="Media/sharedassets4.assets" />
+      <file path="Media/sharedassets5.assets" />
+      <file path="Media/sharedassets6.assets" />
+      <file path="Media/sharedassets6.assets.resS" />
+      <file path="Media/sharedassets7.assets" />
+      <file path="Media/sharedassets8.assets" />
+      <file path="Media/sharedassets8.assets.resS" />
+      <file path="Media/sharedassets9.assets" />
+      <file path="Media/sharedassets9.assets.resS" />
+    </patch>
+    <patch description="Fake PKG" pkg_required_version="01.04" update_version_required="01.04" />
+  </patches>
+</pkgpatch>

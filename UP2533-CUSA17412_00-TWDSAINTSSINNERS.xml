@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA17412" content_id="UP2533-CUSA17412_00-TWDSAINTSSINNERS" />
+  <patches>
+    <patch description="Duplicated Content from update 01.10" pkg_required_version="01.00" update_version_required="01.10">
+      <file path="twd/binaries/ps4" />
+      <file path="twd/content/paks/twd-ps4.pak" />
+      <file path="up2533-cusa17412_00-twdsaintssinners" />
+      <file path="Manifest_DebugFiles_PS4.txt" />
+    </patch>
+    <patch description="Fake PKG" pkg_required_version="01.10" update_version_required="01.10" />
+  </patches>
+</pkgpatch>

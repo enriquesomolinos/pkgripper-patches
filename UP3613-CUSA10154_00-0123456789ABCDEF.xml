@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA10154" content_id="UP3613-CUSA10154_00-0123456789ABCDEF" />
+  <patches>
+    <patch description="Duplicated Content from update 01.24" pkg_required_version="01.00" update_version_required="01.24">
+      <file path="Media/GI/level11/01/0147e6b2fd853e089b1e20616631fb8f.iws.sse" />
+      <file path="Media/GI/level11/01/0147e6b2fd853e089b1e20616631fb8f.rsc.sse" />
+      <file path="Media/GI/level11/21/218bbc5183fa1b450861e58bd978e674.iws.sse" />
+      <file path="Media/GI/level11/21/218bbc5183fa1b450861e58bd978e674.rsc.sse" />
+      <file path="Media/GI/level11/25/2587ed107f5d568e31db0c50f8d7029f.rsc.sse" />
+      <file path="Media/GI/level11/2a/2a953b7e87686ce152a7ba82a46b966c.rgb" />
+      <file path="Media/GI/level11/2a/2a953b7e87686ce152a7ba82a46b966c.rsc.sse" />
+      <file path="Media/GI/level11/5d/5d0173c7e2f82532b6585b70e8ea5247.rsc.sse" />
+      <file path="Media/GI/level11/63/63ce47a3960d47baae56a92fc61a2a8c.caw" />
+      <file path="Media/GI/level11/63/63ce47a3960d47baae56a92fc61a2a8c.iws.sse" />
+      <file path="Media/GI/level11/63/63ce47a3960d47baae56a92fc61a2a8c.rsc.sse" />
+      <file path="Media/GI/level11/63/63ce47a3960d47baae56a92fc61a2a8c.vis" />
+      <file path="Media/GI/level11/9f/9ff8731aa49be4a42dbb0b6c6c4906c2.caw" />
+      <file path="Media/GI/level11/9f/9ff8731aa49be4a42dbb0b6c6c4906c2.iws.sse" />
+      <file path="Media/GI/level11/9f/9ff8731aa49be4a42dbb0b6c6c4906c2.rgb" />
+      <file path="Media/GI/level11/9f/9ff8731aa49be4a42dbb0b6c6c4906c2.rsc.sse" />
+      <file path="Media/GI/level11/af/af26c1970f699f27ed82441ea58d37e7.caw" />
+      <file path="Media/GI/level11/af/af26c1970f699f27ed82441ea58d37e7.iws.sse" />
+      <file path="Media/GI/level11/af/af26c1970f699f27ed82441ea58d37e7.rgb" />
+      <file path="Media/GI/level11/af/af26c1970f699f27ed82441ea58d37e7.rsc.sse" />
+      <file path="Media/GI/level11/bd/bd2565992f9c55962b818d980f47c973.rsc.sse" />
+      <file path="Media/GI/level11/c5/c5b1f878180dcfa4a07b67413884ff22.iws.sse" />
+      <file path="Media/GI/level11/c5/c5b1f878180dcfa4a07b67413884ff22.rsc.sse" />
+      <file path="Media/GI/level11/e7/e771288e01cc1ad0d6e638719b83d430.iws.sse" />
+      <file path="Media/GI/level11/e7/e771288e01cc1ad0d6e638719b83d430.rgb" />
+      <file path="Media/GI/level11/e7/e771288e01cc1ad0d6e638719b83d430.rsc.sse" />
+      <file path="Media/GI/level3/09/098338392c4eaaaad8487e81d5a9040c.rpc.sse" />
+      <file path="Media/GI/level4/e8/e861335003673a76e02bd0711a1aa652.rpc.sse" />
+      <file path="Media/globalgamemanagers" />
+      <file path="Media/globalgamemanagers.assets" />
+      <file path="Media/sharedassets0.assets.resS" />
+      <file path="Media/sharedassets0.resource" />
+      <file path="Media/sharedassets1.assets.resS" />
+      <file path="Media/sharedassets1.resource" />
+      <file path="Media/sharedassets10.assets.resS" />
+      <file path="Media/sharedassets10.resource" />
+      <file path="Media/sharedassets11.assets.resS" />
+      <file path="Media/sharedassets11.resource" />
+      <file path="Media/sharedassets12.assets.resS" />
+      <file path="Media/sharedassets12.resource" />
+      <file path="Media/sharedassets2.assets.resS" />
+      <file path="Media/sharedassets2.resource" />
+      <file path="Media/sharedassets3.assets.resS" />
+      <file path="Media/sharedassets3.resource" />
+      <file path="Media/sharedassets4.assets.resS" />
+      <file path="Media/sharedassets4.resource" />
+      <file path="Media/sharedassets5.assets.resS" />
+      <file path="Media/sharedassets5.resource" />
+      <file path="Media/sharedassets6.assets.resS" />
+      <file path="Media/sharedassets6.resource" />
+      <file path="Media/sharedassets7.assets.resS" />
+      <file path="Media/sharedassets7.resource" />
+      <file path="Media/sharedassets8.assets.resS" />
+      <file path="Media/sharedassets8.resource" />
+      <file path="Media/sharedassets9.assets.resS" />
+      <file path="Media/sharedassets9.resource" />
+      <file path="archive.psarc" />
+      <file path="archive.txt" />
+    </patch>
+    <patch description="Fake PKG" pkg_required_version="01.24" update_version_required="01.24" />
+  </patches>
+</pkgpatch>

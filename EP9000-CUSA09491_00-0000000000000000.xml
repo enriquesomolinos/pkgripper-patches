@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA09491" content_id="EP9000-CUSA09491_00-0000000000000000" />
+  <patches>
+    <patch description="Keep only Eng/Ger" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="Media/StreamingAssets/Bundles/AudioServer_es-es" />
+      <file path="Media/StreamingAssets/Bundles/AudioServer_fr-fr" />
+      <file path="Media/StreamingAssets/Bundles/AudioServer_it-it" />
+      <file path="Media/StreamingAssets/Bundles/AudioServer_nl-nl" />
+      <file path="Media/StreamingAssets/Bundles/AudioServer_pt-pt" />
+    </patch>
+    <patch description="Keep only Eng" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="Media/StreamingAssets/Bundles/AudioServer_de-de" />
+      <file path="Media/StreamingAssets/Bundles/AudioServer_es-es" />
+      <file path="Media/StreamingAssets/Bundles/AudioServer_fr-fr" />
+      <file path="Media/StreamingAssets/Bundles/AudioServer_it-it" />
+      <file path="Media/StreamingAssets/Bundles/AudioServer_nl-nl" />
+      <file path="Media/StreamingAssets/Bundles/AudioServer_pt-pt" />
+    </patch>
+    <patch description="Keep only Ger" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="Media/StreamingAssets/Bundles/AudioServer_en-gb" />
+      <file path="Media/StreamingAssets/Bundles/AudioServer_es-es" />
+      <file path="Media/StreamingAssets/Bundles/AudioServer_fr-fr" />
+      <file path="Media/StreamingAssets/Bundles/AudioServer_it-it" />
+      <file path="Media/StreamingAssets/Bundles/AudioServer_nl-nl" />
+      <file path="Media/StreamingAssets/Bundles/AudioServer_pt-pt" />
+    </patch>
+    <patch description="Keep only ES" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="Media/StreamingAssets/Bundles/AudioServer_de-de" />
+      <file path="Media/StreamingAssets/Bundles/AudioServer_en-gb" />
+      <file path="Media/StreamingAssets/Bundles/AudioServer_fr-fr" />
+      <file path="Media/StreamingAssets/Bundles/AudioServer_it-it" />
+      <file path="Media/StreamingAssets/Bundles/AudioServer_nl-nl" />
+      <file path="Media/StreamingAssets/Bundles/AudioServer_pt-pt" />
+    </patch>
+    <patch description="Keep only FR" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="Media/StreamingAssets/Bundles/AudioServer_de-de" />
+      <file path="Media/StreamingAssets/Bundles/AudioServer_en-gb" />
+      <file path="Media/StreamingAssets/Bundles/AudioServer_es-es" />
+      <file path="Media/StreamingAssets/Bundles/AudioServer_it-it" />
+      <file path="Media/StreamingAssets/Bundles/AudioServer_nl-nl" />
+      <file path="Media/StreamingAssets/Bundles/AudioServer_pt-pt" />
+    </patch>
+    <patch description="Keep only IT" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="Media/StreamingAssets/Bundles/AudioServer_de-de" />
+      <file path="Media/StreamingAssets/Bundles/AudioServer_en-gb" />
+      <file path="Media/StreamingAssets/Bundles/AudioServer_es-es" />
+      <file path="Media/StreamingAssets/Bundles/AudioServer_fr-fr" />
+      <file path="Media/StreamingAssets/Bundles/AudioServer_nl-nl" />
+      <file path="Media/StreamingAssets/Bundles/AudioServer_pt-pt" />
+    </patch>
+    <patch description="Keep only NL" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="Media/StreamingAssets/Bundles/AudioServer_de-de" />
+      <file path="Media/StreamingAssets/Bundles/AudioServer_en-gb" />
+      <file path="Media/StreamingAssets/Bundles/AudioServer_es-es" />
+      <file path="Media/StreamingAssets/Bundles/AudioServer_fr-fr" />
+      <file path="Media/StreamingAssets/Bundles/AudioServer_it-it" />
+      <file path="Media/StreamingAssets/Bundles/AudioServer_pt-pt" />
+    </patch>
+    <patch description="Keep only PT" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="Media/StreamingAssets/Bundles/AudioServer_de-de" />
+      <file path="Media/StreamingAssets/Bundles/AudioServer_en-gb" />
+      <file path="Media/StreamingAssets/Bundles/AudioServer_es-es" />
+      <file path="Media/StreamingAssets/Bundles/AudioServer_fr-fr" />
+      <file path="Media/StreamingAssets/Bundles/AudioServer_it-it" />
+      <file path="Media/StreamingAssets/Bundles/AudioServer_nl-nl" />
+    </patch>
+  </patches>
+</pkgpatch>

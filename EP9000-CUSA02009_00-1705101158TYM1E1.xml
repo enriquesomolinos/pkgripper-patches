@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA02009" content_id="EP9000-CUSA02009_00-1705101158TYM1E1" />
+  <patches>
+    <patch description="Duplicated Content from update 01.06" pkg_required_version="01.00" update_version_required="01.06">
+      <file path="Media/Managed/Assembly-CSharp-firstpass.dll" />
+      <file path="Media/Managed/Assembly-CSharp.dll" />
+      <file path="Media/Managed/Assembly-UnityScript.dll" />
+      <file path="Media/StreamingAssets/Audio/GeneratedSoundBanks/PS4/English(UK)/Commentary_Global_SoundBank.bnk" />
+      <file path="Media/StreamingAssets/Audio/GeneratedSoundBanks/PS4/German/Commentary_Global_SoundBank.bnk" />
+      <file path="Media/StreamingAssets/Localisation/LanguageInfo.txt" />
+      <file path="Media/StreamingAssets/Localisation/ar_text.loc" />
+      <file path="Media/StreamingAssets/Localisation/da_text.loc" />
+      <file path="Media/StreamingAssets/Localisation/de_text.loc" />
+      <file path="Media/StreamingAssets/Localisation/en-GB_text.loc" />
+      <file path="Media/StreamingAssets/Localisation/en_text.loc" />
+      <file path="Media/StreamingAssets/Localisation/es-MX_text.loc" />
+      <file path="Media/StreamingAssets/Localisation/es_text.loc" />
+      <file path="Media/StreamingAssets/Localisation/fi_text.loc" />
+      <file path="Media/StreamingAssets/Localisation/fr_text.loc" />
+      <file path="Media/StreamingAssets/Localisation/it_text.loc" />
+      <file path="Media/StreamingAssets/Localisation/nl_text.loc" />
+      <file path="Media/StreamingAssets/Localisation/no_text.loc" />
+      <file path="Media/StreamingAssets/Localisation/pl_text.loc" />
+      <file path="Media/StreamingAssets/Localisation/pt-BR_text.loc" />
+      <file path="Media/StreamingAssets/Localisation/pt_text.loc" />
+      <file path="Media/StreamingAssets/Localisation/ru_text.loc" />
+      <file path="Media/StreamingAssets/Localisation/sv_text.loc" />
+      <file path="Media/StreamingAssets/Localisation/tr_text.loc" />
+      <file path="Media/globalgamemanagers" />
+      <file path="Media/globalgamemanagers.assets" />
+      <file path="Media/level0" />
+      <file path="Media/level0.resS" />
+      <file path="Media/level1" />
+      <file path="Media/level10" />
+      <file path="Media/level11" />
+      <file path="Media/level12" />
+      <file path="Media/level13" />
+      <file path="Media/level2" />
+      <file path="Media/level3" />
+      <file path="Media/level4" />
+      <file path="Media/level5" />
+      <file path="Media/level6" />
+      <file path="Media/level7" />
+      <file path="Media/level8" />
+      <file path="Media/level9" />
+      <file path="Media/resources.assets" />
+      <file path="Media/sharedassets0.assets" />
+      <file path="Media/sharedassets0.assets.resS" />
+      <file path="Media/sharedassets1.assets" />
+      <file path="Media/sharedassets1.assets.resS" />
+      <file path="Media/sharedassets10.assets" />
+      <file path="Media/sharedassets10.assets.resS" />
+      <file path="Media/sharedassets11.assets" />
+      <file path="Media/sharedassets11.assets.resS" />
+      <file path="Media/sharedassets12.assets" />
+      <file path="Media/sharedassets12.assets.resS" />
+      <file path="Media/sharedassets13.assets" />
+      <file path="Media/sharedassets2.assets" />
+      <file path="Media/sharedassets2.assets.resS" />
+      <file path="Media/sharedassets3.assets" />
+      <file path="Media/sharedassets3.assets.resS" />
+      <file path="Media/sharedassets4.assets" />
+      <file path="Media/sharedassets4.assets.resS" />
+      <file path="Media/sharedassets5.assets" />
+      <file path="Media/sharedassets5.assets.resS" />
+      <file path="Media/sharedassets6.assets" />
+      <file path="Media/sharedassets6.assets.resS" />
+      <file path="Media/sharedassets7.assets" />
+      <file path="Media/sharedassets7.assets.resS" />
+      <file path="Media/sharedassets8.assets" />
+      <file path="Media/sharedassets8.assets.resS" />
+      <file path="Media/sharedassets9.assets" />
+      <file path="Media/sharedassets9.assets.resS" />
+      <file path="ScriptLayoutHashes.txt" />
+    </patch>
+    <patch description="Fake PKG" pkg_required_version="01.06" update_version_required="01.06" />
+  </patches>
+</pkgpatch>

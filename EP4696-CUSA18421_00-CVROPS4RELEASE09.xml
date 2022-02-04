@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA18421" content_id="EP4696-CUSA18421_00-CVROPS4RELEASE09" />
+  <patches>
+    <patch description="Duplicated Content from update 01.01" pkg_required_version="01.00" update_version_required="01.01">
+      <file path="contagionvrps4/binaries/ps4" />
+      <file path="contagionvrps4/content/paks/contagionvrps4-ps4.pak" />
+    </patch>
+    <patch description="Fake PKG" pkg_required_version="01.01" update_version_required="01.01" />
+  </patches>
+</pkgpatch>

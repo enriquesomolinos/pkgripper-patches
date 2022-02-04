@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA06778" content_id="EP9000-CUSA06778_00-PMFW000000000001" />
+  <patches>
+    <patch description="Duplicated Content from update 01.11" pkg_required_version="01.00" update_version_required="01.11">
+      <file path="smg014/binaries/ps4" />
+      <file path="smg014/content/paks/pakchunk0-ps4.pak" />
+      <file path="smg014/content/paks/pakchunk1-ps4.pak" />
+      <file path="smg014/content/paks/pakchunk2-ps4.pak" />
+      <file path="smg014/content/paks/pakchunk3-ps4.pak" />
+      <file path="Manifest_NonUFSFiles_PS4.txt" />
+    </patch>
+    <patch description="Fake PKG" pkg_required_version="01.11" update_version_required="01.11" />
+  </patches>
+</pkgpatch>

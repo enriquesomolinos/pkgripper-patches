@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA14236" content_id="EP3495-CUSA14236_00-0000000000000000" />
+  <patches>
+    <patch description="Duplicated Content from update 01.04" pkg_required_version="01.00" update_version_required="01.04">
+      <file path="Media/Metadata/global-metadata.dat" />
+      <file path="Media/Resources/unity_builtin_extra" />
+      <file path="Media/StreamingAssets/Master Bank.bank" />
+      <file path="Media/StreamingAssets/Master Bank.strings.bank" />
+      <file path="Media/StreamingAssets/StreamingAssets" />
+      <file path="Media/StreamingAssets/StreamingAssets.manifest" />
+      <file path="Media/StreamingAssets/leveldata" />
+      <file path="Media/StreamingAssets/leveldata.manifest" />
+      <file path="Media/StreamingAssets/sharedshaders" />
+      <file path="Media/StreamingAssets/sharedshaders.manifest" />
+      <file path="Media/SymbolMap" />
+      <file path="Media/globalgamemanagers" />
+      <file path="Media/globalgamemanagers.assets" />
+      <file path="Media/level0" />
+      <file path="Media/level1" />
+      <file path="Media/level1.resS" />
+      <file path="Media/level2" />
+      <file path="Media/level3" />
+      <file path="Media/level3.resS" />
+      <file path="Media/level4" />
+      <file path="Media/level5" />
+      <file path="Media/resources.assets" />
+      <file path="Media/sharedassets0.assets" />
+      <file path="Media/sharedassets1.assets" />
+      <file path="Media/sharedassets1.assets.resS" />
+      <file path="Media/sharedassets2.assets" />
+      <file path="Media/sharedassets2.assets.resS" />
+      <file path="Media/sharedassets3.assets" />
+      <file path="Media/sharedassets3.assets.resS" />
+      <file path="Media/sharedassets4.assets" />
+      <file path="Media/sharedassets5.assets" />
+    </patch>
+    <patch description="Fake PKG" pkg_required_version="01.04" update_version_required="01.04" />
+  </patches>
+</pkgpatch>

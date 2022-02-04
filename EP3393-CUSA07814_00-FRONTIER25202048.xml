@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA07814" content_id="EP3393-CUSA07814_00-FRONTIER25202048" />
+  <patches>
+    <patch description="Duplicated Content from update 01.06" pkg_required_version="01.00" update_version_required="01.06">
+      <file path="persistence/Binaries/PS4" />
+    </patch>
+    <patch description="Fake PKG" pkg_required_version="01.06" update_version_required="01.06" />
+  </patches>
+</pkgpatch>

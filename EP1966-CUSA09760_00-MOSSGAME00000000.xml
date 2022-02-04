@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA09760" content_id="EP1966-CUSA09760_00-MOSSGAME00000000" />
+  <patches>
+    <patch description="Duplicated Content from update 01.09" pkg_required_version="01.00" update_version_required="01.09">
+      <file path="mossgame/content/paks/pakchunk0-ps4.pak" />
+    </patch>
+    <patch description="Fake PKG" pkg_required_version="01.09" update_version_required="01.09" />
+  </patches>
+</pkgpatch>

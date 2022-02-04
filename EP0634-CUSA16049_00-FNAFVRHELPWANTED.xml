@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA16049" content_id="EP0634-CUSA16049_00-FNAFVRHELPWANTED" />
+  <patches>
+    <patch description="Duplicated Content from update 01.22" pkg_required_version="01.00" update_version_required="01.22">
+      <file path="engine/build/ps4/inviteicon.jpg" />
+      <file path="freddys/content/paks/freddys-ps4.pak" />
+    </patch>
+    <patch description="Fake PKG" pkg_required_version="01.22" update_version_required="01.22" />
+  </patches>
+</pkgpatch>

@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA00556" content_id="EP9000-CUSA00556_00-THELASTOFUS00000" />
+  <patches>
+    <patch description="Remove all but English" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="build/ps4/main/sound1/streams/speech/french-mp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/french-sp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/german-mp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/german-sp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/italian-mp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/italian-sp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/portuguese-mp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/portuguese-sp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/spanish-mp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/spanish-sp.psarc" />
+    </patch>
+    <patch description="Remove all but French" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="build/ps4/main/sound1/streams/speech/german-mp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/german-sp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/italian-mp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/italian-sp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/portuguese-mp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/portuguese-sp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/spanish-mp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/spanish-sp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/english-mp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/english-sp.psarc" />
+    </patch>
+    <patch description="Remove all but German" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="build/ps4/main/sound1/streams/speech/english-mp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/english-sp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/french-mp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/french-sp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/italian-mp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/italian-sp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/portuguese-mp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/portuguese-sp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/spanish-mp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/spanish-sp.psarc" />
+    </patch>
+    <patch description="Remove all but Italian" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="build/ps4/main/sound1/streams/speech/english-mp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/english-sp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/french-mp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/french-sp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/german-mp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/german-sp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/portuguese-mp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/portuguese-sp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/spanish-mp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/spanish-sp.psarc" />
+    </patch>
+    <patch description="Remove all but Portuguese" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="build/ps4/main/sound1/streams/speech/english-mp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/english-sp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/french-mp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/french-sp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/german-mp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/german-sp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/portuguese-mp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/portuguese-sp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/spanish-mp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/spanish-sp.psarc" />
+    </patch>
+    <patch description="Remove all but Spanish" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="build/ps4/main/sound1/streams/speech/english-mp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/english-sp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/french-mp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/french-sp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/german-mp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/german-sp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/italian-mp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/italian-sp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/portuguese-mp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/portuguese-sp.psarc" />
+    </patch>
+    <patch description="Remove all but Eng/Ger" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="build/ps4/main/sound1/streams/speech/french-mp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/french-sp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/italian-mp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/italian-sp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/portuguese-mp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/portuguese-sp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/spanish-mp.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/spanish-sp.psarc" />
+    </patch>
+    <patch description="Fake patch" pkg_required_version="01.11" update_version_required="01.11" />
+  </patches>
+</pkgpatch>

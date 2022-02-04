@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA06761" content_id="EP2906-CUSA06761_00-INVASIONPSVREP01" />
+  <patches>
+    <patch description="Duplicated Content from update 01.01" pkg_required_version="01.00" update_version_required="01.01">
+      <file path="invasionep01/content/paks/invasionep01-ps4.pak" />
+    </patch>
+    <patch description="Fake PKG" pkg_required_version="01.01" update_version_required="01.01" />
+  </patches>
+</pkgpatch>

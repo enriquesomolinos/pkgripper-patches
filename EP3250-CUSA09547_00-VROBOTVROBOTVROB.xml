@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA09547" content_id="EP3250-CUSA09547_00-VROBOTVROBOTVROB" />
+  <patches>
+    <patch description="Duplicated Content from update 01.01" pkg_required_version="01.00" update_version_required="01.01">
+      <file path="r5/Binaries/PS4" />
+      <file path="r5/content/paks/r5-ps4.pak" />
+      <file path="ue4commandline.txt" />
+    </patch>
+    <patch description="Fake PKG" pkg_required_version="01.01" update_version_required="01.01" />
+  </patches>
+</pkgpatch>

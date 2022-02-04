@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA19513" content_id="EP2147-CUSA19513_00-PW1RELEASE000001" />
+  <patches>
+    <patch description="Duplicated Content from update 01.05" pkg_required_version="01.00" update_version_required="01.05">
+      <file path="winchester/content/paks/winchester-ps4.pak" />
+    </patch>
+    <patch description="Fake PKG" pkg_required_version="01.05" update_version_required="01.05" />
+  </patches>
+</pkgpatch>

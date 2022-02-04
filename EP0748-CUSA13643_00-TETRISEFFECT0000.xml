@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA13643" content_id="EP0748-CUSA13643_00-TETRISEFFECT0000" />
+  <patches>
+    <patch description="Duplicated Content from update 01.08" pkg_required_version="01.00" update_version_required="01.08">
+      <file path="trip/binaries/ps4" />
+      <file path="trip/content/movies/tutorial/tutorial_technic_c_1_1.mp4" />
+      <file path="trip/content/movies/tutorial/tutorial_technic_c_2_2.mp4" />
+      <file path="trip/content/movies/tutorial/tutorial_technic_c_4_1.mp4" />
+      <file path="trip/content/movies/tutorial/tutorial_technic_c_5_1.mp4" />
+      <file path="trip/content/movies/tutorial/tutorial_tetris_c_1_1.mp4" />
+      <file path="trip/content/movies/tutorial/tutorial_tetris_c_1_2.mp4" />
+      <file path="trip/content/movies/tutorial/tutorial_tetris_c_1_3.mp4" />
+      <file path="trip/content/movies/tutorial/tutorial_tetris_c_1_4.mp4" />
+      <file path="trip/content/movies/tutorial/tutorial_tetris_c_2_1.mp4" />
+      <file path="trip/content/movies/tutorial/tutorial_tetris_c_2_3.mp4" />
+      <file path="trip/content/movies/tutorial/tutorial_tetris_c_2_4.mp4" />
+      <file path="trip/content/movies/tutorial/tutorial_tetris_c_3_1.mp4" />
+      <file path="trip/content/movies/tutorial/tutorial_tetris_c_3_3.mp4" />
+      <file path="trip/content/movies/tutorial/tutorial_zone_c_1_1.mp4" />
+      <file path="trip/content/movies/tutorial/tutorial_zone_c_1_2.mp4" />
+      <file path="trip/content/movies/tutorial/tutorial_zone_c_1_3.mp4" />
+      <file path="trip/content/movies/tutorial/tutorial_zone_c_2_1.mp4" />
+      <file path="ue4commandline.txt" />
+    </patch>
+    <patch description="Fake PKG" pkg_required_version="01.08" update_version_required="01.08" />
+  </patches>
+</pkgpatch>

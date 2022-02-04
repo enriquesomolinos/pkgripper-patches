@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA08093" content_id="HP9000-CUSA08093_00-VRPG0000000000AS" />
+  <patches>
+    <patch description="Duplicated Content from update 01.01" pkg_required_version="01.00" update_version_required="01.01">
+      <file path="Media/Managed/Assembly-CSharp.dll" />
+      <file path="Media/Managed/Camera.dll" />
+      <file path="Media/Managed/SonyNP.dll" />
+      <file path="Media/Managed/SonyNP2.dll" />
+      <file path="Media/Managed/SonyPS4SavedGames.dll" />
+      <file path="Media/Managed/System.Configuration.dll" />
+      <file path="Media/Managed/System.Core.dll" />
+      <file path="Media/Managed/System.Xml.dll" />
+      <file path="Media/Managed/System.dll" />
+      <file path="Media/Managed/UnityEngine.Networking.dll" />
+      <file path="Media/Managed/UnityEngine.UI.dll" />
+      <file path="Media/Managed/UnityEngine.dll" />
+      <file path="Media/Managed/mscorlib.dll" />
+      <file path="Media/globalgamemanagers" />
+    </patch>
+    <patch description="Fake PKG" pkg_required_version="01.01" update_version_required="01.01" />
+  </patches>
+</pkgpatch>

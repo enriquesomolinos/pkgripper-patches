@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA20085" content_id="UP0001-CUSA20085_00-SCOTTPILGRIMGAME" />
+  <patches>
+    <patch description="Duplicated Content from update 01.03" pkg_required_version="01.00" update_version_required="01.03">
+      <file path="Final/00/00/00/01.toc" />
+      <file path="Final/00/00/00/02" />
+      <file path="Final/00/00/00/03" />
+      <file path="Final/00/10/18/5E" />
+      <file path="Final/00/10/18/5E.toc" />
+      <file path="Final/Localization/English.bof" />
+      <file path="Final/Localization/French.bof" />
+      <file path="Final/Localization/Spanish.bof" />
+      <file path="Final/FinalComponentList.template" />
+      <file path="Final/gamedata" />
+      <file path="Final/gamedata.fat" />
+      <file path="enginedata.vfs" />
+    </patch>
+    <patch description="Fake patch" pkg_required_version="01.03" update_version_required="01.03" />
+  </patches>
+</pkgpatch>

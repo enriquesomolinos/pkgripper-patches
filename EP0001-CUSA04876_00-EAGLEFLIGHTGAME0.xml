@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA04876" content_id="EP0001-CUSA04876_00-EAGLEFLIGHTGAME0" />
+  <patches>
+    <patch description="Keep only Chinese PRC" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="Media/StreamingAssets/Audio/PS4/Chinese(Taiwan)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Dutch" />
+      <file path="Media/StreamingAssets/Audio/PS4/English(US)" />
+      <file path="Media/StreamingAssets/Audio/PS4/French(France)" />
+      <file path="Media/StreamingAssets/Audio/PS4/German" />
+      <file path="Media/StreamingAssets/Audio/PS4/Italian" />
+      <file path="Media/StreamingAssets/Audio/PS4/Japanese" />
+      <file path="Media/StreamingAssets/Audio/PS4/Korean" />
+      <file path="Media/StreamingAssets/Audio/PS4/Polish" />
+      <file path="Media/StreamingAssets/Audio/PS4/Portuguese(Brazil)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Russian" />
+      <file path="Media/StreamingAssets/Audio/PS4/Spanish(Mexico)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Spanish(Spain)" />
+    </patch>
+    <patch description="Keep only Chinese Taiwan" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="Media/StreamingAssets/Audio/PS4/Chinese(PRC)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Dutch" />
+      <file path="Media/StreamingAssets/Audio/PS4/English(US)" />
+      <file path="Media/StreamingAssets/Audio/PS4/French(France)" />
+      <file path="Media/StreamingAssets/Audio/PS4/German" />
+      <file path="Media/StreamingAssets/Audio/PS4/Italian" />
+      <file path="Media/StreamingAssets/Audio/PS4/Japanese" />
+      <file path="Media/StreamingAssets/Audio/PS4/Korean" />
+      <file path="Media/StreamingAssets/Audio/PS4/Polish" />
+      <file path="Media/StreamingAssets/Audio/PS4/Portuguese(Brazil)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Russian" />
+      <file path="Media/StreamingAssets/Audio/PS4/Spanish(Mexico)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Spanish(Spain)" />
+    </patch>
+    <patch description="Keep only Chinese (PPRC+Taiwan)" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="Media/StreamingAssets/Audio/PS4/Dutch" />
+      <file path="Media/StreamingAssets/Audio/PS4/English(US)" />
+      <file path="Media/StreamingAssets/Audio/PS4/French(France)" />
+      <file path="Media/StreamingAssets/Audio/PS4/German" />
+      <file path="Media/StreamingAssets/Audio/PS4/Italian" />
+      <file path="Media/StreamingAssets/Audio/PS4/Japanese" />
+      <file path="Media/StreamingAssets/Audio/PS4/Korean" />
+      <file path="Media/StreamingAssets/Audio/PS4/Polish" />
+      <file path="Media/StreamingAssets/Audio/PS4/Portuguese(Brazil)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Russian" />
+      <file path="Media/StreamingAssets/Audio/PS4/Spanish(Mexico)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Spanish(Spain)" />
+    </patch>
+    <patch description="Keep only Dutch" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="Media/StreamingAssets/Audio/PS4/Chinese(PRC)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Chinese(Taiwan)" />
+      <file path="Media/StreamingAssets/Audio/PS4/English(US)" />
+      <file path="Media/StreamingAssets/Audio/PS4/French(France)" />
+      <file path="Media/StreamingAssets/Audio/PS4/German" />
+      <file path="Media/StreamingAssets/Audio/PS4/Italian" />
+      <file path="Media/StreamingAssets/Audio/PS4/Japanese" />
+      <file path="Media/StreamingAssets/Audio/PS4/Korean" />
+      <file path="Media/StreamingAssets/Audio/PS4/Polish" />
+      <file path="Media/StreamingAssets/Audio/PS4/Portuguese(Brazil)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Russian" />
+      <file path="Media/StreamingAssets/Audio/PS4/Spanish(Mexico)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Spanish(Spain)" />
+    </patch>
+    <patch description="Keep only Englisch" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="Media/StreamingAssets/Audio/PS4/Chinese(PRC)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Chinese(Taiwan)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Dutch" />
+      <file path="Media/StreamingAssets/Audio/PS4/French(France)" />
+      <file path="Media/StreamingAssets/Audio/PS4/German" />
+      <file path="Media/StreamingAssets/Audio/PS4/Italian" />
+      <file path="Media/StreamingAssets/Audio/PS4/Japanese" />
+      <file path="Media/StreamingAssets/Audio/PS4/Korean" />
+      <file path="Media/StreamingAssets/Audio/PS4/Polish" />
+      <file path="Media/StreamingAssets/Audio/PS4/Portuguese(Brazil)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Russian" />
+      <file path="Media/StreamingAssets/Audio/PS4/Spanish(Mexico)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Spanish(Spain)" />
+    </patch>
+    <patch description="Keep only French" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="Media/StreamingAssets/Audio/PS4/Chinese(PRC)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Chinese(Taiwan)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Dutch" />
+      <file path="Media/StreamingAssets/Audio/PS4/English(US)" />
+      <file path="Media/StreamingAssets/Audio/PS4/German" />
+      <file path="Media/StreamingAssets/Audio/PS4/Italian" />
+      <file path="Media/StreamingAssets/Audio/PS4/Japanese" />
+      <file path="Media/StreamingAssets/Audio/PS4/Korean" />
+      <file path="Media/StreamingAssets/Audio/PS4/Polish" />
+      <file path="Media/StreamingAssets/Audio/PS4/Portuguese(Brazil)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Russian" />
+      <file path="Media/StreamingAssets/Audio/PS4/Spanish(Mexico)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Spanish(Spain)" />
+    </patch>
+    <patch description="Keep only German" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="Media/StreamingAssets/Audio/PS4/Chinese(PRC)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Chinese(Taiwan)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Dutch" />
+      <file path="Media/StreamingAssets/Audio/PS4/English(US)" />
+      <file path="Media/StreamingAssets/Audio/PS4/French(France)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Italian" />
+      <file path="Media/StreamingAssets/Audio/PS4/Japanese" />
+      <file path="Media/StreamingAssets/Audio/PS4/Korean" />
+      <file path="Media/StreamingAssets/Audio/PS4/Polish" />
+      <file path="Media/StreamingAssets/Audio/PS4/Portuguese(Brazil)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Russian" />
+      <file path="Media/StreamingAssets/Audio/PS4/Spanish(Mexico)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Spanish(Spain)" />
+    </patch>
+    <patch description="Keep only Italian" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="Media/StreamingAssets/Audio/PS4/Chinese(PRC)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Chinese(Taiwan)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Dutch" />
+      <file path="Media/StreamingAssets/Audio/PS4/English(US)" />
+      <file path="Media/StreamingAssets/Audio/PS4/French(France)" />
+      <file path="Media/StreamingAssets/Audio/PS4/German" />
+      <file path="Media/StreamingAssets/Audio/PS4/Japanese" />
+      <file path="Media/StreamingAssets/Audio/PS4/Korean" />
+      <file path="Media/StreamingAssets/Audio/PS4/Polish" />
+      <file path="Media/StreamingAssets/Audio/PS4/Portuguese(Brazil)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Russian" />
+      <file path="Media/StreamingAssets/Audio/PS4/Spanish(Mexico)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Spanish(Spain)" />
+    </patch>
+    <patch description="Keep only Japanese" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="Media/StreamingAssets/Audio/PS4/Chinese(PRC)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Chinese(Taiwan)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Dutch" />
+      <file path="Media/StreamingAssets/Audio/PS4/English(US)" />
+      <file path="Media/StreamingAssets/Audio/PS4/French(France)" />
+      <file path="Media/StreamingAssets/Audio/PS4/German" />
+      <file path="Media/StreamingAssets/Audio/PS4/Italian" />
+      <file path="Media/StreamingAssets/Audio/PS4/Korean" />
+      <file path="Media/StreamingAssets/Audio/PS4/Polish" />
+      <file path="Media/StreamingAssets/Audio/PS4/Portuguese(Brazil)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Russian" />
+      <file path="Media/StreamingAssets/Audio/PS4/Spanish(Mexico)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Spanish(Spain)" />
+    </patch>
+    <patch description="Keep only Korean" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="Media/StreamingAssets/Audio/PS4/Chinese(PRC)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Chinese(Taiwan)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Dutch" />
+      <file path="Media/StreamingAssets/Audio/PS4/English(US)" />
+      <file path="Media/StreamingAssets/Audio/PS4/French(France)" />
+      <file path="Media/StreamingAssets/Audio/PS4/German" />
+      <file path="Media/StreamingAssets/Audio/PS4/Italian" />
+      <file path="Media/StreamingAssets/Audio/PS4/Japanese" />
+      <file path="Media/StreamingAssets/Audio/PS4/Polish" />
+      <file path="Media/StreamingAssets/Audio/PS4/Portuguese(Brazil)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Russian" />
+      <file path="Media/StreamingAssets/Audio/PS4/Spanish(Mexico)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Spanish(Spain)" />
+    </patch>
+    <patch description="Keep only Polish" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="Media/StreamingAssets/Audio/PS4/Chinese(PRC)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Chinese(Taiwan)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Dutch" />
+      <file path="Media/StreamingAssets/Audio/PS4/English(US)" />
+      <file path="Media/StreamingAssets/Audio/PS4/French(France)" />
+      <file path="Media/StreamingAssets/Audio/PS4/German" />
+      <file path="Media/StreamingAssets/Audio/PS4/Italian" />
+      <file path="Media/StreamingAssets/Audio/PS4/Japanese" />
+      <file path="Media/StreamingAssets/Audio/PS4/Korean" />
+      <file path="Media/StreamingAssets/Audio/PS4/Portuguese(Brazil)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Russian" />
+      <file path="Media/StreamingAssets/Audio/PS4/Spanish(Mexico)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Spanish(Spain)" />
+    </patch>
+    <patch description="Keep only Portuguese" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="Media/StreamingAssets/Audio/PS4/Chinese(PRC)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Chinese(Taiwan)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Dutch" />
+      <file path="Media/StreamingAssets/Audio/PS4/English(US)" />
+      <file path="Media/StreamingAssets/Audio/PS4/French(France)" />
+      <file path="Media/StreamingAssets/Audio/PS4/German" />
+      <file path="Media/StreamingAssets/Audio/PS4/Italian" />
+      <file path="Media/StreamingAssets/Audio/PS4/Japanese" />
+      <file path="Media/StreamingAssets/Audio/PS4/Korean" />
+      <file path="Media/StreamingAssets/Audio/PS4/Polish" />
+      <file path="Media/StreamingAssets/Audio/PS4/Russian" />
+      <file path="Media/StreamingAssets/Audio/PS4/Spanish(Mexico)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Spanish(Spain)" />
+    </patch>
+    <patch description="Keep only Russian" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="Media/StreamingAssets/Audio/PS4/Chinese(PRC)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Chinese(Taiwan)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Dutch" />
+      <file path="Media/StreamingAssets/Audio/PS4/English(US)" />
+      <file path="Media/StreamingAssets/Audio/PS4/French(France)" />
+      <file path="Media/StreamingAssets/Audio/PS4/German" />
+      <file path="Media/StreamingAssets/Audio/PS4/Italian" />
+      <file path="Media/StreamingAssets/Audio/PS4/Japanese" />
+      <file path="Media/StreamingAssets/Audio/PS4/Korean" />
+      <file path="Media/StreamingAssets/Audio/PS4/Polish" />
+      <file path="Media/StreamingAssets/Audio/PS4/Portuguese(Brazil)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Spanish(Mexico)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Spanish(Spain)" />
+    </patch>
+    <patch description="Keep only Spanish Mexico" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="Media/StreamingAssets/Audio/PS4/Chinese(PRC)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Chinese(Taiwan)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Dutch" />
+      <file path="Media/StreamingAssets/Audio/PS4/English(US)" />
+      <file path="Media/StreamingAssets/Audio/PS4/French(France)" />
+      <file path="Media/StreamingAssets/Audio/PS4/German" />
+      <file path="Media/StreamingAssets/Audio/PS4/Italian" />
+      <file path="Media/StreamingAssets/Audio/PS4/Japanese" />
+      <file path="Media/StreamingAssets/Audio/PS4/Korean" />
+      <file path="Media/StreamingAssets/Audio/PS4/Polish" />
+      <file path="Media/StreamingAssets/Audio/PS4/Portuguese(Brazil)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Russian" />
+      <file path="Media/StreamingAssets/Audio/PS4/Spanish(Spain)" />
+    </patch>
+    <patch description="Keep only Spanish Spain" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="Media/StreamingAssets/Audio/PS4/Chinese(PRC)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Chinese(Taiwan)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Dutch" />
+      <file path="Media/StreamingAssets/Audio/PS4/English(US)" />
+      <file path="Media/StreamingAssets/Audio/PS4/French(France)" />
+      <file path="Media/StreamingAssets/Audio/PS4/German" />
+      <file path="Media/StreamingAssets/Audio/PS4/Italian" />
+      <file path="Media/StreamingAssets/Audio/PS4/Japanese" />
+      <file path="Media/StreamingAssets/Audio/PS4/Korean" />
+      <file path="Media/StreamingAssets/Audio/PS4/Polish" />
+      <file path="Media/StreamingAssets/Audio/PS4/Portuguese(Brazil)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Russian" />
+      <file path="Media/StreamingAssets/Audio/PS4/Spanish(Mexico)" />
+    </patch>
+    <patch description="Keep only Spanish Mexico+Spain" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="Media/StreamingAssets/Audio/PS4/Chinese(PRC)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Chinese(Taiwan)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Dutch" />
+      <file path="Media/StreamingAssets/Audio/PS4/English(US)" />
+      <file path="Media/StreamingAssets/Audio/PS4/French(France)" />
+      <file path="Media/StreamingAssets/Audio/PS4/German" />
+      <file path="Media/StreamingAssets/Audio/PS4/Italian" />
+      <file path="Media/StreamingAssets/Audio/PS4/Japanese" />
+      <file path="Media/StreamingAssets/Audio/PS4/Korean" />
+      <file path="Media/StreamingAssets/Audio/PS4/Polish" />
+      <file path="Media/StreamingAssets/Audio/PS4/Portuguese(Brazil)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Russian" />
+    </patch>
+    <patch description="Keep only Ger+Eng" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="Media/StreamingAssets/Audio/PS4/Chinese(PRC)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Chinese(Taiwan)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Dutch" />
+      <file path="Media/StreamingAssets/Audio/PS4/French(France)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Italian" />
+      <file path="Media/StreamingAssets/Audio/PS4/Japanese" />
+      <file path="Media/StreamingAssets/Audio/PS4/Korean" />
+      <file path="Media/StreamingAssets/Audio/PS4/Polish" />
+      <file path="Media/StreamingAssets/Audio/PS4/Portuguese(Brazil)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Russian" />
+      <file path="Media/StreamingAssets/Audio/PS4/Spanish(Mexico)" />
+      <file path="Media/StreamingAssets/Audio/PS4/Spanish(Spain)" />
+    </patch>
+  </patches>
+</pkgpatch>

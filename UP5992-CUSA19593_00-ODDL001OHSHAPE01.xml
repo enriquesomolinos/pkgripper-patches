@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA19593" content_id="UP5992-CUSA19593_00-ODDL001OHSHAPE01" />
+  <patches>
+    <patch description="Duplicated Content from update 01.11" pkg_required_version="01.00" update_version_required="01.11">
+      <file path="Media/Metadata/global-metadata.dat" />
+      <file path="Media/Resources/unity default resources" />
+      <file path="Media/Resources/unity_builtin_extra" />
+      <file path="Media/SymbolMap" />
+      <file path="Media/globalgamemanagers" />
+      <file path="Media/globalgamemanagers.assets" />
+      <file path="Media/level0" />
+      <file path="Media/level1" />
+      <file path="Media/level2" />
+      <file path="Media/level3" />
+      <file path="Media/level4" />
+      <file path="Media/level4.resS" />
+      <file path="Media/level5" />
+      <file path="Media/level5.resS" />
+      <file path="Media/resources.assets" />
+      <file path="Media/resources.assets.resS" />
+      <file path="Media/resources.resource" />
+      <file path="Media/sharedassets0.assets" />
+      <file path="Media/sharedassets0.assets.resS" />
+      <file path="Media/sharedassets0.resource" />
+      <file path="Media/sharedassets1.assets" />
+      <file path="Media/sharedassets1.assets.resS" />
+      <file path="Media/sharedassets1.resource" />
+      <file path="Media/sharedassets2.assets" />
+      <file path="Media/sharedassets2.assets.resS" />
+      <file path="Media/sharedassets2.resource" />
+      <file path="Media/sharedassets3.assets" />
+      <file path="Media/sharedassets3.assets.resS" />
+      <file path="Media/sharedassets3.resource" />
+      <file path="Media/sharedassets4.assets" />
+      <file path="Media/sharedassets4.assets.resS" />
+      <file path="Media/sharedassets5.assets" />
+      <file path="Media/sharedassets5.assets.resS" />
+    </patch>
+    <patch description="Fake PKG" pkg_required_version="01.11" update_version_required="01.11" />
+  </patches>
+</pkgpatch>

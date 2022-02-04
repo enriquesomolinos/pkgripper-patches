@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA07670" content_id="EP9000-CUSA07670_00-KNACK20000000000" />
+  <patches>
+    <patch description="Keep only GER" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="data/lang/ara" />
+      <file path="data/lang/dan" />
+      <file path="data/lang/ene" />
+      <file path="data/lang/ese" />
+      <file path="data/lang/fin" />
+      <file path="data/lang/fre" />
+      <file path="data/lang/ita" />
+      <file path="data/lang/nld" />
+      <file path="data/lang/nor" />
+      <file path="data/lang/pol" />
+      <file path="data/lang/pte" />
+      <file path="data/lang/rus" />
+      <file path="data/lang/swe" />
+      <file path="data/raw/lang/ara" />
+      <file path="data/raw/lang/dan" />
+      <file path="data/raw/lang/ene" />
+      <file path="data/raw/lang/ese" />
+      <file path="data/raw/lang/fin" />
+      <file path="data/raw/lang/fre" />
+      <file path="data/raw/lang/ita" />
+      <file path="data/raw/lang/nld" />
+      <file path="data/raw/lang/nor" />
+      <file path="data/raw/lang/pol" />
+      <file path="data/raw/lang/pte" />
+      <file path="data/raw/lang/rus" />
+      <file path="data/raw/lang/swe" />
+    </patch>
+  </patches>
+</pkgpatch>

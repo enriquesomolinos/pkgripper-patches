@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA10497" content_id="HP3435-CUSA10497_00-0000000000000000" />
+  <patches>
+    <patch description="Duplicated Content from update 01.01" pkg_required_version="01.00" update_version_required="01.01">
+      <file path="Media/Metadata/global-metadata.dat" />
+      <file path="Media/Native/Data/Metadata/global-metadata.dat" />
+      <file path="Media/globalgamemanagers" />
+      <file path="Media/globalgamemanagers.assets" />
+      <file path="Media/preserved_derived_types.xml" />
+      <file path="Media/sharedassets0.assets.resS" />
+      <file path="ScriptLayoutHashes.txt" />
+      <file path="archive.psarc" />
+    </patch>
+    <patch description="Fake PKG" pkg_required_version="01.01" update_version_required="01.01" />
+  </patches>
+</pkgpatch>

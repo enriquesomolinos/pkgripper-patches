@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA11274" content_id="EP0114-CUSA11274_00-EUKILLINGFLRPSVR" />
+  <patches>
+    <patch description="Duplicated Content from update 01.06" pkg_required_version="01.00" update_version_required="01.06">
+      <file path="cusa11274_00" />
+      <file path="engine/build/ps4/inviteicon.jpg" />
+      <file path="engine/build/ps4/saveicon.png" />
+      <file path="engine/build/build.version" />
+      <file path="incursion/binaries/ps4" />
+      <file path="incursion/content/movies/credits.mp4" />
+      <file path="incursion/content/movies/ending_countdown.mp4" />
+      <file path="incursion/content/movies/ending_cryoloop.mp4" />
+      <file path="incursion/content/movies/holdoutloadingscreen_de.mp4" />
+      <file path="incursion/content/movies/holdoutloadingscreen_en.mp4" />
+      <file path="incursion/content/movies/holdoutloadingscreen_es.mp4" />
+      <file path="incursion/content/movies/holdoutloadingscreen_ko.mp4" />
+      <file path="incursion/content/movies/holdoutloadingscreen_pt.mp4" />
+      <file path="incursion/content/movies/holdoutloadingscreen_ru.mp4" />
+      <file path="incursion/content/movies/holdoutloadingscreen_zh.mp4" />
+      <file path="incursion/content/movies/incursion_credits_large.mp4" />
+      <file path="incursion/content/movies/loadingscreen_de.mp4" />
+      <file path="incursion/content/movies/loadingscreen_en.mp4" />
+      <file path="incursion/content/movies/loadingscreen_es.mp4" />
+      <file path="incursion/content/movies/loadingscreen_ko.mp4" />
+      <file path="incursion/content/movies/loadingscreen_pt.mp4" />
+      <file path="incursion/content/movies/loadingscreen_ru.mp4" />
+      <file path="incursion/content/movies/loadingscreen_zh.mp4" />
+      <file path="incursion/content/movies/madeingeorgialogo.mp4" />
+      <file path="incursion/content/movies/madeingeorgialogo_audio.mp4" />
+      <file path="incursion/content/movies/replacemissing_cryorooms.mp4" />
+      <file path="incursion/content/movies/replacemissing_sec_01.mp4" />
+      <file path="incursion/content/movies/replacemissing_sec_02.mp4" />
+      <file path="incursion/content/movies/tripwirelogo.mp4" />
+      <file path="incursion/content/movies/tripwirelogo_audio.mp4" />
+      <file path="incursion/content/movies/ue4logo.mp4" />
+      <file path="incursion/content/movies/ue4logo_audio.mp4" />
+      <file path="incursion/content/paks/incursion-ps4.pak" />
+      <file path="Manifest_NonUFSFiles_PS4.txt" />
+      <file path="title.json" />
+      <file path="ue4commandline.txt" />
+    </patch>
+    <patch description="Fake PKG" pkg_required_version="01.06" update_version_required="01.06" />
+  </patches>
+</pkgpatch>

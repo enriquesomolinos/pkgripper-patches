@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA06042" content_id="EP4143-CUSA06042_00-FLTINYTRAXPSVREU" />
+  <patches>
+    <patch description="Duplicated Content from update 01.01" pkg_required_version="01.00" update_version_required="01.01">
+      <file path="Media/Managed/Assembly-CSharp-firstpass.dll" />
+      <file path="Media/Managed/Assembly-CSharp.dll" />
+      <file path="Media/globalgamemanagers" />
+      <file path="Media/level1" />
+      <file path="Media/level10" />
+      <file path="Media/level11" />
+      <file path="Media/level12" />
+      <file path="Media/level13" />
+      <file path="Media/level14" />
+      <file path="Media/level15" />
+      <file path="Media/level16" />
+      <file path="Media/level17" />
+      <file path="Media/level2" />
+      <file path="Media/level4" />
+      <file path="Media/level5" />
+      <file path="Media/level6" />
+      <file path="Media/level7" />
+      <file path="Media/level8" />
+      <file path="Media/level9" />
+      <file path="Media/resources.assets" />
+      <file path="Media/sharedassets10.assets" />
+      <file path="Media/sharedassets11.assets" />
+      <file path="Media/sharedassets12.assets" />
+      <file path="Media/sharedassets14.assets" />
+      <file path="Media/sharedassets4.assets" />
+      <file path="Media/sharedassets5.assets" />
+      <file path="Media/sharedassets6.assets" />
+      <file path="Media/sharedassets7.assets" />
+      <file path="Media/sharedassets8.assets" />
+      <file path="Media/sharedassets9.assets" />
+    </patch>
+    <patch description="Fake PKG" pkg_required_version="01.01" update_version_required="01.01" />
+  </patches>
+</pkgpatch>

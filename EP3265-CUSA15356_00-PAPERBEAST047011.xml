@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA15356" content_id="EP3265-CUSA15356_00-PAPERBEAST047011" />
+  <patches>
+    <patch description="Duplicated Content from update 01.03" pkg_required_version="01.00" update_version_required="01.03">
+      <file path="Media/Metadata/global-metadata.dat" />
+      <file path="Media/StreamingAssets/Terrains/DynamicData/L3_TerrainEcozone_Layer0_Height.bytes" />
+      <file path="Media/StreamingAssets/Terrains/DynamicData/L3_TerrainEcozone_Layer1_Height.bytes" />
+      <file path="Media/StreamingAssets/Terrains/DynamicData/L3_TerrainEcozone_Layer2_Height.bytes" />
+      <file path="Media/StreamingAssets/Terrains/DynamicData/L3_TerrainEcozone_Layer2_Temperature.bytes" />
+      <file path="Media/StreamingAssets/Terrains/StaticHeightMaps/L15_StaticBlock_Medium_Height.bytes" />
+      <file path="Media/globalgamemanagers" />
+      <file path="Media/globalgamemanagers.assets" />
+      <file path="Media/sharedassets0.assets.resS" />
+      <file path="Media/sharedassets1.assets.resS" />
+      <file path="Media/sharedassets10.assets.resS" />
+      <file path="Media/sharedassets11.assets.resS" />
+      <file path="Media/sharedassets12.assets.resS" />
+      <file path="Media/sharedassets13.assets.resS" />
+      <file path="Media/sharedassets14.assets.resS" />
+      <file path="Media/sharedassets15.assets.resS" />
+      <file path="Media/sharedassets2.assets.resS" />
+      <file path="Media/sharedassets3.assets.resS" />
+      <file path="Media/sharedassets4.assets.resS" />
+      <file path="Media/sharedassets5.assets.resS" />
+      <file path="Media/sharedassets6.assets.resS" />
+      <file path="Media/sharedassets7.assets.resS" />
+      <file path="Media/sharedassets8.assets.resS" />
+      <file path="Media/sharedassets9.assets.resS" />
+      <file path="archive.psarc" />
+      <file path="archive.txt" />
+    </patch>
+    <patch description="Fake PKG" pkg_required_version="01.03" update_version_required="01.03" />
+  </patches>
+</pkgpatch>

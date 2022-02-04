@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA13819" content_id="HP9000-CUSA13819_00-DREAMS0000000000" />
+  <patches>
+    <patch description="English only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="data/videos/ko" />
+      <file path="data/videos/zh-Hant" />
+      <file path="localisation/ko" />
+      <file path="localisation/zh-Hant" />
+    </patch>
+  </patches>
+</pkgpatch>

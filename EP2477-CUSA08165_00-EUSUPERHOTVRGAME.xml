@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA08165" content_id="EP2477-CUSA08165_00-EUSUPERHOTVRGAME" />
+  <patches>
+    <patch description="Duplicated Content from update 01.12" pkg_required_version="01.00" update_version_required="01.12">
+      <file path="Media/GI/level1/08/08f8cd9b287922be5aa358692ba16cbf.pos" />
+      <file path="Media/GI/level1/08/08f8cd9b287922be5aa358692ba16cbf.rpc.sse" />
+      <file path="Media/GI/level1/6f/6ffb98691c6383cfa7b5d4e0f77cb79e.pos" />
+      <file path="Media/GI/level1/6f/6ffb98691c6383cfa7b5d4e0f77cb79e.rpc.sse" />
+      <file path="Media/GI/level1/b9/b9631d2b4f6540a8ef0f2da1cf09b031.pos" />
+      <file path="Media/GI/level1/b9/b9631d2b4f6540a8ef0f2da1cf09b031.rpc.sse" />
+      <file path="Media/GI/level1/c4/c48fc4d693727fdb583fc35f548be4be.pos" />
+      <file path="Media/GI/level1/c4/c48fc4d693727fdb583fc35f548be4be.rpc.sse" />
+      <file path="Media/GI/level1/ca/cab4fac53c0cd756bb1dc0773963d97d.pos" />
+      <file path="Media/GI/level1/ca/cab4fac53c0cd756bb1dc0773963d97d.rpc.sse" />
+      <file path="Media/GI/level1/d2/d242350240417fa332ad0da519b1907c.pos" />
+      <file path="Media/GI/level1/d2/d242350240417fa332ad0da519b1907c.rpc.sse" />
+      <file path="Media/GI/level1/e7/e7f8da4aab20dc0072a6cc13bcd49d72.pos" />
+      <file path="Media/GI/level1/e7/e7f8da4aab20dc0072a6cc13bcd49d72.rpc.sse" />
+      <file path="Media/Managed/mono/2.0/machine.config" />
+      <file path="Media/Managed/Assembly-CSharp-firstpass.dll" />
+      <file path="Media/Managed/Assembly-CSharp.dll" />
+      <file path="Media/Managed/DOTween.dll" />
+      <file path="Media/Managed/DOTween43.dll" />
+      <file path="Media/Managed/DOTween46.dll" />
+      <file path="Media/Managed/DOTween50.dll" />
+      <file path="Media/Managed/DOTweenPro.dll" />
+      <file path="Media/Managed/DecalSystem.Runtime.dll" />
+      <file path="Media/Managed/DemiLib.dll" />
+      <file path="Media/Managed/GraphLogger.dll" />
+      <file path="Media/Managed/KopiLua.dll" />
+      <file path="Media/Managed/KopiLuaDll.dll" />
+      <file path="Media/Managed/KopiLuaInterface.dll" />
+      <file path="Media/Managed/Mono.Posix.dll" />
+      <file path="Media/Managed/Mono.Security.dll" />
+      <file path="Media/Managed/ProBuilderCore-Unity5.dll" />
+      <file path="Media/Managed/ProBuilderMeshOps-Unity5.dll" />
+      <file path="Media/Managed/ProCore.dll" />
+      <file path="Media/Managed/SUPERHOTSPY-Shared.dll" />
+      <file path="Media/Managed/SonyNP.dll" />
+      <file path="Media/Managed/SonyPS4SavedGames.dll" />
+      <file path="Media/Managed/System.Configuration.dll" />
+      <file path="Media/Managed/System.Core.dll" />
+      <file path="Media/Managed/System.Security.dll" />
+      <file path="Media/Managed/System.Xml.Linq.dll" />
+      <file path="Media/Managed/System.Xml.dll" />
+      <file path="Media/Managed/System.dll" />
+      <file path="Media/Managed/UnityEngine.Analytics.dll" />
+      <file path="Media/Managed/UnityEngine.Networking.dll" />
+      <file path="Media/Managed/UnityEngine.UI.dll" />
+      <file path="Media/Managed/UnityEngine.dll" />
+      <file path="Media/Managed/mscorlib.dll" />
+      <file path="Media/Modules/mono-ps4.sprx" />
+      <file path="Media/StreamingAssets/SaveIcon.png" />
+      <file path="Media/globalgamemanagers" />
+      <file path="Media/globalgamemanagers.assets" />
+      <file path="Media/sharedassets0.assets.resS" />
+      <file path="Media/sharedassets1.assets.resS" />
+      <file path="Media/sharedassets1.resource" />
+      <file path="Media/sharedassets10.assets.resS" />
+      <file path="Media/sharedassets11.assets.resS" />
+      <file path="Media/sharedassets12.assets.resS" />
+      <file path="Media/sharedassets13.assets.resS" />
+      <file path="Media/sharedassets14.assets.resS" />
+      <file path="Media/sharedassets15.assets.resS" />
+      <file path="Media/sharedassets16.assets.resS" />
+      <file path="Media/sharedassets17.assets.resS" />
+      <file path="Media/sharedassets18.assets.resS" />
+      <file path="Media/sharedassets19.assets.resS" />
+      <file path="Media/sharedassets2.assets.resS" />
+      <file path="Media/sharedassets20.assets.resS" />
+      <file path="Media/sharedassets21.assets.resS" />
+      <file path="Media/sharedassets22.assets.resS" />
+      <file path="Media/sharedassets23.assets.resS" />
+      <file path="Media/sharedassets24.assets.resS" />
+      <file path="Media/sharedassets25.assets.resS" />
+      <file path="Media/sharedassets3.assets.resS" />
+      <file path="Media/sharedassets4.assets.resS" />
+      <file path="Media/sharedassets5.assets.resS" />
+      <file path="Media/sharedassets6.assets.resS" />
+      <file path="Media/sharedassets7.assets.resS" />
+      <file path="Media/sharedassets8.assets.resS" />
+      <file path="Media/sharedassets9.assets.resS" />
+      <file path="ScriptLayoutHashes.txt" />
+      <file path="archive.psarc" />
+    </patch>
+    <patch description="Fake PKG" pkg_required_version="01.12" update_version_required="01.12" />
+  </patches>
+</pkgpatch>

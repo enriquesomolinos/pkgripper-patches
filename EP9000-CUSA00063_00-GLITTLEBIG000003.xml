@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA00063" content_id="EP9000-CUSA00063_00-GLITTLEBIG000003" />
+  <patches>
+    <patch description="Remove all but german" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="gamedata/audio/arabic" />
+      <file path="gamedata/audio/braz_portuguese" />
+      <file path="gamedata/audio/danish" />
+      <file path="gamedata/audio/dialogue/danish" />
+      <file path="gamedata/audio/dialogue/dutch" />
+      <file path="gamedata/audio/dialogue/finnish" />
+      <file path="gamedata/audio/dialogue/french" />
+      <file path="gamedata/audio/dialogue/italian" />
+      <file path="gamedata/audio/dialogue/norwegian" />
+      <file path="gamedata/audio/dialogue/polish" />
+      <file path="gamedata/audio/dialogue/portuguese" />
+      <file path="gamedata/audio/dialogue/russian" />
+      <file path="gamedata/audio/dialogue/spanish" />
+      <file path="gamedata/audio/dialogue/swedish" />
+      <file path="gamedata/audio/dutch" />
+      <file path="gamedata/audio/finnish" />
+      <file path="gamedata/audio/french" />
+      <file path="gamedata/audio/italian" />
+      <file path="gamedata/audio/latam_spanish" />
+      <file path="gamedata/audio/norwegian" />
+      <file path="gamedata/audio/polish" />
+      <file path="gamedata/audio/portuguese" />
+      <file path="gamedata/audio/russian" />
+      <file path="gamedata/audio/spanish" />
+      <file path="gamedata/audio/swedish" />
+    </patch>
+  </patches>
+</pkgpatch>

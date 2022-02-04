@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA05842" content_id="EP1001-CUSA05842_00-000000000CVRSCEE" />
+  <patches>
+    <patch description="Duplicated Content from update 01.02" pkg_required_version="01.00" update_version_required="01.02">
+      <file path="PS4Data.car" />
+    </patch>
+    <patch description="Fake PKG" pkg_required_version="01.02" update_version_required="01.02" />
+  </patches>
+</pkgpatch>

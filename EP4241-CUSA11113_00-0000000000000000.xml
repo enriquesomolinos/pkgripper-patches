@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA11113" content_id="EP4241-CUSA11113_00-0000000000000000" />
+  <patches>
+    <patch description="Duplicated Content from update 01.04" pkg_required_version="01.00" update_version_required="01.04">
+      <file path="Media/Managed/Assembly-CSharp.dll" />
+      <file path="Media/Resources/unity_builtin_extra" />
+      <file path="Media/StreamingAssets/gamecore" />
+      <file path="Media/StreamingAssets/gamecore.manifest" />
+      <file path="Media/StreamingAssets/scene1" />
+      <file path="Media/StreamingAssets/scene1.manifest" />
+      <file path="Media/StreamingAssets/scene2" />
+      <file path="Media/StreamingAssets/scene2.manifest" />
+      <file path="Media/StreamingAssets/scene5" />
+      <file path="Media/StreamingAssets/scene5.manifest" />
+      <file path="Media/globalgamemanagers" />
+      <file path="Media/globalgamemanagers.assets" />
+      <file path="Media/level0" />
+      <file path="Media/resources.assets" />
+      <file path="Media/sharedassets0.assets" />
+      <file path="Media/sharedassets0.assets.resS" />
+    </patch>
+    <patch description="Fake PKG" pkg_required_version="01.04" update_version_required="01.04" />
+  </patches>
+</pkgpatch>

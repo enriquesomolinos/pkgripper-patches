@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA05435" content_id="HP1756-CUSA05435_00-MORTALBLITZSKO00" />
+  <patches>
+    <patch description="Duplicated Content from update 01.04" pkg_required_version="01.00" update_version_required="01.04">
+      <file path="engine/build/ps4/inviteicon.jpg" />
+      <file path="engine/build/build.version" />
+      <file path="Manifest_NonUFSFiles_PS4.txt" />
+      <file path="ue4commandline.txt" />
+    </patch>
+    <patch description="Fake PKG" pkg_required_version="01.04" update_version_required="01.04" />
+  </patches>
+</pkgpatch>

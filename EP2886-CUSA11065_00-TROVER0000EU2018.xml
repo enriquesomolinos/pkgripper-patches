@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA11065" content_id="EP2886-CUSA11065_00-TROVER0000EU2018" />
+  <patches>
+    <patch description="Duplicated Content from update 01.07" pkg_required_version="01.00" update_version_required="01.07">
+      <file path="cusa11065_00" />
+      <file path="ue4commandline.txt" />
+    </patch>
+    <patch description="Fake PKG" pkg_required_version="01.07" update_version_required="01.07" />
+  </patches>
+</pkgpatch>

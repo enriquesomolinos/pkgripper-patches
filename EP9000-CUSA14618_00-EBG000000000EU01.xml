@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA14618" content_id="EP9000-CUSA14618_00-EBG000000000EU01" />
+  <patches>
+    <patch description="Keep FRE only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="data_EU_03_SPA" />
+      <file path="data_EU_04_GER" />
+      <file path="data_EU_05_ITA" />
+      <file path="data_EU_07_PRT" />
+      <file path="data_EU_08_RUS" />
+      <file path="data_EU_16_POL" />
+      <file path="data_EU_18_ENG" />
+    </patch>
+    <patch description="Keep SPA only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="data_EU_02_FRE" />
+      <file path="data_EU_04_GER" />
+      <file path="data_EU_05_ITA" />
+      <file path="data_EU_07_PRT" />
+      <file path="data_EU_08_RUS" />
+      <file path="data_EU_16_POL" />
+      <file path="data_EU_18_ENG" />
+    </patch>
+    <patch description="Keep GER only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="data_EU_02_FRE" />
+      <file path="data_EU_03_SPA" />
+      <file path="data_EU_05_ITA" />
+      <file path="data_EU_07_PRT" />
+      <file path="data_EU_08_RUS" />
+      <file path="data_EU_16_POL" />
+      <file path="data_EU_18_ENG" />
+    </patch>
+    <patch description="Keep ITA only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="data_EU_02_FRE" />
+      <file path="data_EU_03_SPA" />
+      <file path="data_EU_04_GER" />
+      <file path="data_EU_07_PRT" />
+      <file path="data_EU_08_RUS" />
+      <file path="data_EU_16_POL" />
+      <file path="data_EU_18_ENG" />
+    </patch>
+    <patch description="Keep PRT only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="data_EU_02_FRE" />
+      <file path="data_EU_03_SPA" />
+      <file path="data_EU_04_GER" />
+      <file path="data_EU_05_ITA" />
+      <file path="data_EU_08_RUS" />
+      <file path="data_EU_16_POL" />
+      <file path="data_EU_18_ENG" />
+    </patch>
+    <patch description="Keep RUS only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="data_EU_02_FRE" />
+      <file path="data_EU_03_SPA" />
+      <file path="data_EU_04_GER" />
+      <file path="data_EU_05_ITA" />
+      <file path="data_EU_07_PRT" />
+      <file path="data_EU_16_POL" />
+      <file path="data_EU_18_ENG" />
+    </patch>
+    <patch description="Keep POL only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="data_EU_02_FRE" />
+      <file path="data_EU_03_SPA" />
+      <file path="data_EU_04_GER" />
+      <file path="data_EU_05_ITA" />
+      <file path="data_EU_07_PRT" />
+      <file path="data_EU_08_RUS" />
+      <file path="data_EU_18_ENG" />
+    </patch>
+    <patch description="Keep ENG only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="data_EU_02_FRE" />
+      <file path="data_EU_03_SPA" />
+      <file path="data_EU_04_GER" />
+      <file path="data_EU_05_ITA" />
+      <file path="data_EU_07_PRT" />
+      <file path="data_EU_08_RUS" />
+      <file path="data_EU_16_POL" />
+    </patch>
+    <patch description="Keep Ger+Eng" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="data_EU_02_FRE" />
+      <file path="data_EU_03_SPA" />
+      <file path="data_EU_05_ITA" />
+      <file path="data_EU_07_PRT" />
+      <file path="data_EU_08_RUS" />
+      <file path="data_EU_16_POL" />
+    </patch>
+  </patches>
+</pkgpatch>

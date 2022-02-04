@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA08505" content_id="EP3495-CUSA08505_00-0000000000000000" />
+  <patches>
+    <patch description="Duplicated Content from update 01.03" pkg_required_version="01.00" update_version_required="01.03">
+      <file path="Media/Managed/mono/2.0/machine.config" />
+      <file path="Media/Managed/AmplifyBloom.dll" />
+      <file path="Media/Managed/AmplifyColor.dll" />
+      <file path="Media/Managed/Assembly-CSharp-firstpass.dll" />
+      <file path="Media/Managed/Assembly-CSharp.dll" />
+      <file path="Media/Managed/ICallSummary.txt" />
+      <file path="Media/Managed/Mono.Posix.dll" />
+      <file path="Media/Managed/Mono.Security.dll" />
+      <file path="Media/Managed/SonyNP.dll" />
+      <file path="Media/Managed/System.Configuration.dll" />
+      <file path="Media/Managed/System.Core.dll" />
+      <file path="Media/Managed/System.Security.dll" />
+      <file path="Media/Managed/System.Xml.dll" />
+      <file path="Media/Managed/System.dll" />
+      <file path="Media/Managed/UnityEngine.Networking.dll" />
+      <file path="Media/Managed/UnityEngine.UI.dll" />
+      <file path="Media/Managed/UnityEngine.VR.dll" />
+      <file path="Media/Managed/UnityEngine.dll" />
+      <file path="Media/Managed/mscorlib.dll" />
+      <file path="Media/StreamingAssets/dearVR/data/DVRdata120.dat" />
+      <file path="Media/StreamingAssets/dearVR/data/DVRdata121.dat" />
+      <file path="Media/StreamingAssets/dearVR/data/DVRdata122.dat" />
+      <file path="Media/StreamingAssets/dearVR/data/DVRdata510.dat" />
+      <file path="Media/StreamingAssets/dearVR/data/DVRdata511.dat" />
+      <file path="Media/StreamingAssets/dearVR/data/DVRdata512.dat" />
+      <file path="Media/StreamingAssets/PS4SessionImage.jpg" />
+      <file path="Media/globalgamemanagers" />
+      <file path="Media/globalgamemanagers.assets" />
+      <file path="Media/sharedassets0.assets.resS" />
+      <file path="Media/sharedassets0.resource" />
+      <file path="Media/sharedassets1.assets.resS" />
+      <file path="Media/sharedassets1.resource" />
+      <file path="Media/sharedassets10.assets.resS" />
+      <file path="Media/sharedassets10.resource" />
+      <file path="Media/sharedassets2.assets.resS" />
+      <file path="Media/sharedassets2.resource" />
+      <file path="Media/sharedassets3.assets.resS" />
+      <file path="Media/sharedassets4.assets.resS" />
+      <file path="Media/sharedassets5.assets.resS" />
+      <file path="Media/sharedassets5.resource" />
+      <file path="Media/sharedassets6.assets.resS" />
+      <file path="Media/sharedassets6.resource" />
+      <file path="Media/sharedassets7.assets.resS" />
+      <file path="Media/sharedassets7.resource" />
+      <file path="Media/sharedassets8.assets.resS" />
+      <file path="Media/sharedassets8.resource" />
+      <file path="Media/sharedassets9.assets.resS" />
+      <file path="ScriptLayoutHashes.txt" />
+      <file path="archive.psarc" />
+      <file path="archive.txt" />
+    </patch>
+    <patch description="Fake PKG" pkg_required_version="01.03" update_version_required="01.03" />
+  </patches>
+</pkgpatch>

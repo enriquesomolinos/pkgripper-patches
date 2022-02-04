@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA05879" content_id="EP1499-CUSA05879_00-0000000000000001" />
+  <patches>
+    <patch description="Duplicated Content from update 01.01" pkg_required_version="01.00" update_version_required="01.01">
+      <file path="Media/Managed/Assembly-CSharp-firstpass.dll" />
+      <file path="Media/Managed/Assembly-CSharp.dll" />
+      <file path="Media/Managed/Assembly-UnityScript.dll" />
+      <file path="Media/Managed/SonyNP.dll" />
+      <file path="Media/globalgamemanagers" />
+      <file path="Media/globalgamemanagers.assets" />
+      <file path="Media/sharedassets1.assets.resS" />
+      <file path="Media/sharedassets10.assets.resS" />
+      <file path="Media/sharedassets2.assets.resS" />
+      <file path="Media/sharedassets3.assets.resS" />
+      <file path="Media/sharedassets4.assets.resS" />
+      <file path="Media/sharedassets7.assets.resS" />
+      <file path="Media/sharedassets9.assets.resS" />
+      <file path="ScriptLayoutHashes.txt" />
+      <file path="archive.psarc" />
+    </patch>
+    <patch description="Fake PKG" pkg_required_version="01.01" update_version_required="01.01" />
+  </patches>
+</pkgpatch>

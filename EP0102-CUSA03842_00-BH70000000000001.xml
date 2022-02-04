@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA03842" content_id="EP0102-CUSA03842_00-BH70000000000001" />
+  <patches>
+    <patch description="Duplicated Content from update 01.09" pkg_required_version="01.00" update_version_required="01.09">
+      <file path="configs/runtime.args" />
+      <file path="icon0_savedata.png" />
+      <file path="icon10_savedata.png" />
+      <file path="icon11_savedata.png" />
+      <file path="icon12_savedata.png" />
+      <file path="icon13_savedata.png" />
+      <file path="icon14_savedata.png" />
+      <file path="icon15_savedata.png" />
+      <file path="icon16_savedata.png" />
+      <file path="icon17_savedata.png" />
+      <file path="icon18_savedata.png" />
+      <file path="icon19_savedata.png" />
+      <file path="icon1_savedata.png" />
+      <file path="icon20_savedata.png" />
+      <file path="icon2_savedata.png" />
+      <file path="icon3_savedata.png" />
+      <file path="icon4_savedata.png" />
+      <file path="icon5_savedata.png" />
+      <file path="icon6_savedata.png" />
+      <file path="icon7_savedata.png" />
+      <file path="icon8_savedata.png" />
+      <file path="icon9_savedata.png" />
+    </patch>
+    <patch description="Fake PKG" pkg_required_version="01.09" update_version_required="01.09" />
+  </patches>
+</pkgpatch>

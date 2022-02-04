@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA05344" content_id="EP9000-CUSA05344_00-DANA000PS4000123" />
+  <patches>
+    <patch description="Duplicated Content from update 01.03" pkg_required_version="01.00" update_version_required="01.03">
+      <file path="cusa05344" />
+      <file path="daedalus_01/binaries/ps4" />
+      <file path="daedalus_01/content/Movies/HTL_Credits.mp4" />
+      <file path="engine/build/build.version" />
+      <file path="Manifest_NonUFSFiles_PS4.txt" />
+    </patch>
+    <patch description="Fake PKG" pkg_required_version="01.03" update_version_required="01.03" />
+  </patches>
+</pkgpatch>

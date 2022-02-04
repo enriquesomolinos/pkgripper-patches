@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA00897" content_id="EP9000-CUSA00897_00-FIRSTLIGHTSHIP00" />
+  <patches>
+    <patch description="Keep Ger+Eng only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="art/cache/psarc/dutch_a.psarc" />
+      <file path="art/cache/psarc/dutch_b.psarc" />
+      <file path="art/cache/psarc/french_a.psarc" />
+      <file path="art/cache/psarc/french_b.psarc" />
+      <file path="art/cache/psarc/italian_a.psarc" />
+      <file path="art/cache/psarc/italian_b.psarc" />
+      <file path="art/cache/psarc/polish_a.psarc" />
+      <file path="art/cache/psarc/polish_b.psarc" />
+      <file path="art/cache/psarc/portuguese_a.psarc" />
+      <file path="art/cache/psarc/portuguese_b.psarc" />
+      <file path="art/cache/psarc/russian_a.psarc" />
+      <file path="art/cache/psarc/russian_b.psarc" />
+      <file path="art/cache/psarc/spanish_a.psarc" />
+      <file path="art/cache/psarc/spanish_b.psarc" />
+      <file path="art/cache/psarc/turkish_a.psarc" />
+      <file path="art/cache/psarc/turkish_b.psarc" />
+    </patch>
+    <patch description="Keep only Ger" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="art/cache/psarc/dutch_a.psarc" />
+      <file path="art/cache/psarc/dutch_b.psarc" />
+      <file path="art/cache/psarc/english_a.psarc" />
+      <file path="art/cache/psarc/english_b.psarc" />
+      <file path="art/cache/psarc/french_a.psarc" />
+      <file path="art/cache/psarc/french_b.psarc" />
+      <file path="art/cache/psarc/italian_a.psarc" />
+      <file path="art/cache/psarc/italian_b.psarc" />
+      <file path="art/cache/psarc/polish_a.psarc" />
+      <file path="art/cache/psarc/polish_b.psarc" />
+      <file path="art/cache/psarc/portuguese_a.psarc" />
+      <file path="art/cache/psarc/portuguese_b.psarc" />
+      <file path="art/cache/psarc/russian_a.psarc" />
+      <file path="art/cache/psarc/russian_b.psarc" />
+      <file path="art/cache/psarc/spanish_a.psarc" />
+      <file path="art/cache/psarc/spanish_b.psarc" />
+      <file path="art/cache/psarc/turkish_a.psarc" />
+      <file path="art/cache/psarc/turkish_b.psarc" />
+    </patch>
+    <patch description="Keep only Eng" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="art/cache/psarc/dutch_a.psarc" />
+      <file path="art/cache/psarc/dutch_b.psarc" />
+      <file path="art/cache/psarc/french_a.psarc" />
+      <file path="art/cache/psarc/french_b.psarc" />
+      <file path="art/cache/psarc/german_a.psarc" />
+      <file path="art/cache/psarc/german_b.psarc" />
+      <file path="art/cache/psarc/italian_a.psarc" />
+      <file path="art/cache/psarc/italian_b.psarc" />
+      <file path="art/cache/psarc/polish_a.psarc" />
+      <file path="art/cache/psarc/polish_b.psarc" />
+      <file path="art/cache/psarc/portuguese_a.psarc" />
+      <file path="art/cache/psarc/portuguese_b.psarc" />
+      <file path="art/cache/psarc/russian_a.psarc" />
+      <file path="art/cache/psarc/russian_b.psarc" />
+      <file path="art/cache/psarc/spanish_a.psarc" />
+      <file path="art/cache/psarc/spanish_b.psarc" />
+      <file path="art/cache/psarc/turkish_a.psarc" />
+      <file path="art/cache/psarc/turkish_b.psarc" />
+    </patch>
+    <patch description="Keep only Dutch" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="art/cache/psarc/english_a.psarc" />
+      <file path="art/cache/psarc/english_b.psarc" />
+      <file path="art/cache/psarc/french_a.psarc" />
+      <file path="art/cache/psarc/french_b.psarc" />
+      <file path="art/cache/psarc/german_a.psarc" />
+      <file path="art/cache/psarc/german_b.psarc" />
+      <file path="art/cache/psarc/italian_a.psarc" />
+      <file path="art/cache/psarc/italian_b.psarc" />
+      <file path="art/cache/psarc/polish_a.psarc" />
+      <file path="art/cache/psarc/polish_b.psarc" />
+      <file path="art/cache/psarc/portuguese_a.psarc" />
+      <file path="art/cache/psarc/portuguese_b.psarc" />
+      <file path="art/cache/psarc/russian_a.psarc" />
+      <file path="art/cache/psarc/russian_b.psarc" />
+      <file path="art/cache/psarc/spanish_a.psarc" />
+      <file path="art/cache/psarc/spanish_b.psarc" />
+      <file path="art/cache/psarc/turkish_a.psarc" />
+      <file path="art/cache/psarc/turkish_b.psarc" />
+    </patch>
+    <patch description="Keep only French" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="art/cache/psarc/dutch_a.psarc" />
+      <file path="art/cache/psarc/dutch_b.psarc" />
+      <file path="art/cache/psarc/english_a.psarc" />
+      <file path="art/cache/psarc/english_b.psarc" />
+      <file path="art/cache/psarc/german_a.psarc" />
+      <file path="art/cache/psarc/german_b.psarc" />
+      <file path="art/cache/psarc/italian_a.psarc" />
+      <file path="art/cache/psarc/italian_b.psarc" />
+      <file path="art/cache/psarc/polish_a.psarc" />
+      <file path="art/cache/psarc/polish_b.psarc" />
+      <file path="art/cache/psarc/portuguese_a.psarc" />
+      <file path="art/cache/psarc/portuguese_b.psarc" />
+      <file path="art/cache/psarc/russian_a.psarc" />
+      <file path="art/cache/psarc/russian_b.psarc" />
+      <file path="art/cache/psarc/spanish_a.psarc" />
+      <file path="art/cache/psarc/spanish_b.psarc" />
+      <file path="art/cache/psarc/turkish_a.psarc" />
+      <file path="art/cache/psarc/turkish_b.psarc" />
+    </patch>
+    <patch description="Keep only Italian" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="art/cache/psarc/dutch_a.psarc" />
+      <file path="art/cache/psarc/dutch_b.psarc" />
+      <file path="art/cache/psarc/english_a.psarc" />
+      <file path="art/cache/psarc/english_b.psarc" />
+      <file path="art/cache/psarc/french_a.psarc" />
+      <file path="art/cache/psarc/french_b.psarc" />
+      <file path="art/cache/psarc/german_a.psarc" />
+      <file path="art/cache/psarc/german_b.psarc" />
+      <file path="art/cache/psarc/polish_a.psarc" />
+      <file path="art/cache/psarc/polish_b.psarc" />
+      <file path="art/cache/psarc/portuguese_a.psarc" />
+      <file path="art/cache/psarc/portuguese_b.psarc" />
+      <file path="art/cache/psarc/russian_a.psarc" />
+      <file path="art/cache/psarc/russian_b.psarc" />
+      <file path="art/cache/psarc/spanish_a.psarc" />
+      <file path="art/cache/psarc/spanish_b.psarc" />
+      <file path="art/cache/psarc/turkish_a.psarc" />
+      <file path="art/cache/psarc/turkish_b.psarc" />
+    </patch>
+    <patch description="Keep only Polish" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="art/cache/psarc/dutch_a.psarc" />
+      <file path="art/cache/psarc/dutch_b.psarc" />
+      <file path="art/cache/psarc/english_a.psarc" />
+      <file path="art/cache/psarc/english_b.psarc" />
+      <file path="art/cache/psarc/french_a.psarc" />
+      <file path="art/cache/psarc/french_b.psarc" />
+      <file path="art/cache/psarc/german_a.psarc" />
+      <file path="art/cache/psarc/german_b.psarc" />
+      <file path="art/cache/psarc/italian_a.psarc" />
+      <file path="art/cache/psarc/italian_b.psarc" />
+      <file path="art/cache/psarc/portuguese_a.psarc" />
+      <file path="art/cache/psarc/portuguese_b.psarc" />
+      <file path="art/cache/psarc/russian_a.psarc" />
+      <file path="art/cache/psarc/russian_b.psarc" />
+      <file path="art/cache/psarc/spanish_a.psarc" />
+      <file path="art/cache/psarc/spanish_b.psarc" />
+      <file path="art/cache/psarc/turkish_a.psarc" />
+      <file path="art/cache/psarc/turkish_b.psarc" />
+    </patch>
+    <patch description="Keep only Portuguese" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="art/cache/psarc/dutch_a.psarc" />
+      <file path="art/cache/psarc/dutch_b.psarc" />
+      <file path="art/cache/psarc/english_a.psarc" />
+      <file path="art/cache/psarc/english_b.psarc" />
+      <file path="art/cache/psarc/french_a.psarc" />
+      <file path="art/cache/psarc/french_b.psarc" />
+      <file path="art/cache/psarc/german_a.psarc" />
+      <file path="art/cache/psarc/german_b.psarc" />
+      <file path="art/cache/psarc/italian_a.psarc" />
+      <file path="art/cache/psarc/italian_b.psarc" />
+      <file path="art/cache/psarc/polish_a.psarc" />
+      <file path="art/cache/psarc/polish_b.psarc" />
+      <file path="art/cache/psarc/russian_a.psarc" />
+      <file path="art/cache/psarc/russian_b.psarc" />
+      <file path="art/cache/psarc/spanish_a.psarc" />
+      <file path="art/cache/psarc/spanish_b.psarc" />
+      <file path="art/cache/psarc/turkish_a.psarc" />
+      <file path="art/cache/psarc/turkish_b.psarc" />
+    </patch>
+    <patch description="Keep only Russian" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="art/cache/psarc/dutch_a.psarc" />
+      <file path="art/cache/psarc/dutch_b.psarc" />
+      <file path="art/cache/psarc/english_a.psarc" />
+      <file path="art/cache/psarc/english_b.psarc" />
+      <file path="art/cache/psarc/french_a.psarc" />
+      <file path="art/cache/psarc/french_b.psarc" />
+      <file path="art/cache/psarc/german_a.psarc" />
+      <file path="art/cache/psarc/german_b.psarc" />
+      <file path="art/cache/psarc/italian_a.psarc" />
+      <file path="art/cache/psarc/italian_b.psarc" />
+      <file path="art/cache/psarc/polish_a.psarc" />
+      <file path="art/cache/psarc/polish_b.psarc" />
+      <file path="art/cache/psarc/portuguese_a.psarc" />
+      <file path="art/cache/psarc/portuguese_b.psarc" />
+      <file path="art/cache/psarc/spanish_a.psarc" />
+      <file path="art/cache/psarc/spanish_b.psarc" />
+      <file path="art/cache/psarc/turkish_a.psarc" />
+      <file path="art/cache/psarc/turkish_b.psarc" />
+    </patch>
+    <patch description="Keep only Spanish" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="art/cache/psarc/dutch_a.psarc" />
+      <file path="art/cache/psarc/dutch_b.psarc" />
+      <file path="art/cache/psarc/english_a.psarc" />
+      <file path="art/cache/psarc/english_b.psarc" />
+      <file path="art/cache/psarc/french_a.psarc" />
+      <file path="art/cache/psarc/french_b.psarc" />
+      <file path="art/cache/psarc/german_a.psarc" />
+      <file path="art/cache/psarc/german_b.psarc" />
+      <file path="art/cache/psarc/italian_a.psarc" />
+      <file path="art/cache/psarc/italian_b.psarc" />
+      <file path="art/cache/psarc/polish_a.psarc" />
+      <file path="art/cache/psarc/polish_b.psarc" />
+      <file path="art/cache/psarc/portuguese_a.psarc" />
+      <file path="art/cache/psarc/portuguese_b.psarc" />
+      <file path="art/cache/psarc/russian_a.psarc" />
+      <file path="art/cache/psarc/russian_b.psarc" />
+      <file path="art/cache/psarc/turkish_a.psarc" />
+      <file path="art/cache/psarc/turkish_b.psarc" />
+    </patch>
+    <patch description="Keep only Turkish" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="art/cache/psarc/dutch_a.psarc" />
+      <file path="art/cache/psarc/dutch_b.psarc" />
+      <file path="art/cache/psarc/english_a.psarc" />
+      <file path="art/cache/psarc/english_b.psarc" />
+      <file path="art/cache/psarc/french_a.psarc" />
+      <file path="art/cache/psarc/french_b.psarc" />
+      <file path="art/cache/psarc/german_a.psarc" />
+      <file path="art/cache/psarc/german_b.psarc" />
+      <file path="art/cache/psarc/italian_a.psarc" />
+      <file path="art/cache/psarc/italian_b.psarc" />
+      <file path="art/cache/psarc/polish_a.psarc" />
+      <file path="art/cache/psarc/polish_b.psarc" />
+      <file path="art/cache/psarc/portuguese_a.psarc" />
+      <file path="art/cache/psarc/portuguese_b.psarc" />
+      <file path="art/cache/psarc/russian_a.psarc" />
+      <file path="art/cache/psarc/russian_b.psarc" />
+      <file path="art/cache/psarc/spanish_a.psarc" />
+      <file path="art/cache/psarc/spanish_b.psarc" />
+    </patch>
+  </patches>
+</pkgpatch>

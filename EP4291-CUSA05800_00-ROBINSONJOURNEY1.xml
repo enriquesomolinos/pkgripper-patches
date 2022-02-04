@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA05800" content_id="EP4291-CUSA05800_00-ROBINSONJOURNEY1" />
+  <patches>
+    <patch description="Keep only Englisch" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="game_robinson/localization/french.pak" />
+      <file path="game_robinson/localization/french_xml.pak" />
+      <file path="game_robinson/localization/german.pak" />
+      <file path="game_robinson/localization/german_xml.pak" />
+      <file path="game_robinson/localization/italian.pak" />
+      <file path="game_robinson/localization/italian_xml.pak" />
+      <file path="game_robinson/localization/spanish.pak" />
+      <file path="game_robinson/localization/spanish_xml.pak" />
+    </patch>
+    <patch description="Keep only French" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="game_robinson/localization/english.pak" />
+      <file path="game_robinson/localization/english_xml.pak" />
+      <file path="game_robinson/localization/german.pak" />
+      <file path="game_robinson/localization/german_xml.pak" />
+      <file path="game_robinson/localization/italian.pak" />
+      <file path="game_robinson/localization/italian_xml.pak" />
+      <file path="game_robinson/localization/spanish.pak" />
+      <file path="game_robinson/localization/spanish_xml.pak" />
+    </patch>
+    <patch description="Keep only German" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="game_robinson/localization/english.pak" />
+      <file path="game_robinson/localization/english_xml.pak" />
+      <file path="game_robinson/localization/french.pak" />
+      <file path="game_robinson/localization/french_xml.pak" />
+      <file path="game_robinson/localization/italian.pak" />
+      <file path="game_robinson/localization/italian_xml.pak" />
+      <file path="game_robinson/localization/spanish.pak" />
+      <file path="game_robinson/localization/spanish_xml.pak" />
+    </patch>
+    <patch description="Keep only Italian" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="game_robinson/localization/english.pak" />
+      <file path="game_robinson/localization/english_xml.pak" />
+      <file path="game_robinson/localization/french.pak" />
+      <file path="game_robinson/localization/french_xml.pak" />
+      <file path="game_robinson/localization/german.pak" />
+      <file path="game_robinson/localization/german_xml.pak" />
+      <file path="game_robinson/localization/spanish.pak" />
+      <file path="game_robinson/localization/spanish_xml.pak" />
+    </patch>
+    <patch description="Keep only Spanish" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="game_robinson/localization/english.pak" />
+      <file path="game_robinson/localization/english_xml.pak" />
+      <file path="game_robinson/localization/french.pak" />
+      <file path="game_robinson/localization/french_xml.pak" />
+      <file path="game_robinson/localization/german.pak" />
+      <file path="game_robinson/localization/german_xml.pak" />
+      <file path="game_robinson/localization/italian.pak" />
+      <file path="game_robinson/localization/italian_xml.pak" />
+    </patch>
+    <patch description="Keep Ger+Eng" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="game_robinson/localization/french.pak" />
+      <file path="game_robinson/localization/french_xml.pak" />
+      <file path="game_robinson/localization/italian.pak" />
+      <file path="game_robinson/localization/italian_xml.pak" />
+      <file path="game_robinson/localization/spanish.pak" />
+      <file path="game_robinson/localization/spanish_xml.pak" />
+    </patch>
+  </patches>
+</pkgpatch>

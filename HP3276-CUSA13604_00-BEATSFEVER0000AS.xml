@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA13604" content_id="HP3276-CUSA13604_00-BEATSFEVER0000AS" />
+  <patches>
+    <patch description="Duplicated Content from update 01.03" pkg_required_version="01.00" update_version_required="01.03">
+      <file path="Media/Managed/Assembly-CSharp-firstpass.dll" />
+      <file path="Media/Managed/Assembly-CSharp.dll" />
+      <file path="Media/Managed/Assembly-UnityScript.dll" />
+      <file path="Media/Managed/Boo.Lang.dll" />
+      <file path="Media/Managed/ICallSummary.txt" />
+      <file path="Media/Managed/Mono.Posix.dll" />
+      <file path="Media/Managed/Mono.Security.dll" />
+      <file path="Media/Managed/SonyNP.dll" />
+      <file path="Media/Managed/SonyPS4SavedGames.dll" />
+      <file path="Media/Managed/System.Configuration.dll" />
+      <file path="Media/Managed/System.Core.dll" />
+      <file path="Media/Managed/System.Security.dll" />
+      <file path="Media/Managed/System.Xml.dll" />
+      <file path="Media/Managed/System.dll" />
+      <file path="Media/Managed/UnityEngine.Networking.dll" />
+      <file path="Media/Managed/UnityEngine.UI.dll" />
+      <file path="Media/Managed/UnityEngine.VR.dll" />
+      <file path="Media/Managed/UnityEngine.dll" />
+      <file path="Media/Managed/UnityScript.Lang.dll" />
+      <file path="Media/Managed/mscorlib.dll" />
+      <file path="Media/Resources/unity default resources" />
+      <file path="Media/Resources/unity_builtin_extra" />
+      <file path="Media/StreamingAssets/SaveIcon.png" />
+      <file path="Media/globalgamemanagers" />
+      <file path="Media/globalgamemanagers.assets" />
+      <file path="Media/globalgamemanagers.assets.resS" />
+      <file path="Media/level0" />
+      <file path="Media/level0.resS" />
+      <file path="Media/level1" />
+      <file path="Media/level2" />
+      <file path="Media/level3" />
+      <file path="Media/level4" />
+      <file path="Media/level5" />
+      <file path="Media/level6" />
+      <file path="Media/level7" />
+      <file path="Media/level7.resS" />
+      <file path="Media/resources.assets" />
+      <file path="Media/resources.assets.resS" />
+      <file path="Media/resources.resource" />
+      <file path="Media/sharedassets0.assets" />
+      <file path="Media/sharedassets0.assets.resS" />
+      <file path="Media/sharedassets0.resource" />
+      <file path="Media/sharedassets1.assets" />
+      <file path="Media/sharedassets1.assets.resS" />
+      <file path="Media/sharedassets2.assets" />
+      <file path="Media/sharedassets2.assets.resS" />
+      <file path="Media/sharedassets3.assets" />
+      <file path="Media/sharedassets3.assets.resS" />
+      <file path="Media/sharedassets4.assets" />
+      <file path="Media/sharedassets4.assets.resS" />
+      <file path="Media/sharedassets5.assets" />
+      <file path="Media/sharedassets5.assets.resS" />
+      <file path="Media/sharedassets6.assets" />
+      <file path="Media/sharedassets6.resource" />
+      <file path="Media/sharedassets7.assets" />
+      <file path="ScriptLayoutHashes.txt" />
+    </patch>
+    <patch description="Fake PKG" pkg_required_version="01.03" update_version_required="01.03" />
+  </patches>
+</pkgpatch>

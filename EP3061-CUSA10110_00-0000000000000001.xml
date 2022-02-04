@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA10110" content_id="EP3061-CUSA10110_00-0000000000000001" />
+  <patches>
+    <patch description="Duplicated Content from update 01.02" pkg_required_version="01.00" update_version_required="01.02">
+      <file path="Media/Managed/Assembly-CSharp.dll" />
+      <file path="Media/Managed/ICallSummary.txt" />
+      <file path="Media/Managed/UnityEngine.AIModule.dll" />
+      <file path="Media/Managed/UnityEngine.ARModule.dll" />
+      <file path="Media/Managed/UnityEngine.AccessibilityModule.dll" />
+      <file path="Media/Managed/UnityEngine.AnimationModule.dll" />
+      <file path="Media/Managed/UnityEngine.AudioModule.dll" />
+      <file path="Media/Managed/UnityEngine.ClothModule.dll" />
+      <file path="Media/Managed/UnityEngine.CoreModule.dll" />
+      <file path="Media/Managed/UnityEngine.CrashReportingModule.dll" />
+      <file path="Media/Managed/UnityEngine.DirectorModule.dll" />
+      <file path="Media/Managed/UnityEngine.GameCenterModule.dll" />
+      <file path="Media/Managed/UnityEngine.GridModule.dll" />
+      <file path="Media/Managed/UnityEngine.IMGUIModule.dll" />
+      <file path="Media/Managed/UnityEngine.ImageConversionModule.dll" />
+      <file path="Media/Managed/UnityEngine.InputModule.dll" />
+      <file path="Media/Managed/UnityEngine.JSONSerializeModule.dll" />
+      <file path="Media/Managed/UnityEngine.ParticleSystemModule.dll" />
+      <file path="Media/Managed/UnityEngine.ParticlesLegacyModule.dll" />
+      <file path="Media/Managed/UnityEngine.PerformanceReportingModule.dll" />
+      <file path="Media/Managed/UnityEngine.Physics2DModule.dll" />
+      <file path="Media/Managed/UnityEngine.PhysicsModule.dll" />
+      <file path="Media/Managed/UnityEngine.ScreenCaptureModule.dll" />
+      <file path="Media/Managed/UnityEngine.SpriteMaskModule.dll" />
+      <file path="Media/Managed/UnityEngine.StyleSheetsModule.dll" />
+      <file path="Media/Managed/UnityEngine.TerrainModule.dll" />
+      <file path="Media/Managed/UnityEngine.TerrainPhysicsModule.dll" />
+      <file path="Media/Managed/UnityEngine.TextRenderingModule.dll" />
+      <file path="Media/Managed/UnityEngine.TilemapModule.dll" />
+      <file path="Media/Managed/UnityEngine.UIElementsModule.dll" />
+      <file path="Media/Managed/UnityEngine.UIModule.dll" />
+      <file path="Media/Managed/UnityEngine.UNETModule.dll" />
+      <file path="Media/Managed/UnityEngine.UnityAnalyticsModule.dll" />
+      <file path="Media/Managed/UnityEngine.UnityConnectModule.dll" />
+      <file path="Media/Managed/UnityEngine.UnityWebRequestAudioModule.dll" />
+      <file path="Media/Managed/UnityEngine.UnityWebRequestModule.dll" />
+      <file path="Media/Managed/UnityEngine.UnityWebRequestTextureModule.dll" />
+      <file path="Media/Managed/UnityEngine.UnityWebRequestWWWModule.dll" />
+      <file path="Media/Managed/UnityEngine.VRModule.dll" />
+      <file path="Media/Managed/UnityEngine.VehiclesModule.dll" />
+      <file path="Media/Managed/UnityEngine.VideoModule.dll" />
+      <file path="Media/Managed/UnityEngine.WebModule.dll" />
+      <file path="Media/Managed/UnityEngine.WindModule.dll" />
+      <file path="Media/Resources/unity_builtin_extra" />
+      <file path="Media/globalgamemanagers" />
+      <file path="Media/globalgamemanagers.assets" />
+      <file path="Media/globalgamemanagers.assets.resS" />
+      <file path="Media/level0" />
+      <file path="Media/level1" />
+      <file path="Media/level2" />
+      <file path="Media/level3" />
+      <file path="Media/level4" />
+      <file path="Media/level5" />
+      <file path="Media/level6" />
+      <file path="Media/level7" />
+      <file path="Media/resources.assets" />
+      <file path="Media/sharedassets0.assets" />
+      <file path="Media/sharedassets1.assets" />
+      <file path="Media/sharedassets2.assets" />
+      <file path="Media/sharedassets2.assets.resS" />
+      <file path="Media/sharedassets2.resource" />
+      <file path="Media/sharedassets3.assets" />
+      <file path="Media/sharedassets3.assets.resS" />
+      <file path="Media/sharedassets3.resource" />
+      <file path="Media/sharedassets4.assets" />
+      <file path="Media/sharedassets4.assets.resS" />
+      <file path="Media/sharedassets4.resource" />
+      <file path="Media/sharedassets5.assets" />
+      <file path="Media/sharedassets5.assets.resS" />
+      <file path="Media/sharedassets5.resource" />
+      <file path="Media/sharedassets6.assets" />
+      <file path="Media/sharedassets6.assets.resS" />
+      <file path="Media/sharedassets6.resource" />
+      <file path="Media/sharedassets7.assets" />
+      <file path="Media/sharedassets7.assets.resS" />
+    </patch>
+    <patch description="Fake PKG" pkg_required_version="01.02" update_version_required="01.02" />
+  </patches>
+</pkgpatch>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA06882" content_id="EP4043-CUSA06882_00-0000000000000006" />
+  <patches>
+    <patch description="Duplicated Content from update 01.02" pkg_required_version="01.00" update_version_required="01.02">
+      <file path="Media/Managed/Assembly-CSharp-firstpass.dll" />
+      <file path="Media/Managed/Assembly-CSharp.dll" />
+      <file path="Media/level0" />
+      <file path="Media/level1" />
+      <file path="Media/resources.assets" />
+      <file path="Media/sharedassets0.assets" />
+    </patch>
+    <patch description="Fake PKG" pkg_required_version="01.02" update_version_required="01.02" />
+  </patches>
+</pkgpatch>

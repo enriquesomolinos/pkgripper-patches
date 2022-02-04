@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA05761" content_id="EP0001-CUSA05761_00-STARTREKBRGCRW01" />
+  <patches>
+    <patch description="Keep only ENG" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="Media/StreamingAssets/Audio/GeneratedSoundBanks/PS4/French(France)" />
+      <file path="Media/StreamingAssets/Audio/GeneratedSoundBanks/PS4/German" />
+    </patch>
+    <patch description="Keep only GER" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="Media/StreamingAssets/Audio/GeneratedSoundBanks/PS4/English(US)" />
+      <file path="Media/StreamingAssets/Audio/GeneratedSoundBanks/PS4/French(France)" />
+    </patch>
+    <patch description="Keep only FRE" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="Media/StreamingAssets/Audio/GeneratedSoundBanks/PS4/English(US)" />
+      <file path="Media/StreamingAssets/Audio/GeneratedSoundBanks/PS4/German" />
+    </patch>
+    <patch description="Keep only Ger+ENG" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="Media/StreamingAssets/Audio/GeneratedSoundBanks/PS4/French(France)" />
+    </patch>
+  </patches>
+</pkgpatch>
