@@ -2,7 +2,7 @@
 <pkgpatch>
   <patchInfo description="" title_id="CUSA13323" content_id="EP9000-CUSA13323_00-GHOSTSHIP0000000" />
   <patches>
-    <patch description="Keep only english" pkg_required_version="01.00" update_version_required="01.00">
+    <patch description="Language English Only" pkg_required_version="01.00" update_version_required="01.00">
       <file path="cache/psarc/lang_french_audio.psarc" />
       <file path="cache/psarc/lang_german_audio.psarc" />
       <file path="cache/psarc/lang_italian_audio.psarc" />
@@ -12,8 +12,7 @@
       <file path="cache/psarc/lang_russian_audio.psarc" />
       <file path="cache/psarc/lang_spanish_audio.psarc" />
     </patch>
-    <patch description="Keep only french" pkg_required_version="01.00" update_version_required="01.00">
-      <file path="cache/psarc/lang_english_audio.psarc" />
+    <patch description="Language French Only" pkg_required_version="01.00" update_version_required="01.00">
       <file path="cache/psarc/lang_german_audio.psarc" />
       <file path="cache/psarc/lang_italian_audio.psarc" />
       <file path="cache/psarc/lang_japanese_audio.psarc" />
@@ -21,68 +20,60 @@
       <file path="cache/psarc/lang_portuguese_audio.psarc" />
       <file path="cache/psarc/lang_russian_audio.psarc" />
       <file path="cache/psarc/lang_spanish_audio.psarc" />
-    </patch>
-    <patch description="Keep only german" pkg_required_version="01.00" update_version_required="01.00">
       <file path="cache/psarc/lang_english_audio.psarc" />
-      <file path="cache/psarc/lang_french_audio.psarc" />
+    </patch>
+    <patch description="Language German Only" pkg_required_version="01.00" update_version_required="01.00">
       <file path="cache/psarc/lang_italian_audio.psarc" />
       <file path="cache/psarc/lang_japanese_audio.psarc" />
       <file path="cache/psarc/lang_polish_audio.psarc" />
       <file path="cache/psarc/lang_portuguese_audio.psarc" />
       <file path="cache/psarc/lang_russian_audio.psarc" />
       <file path="cache/psarc/lang_spanish_audio.psarc" />
-    </patch>
-    <patch description="Keep only italian" pkg_required_version="01.00" update_version_required="01.00">
       <file path="cache/psarc/lang_english_audio.psarc" />
       <file path="cache/psarc/lang_french_audio.psarc" />
-      <file path="cache/psarc/lang_german_audio.psarc" />
+    </patch>
+    <patch description="Language Italian Only" pkg_required_version="01.00" update_version_required="01.00">
       <file path="cache/psarc/lang_japanese_audio.psarc" />
       <file path="cache/psarc/lang_polish_audio.psarc" />
       <file path="cache/psarc/lang_portuguese_audio.psarc" />
       <file path="cache/psarc/lang_russian_audio.psarc" />
       <file path="cache/psarc/lang_spanish_audio.psarc" />
-    </patch>
-    <patch description="Keep only japanese" pkg_required_version="01.00" update_version_required="01.00">
       <file path="cache/psarc/lang_english_audio.psarc" />
       <file path="cache/psarc/lang_french_audio.psarc" />
       <file path="cache/psarc/lang_german_audio.psarc" />
-      <file path="cache/psarc/lang_italian_audio.psarc" />
+    </patch>
+    <patch description="Language Japanese Only" pkg_required_version="01.00" update_version_required="01.00">
       <file path="cache/psarc/lang_polish_audio.psarc" />
       <file path="cache/psarc/lang_portuguese_audio.psarc" />
       <file path="cache/psarc/lang_russian_audio.psarc" />
       <file path="cache/psarc/lang_spanish_audio.psarc" />
+      <file path="cache/psarc/lang_english_audio.psarc" />
+      <file path="cache/psarc/lang_french_audio.psarc" />
+      <file path="cache/psarc/lang_german_audio.psarc" />
+      <file path="cache/psarc/lang_italian_audio.psarc" />
     </patch>
-    <patch description="Keep only polish" pkg_required_version="01.00" update_version_required="01.00">
+    <patch description="Language Polish Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="cache/psarc/lang_portuguese_audio.psarc" />
+      <file path="cache/psarc/lang_russian_audio.psarc" />
+      <file path="cache/psarc/lang_spanish_audio.psarc" />
       <file path="cache/psarc/lang_english_audio.psarc" />
       <file path="cache/psarc/lang_french_audio.psarc" />
       <file path="cache/psarc/lang_german_audio.psarc" />
       <file path="cache/psarc/lang_italian_audio.psarc" />
       <file path="cache/psarc/lang_japanese_audio.psarc" />
-      <file path="cache/psarc/lang_portuguese_audio.psarc" />
+    </patch>
+    <patch description="Language Portuguese Only" pkg_required_version="01.00" update_version_required="01.00">
       <file path="cache/psarc/lang_russian_audio.psarc" />
       <file path="cache/psarc/lang_spanish_audio.psarc" />
-    </patch>
-    <patch description="Keep only portuguese" pkg_required_version="01.00" update_version_required="01.00">
-      <file path="cache/psarc/lang_english_audio.psarc" />
-      <file path="cache/psarc/lang_french_audio.psarc" />
-      <file path="cache/psarc/lang_german_audio.psarc" />
-      <file path="cache/psarc/lang_italian_audio.psarc" />
-      <file path="cache/psarc/lang_japanese_audio.psarc" />
-      <file path="cache/psarc/lang_polish_audio.psarc" />
-      <file path="cache/psarc/lang_russian_audio.psarc" />
-      <file path="cache/psarc/lang_spanish_audio.psarc" />
-    </patch>
-    <patch description="Keep only russian" pkg_required_version="01.00" update_version_required="01.00">
       <file path="cache/psarc/lang_english_audio.psarc" />
       <file path="cache/psarc/lang_french_audio.psarc" />
       <file path="cache/psarc/lang_german_audio.psarc" />
       <file path="cache/psarc/lang_italian_audio.psarc" />
       <file path="cache/psarc/lang_japanese_audio.psarc" />
       <file path="cache/psarc/lang_polish_audio.psarc" />
-      <file path="cache/psarc/lang_portuguese_audio.psarc" />
-      <file path="cache/psarc/lang_spanish_audio.psarc" />
     </patch>
-    <patch description="Keep only spanish" pkg_required_version="01.00" update_version_required="01.00">
+    <patch description="Language Russian Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="cache/psarc/lang_spanish_audio.psarc" />
       <file path="cache/psarc/lang_english_audio.psarc" />
       <file path="cache/psarc/lang_french_audio.psarc" />
       <file path="cache/psarc/lang_german_audio.psarc" />
@@ -90,16 +81,16 @@
       <file path="cache/psarc/lang_japanese_audio.psarc" />
       <file path="cache/psarc/lang_polish_audio.psarc" />
       <file path="cache/psarc/lang_portuguese_audio.psarc" />
-      <file path="cache/psarc/lang_russian_audio.psarc" />
     </patch>
-    <patch description="Keep only Ger+Eng" pkg_required_version="01.00" update_version_required="01.00">
+    <patch description="Language Spanish Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="cache/psarc/lang_english_audio.psarc" />
       <file path="cache/psarc/lang_french_audio.psarc" />
+      <file path="cache/psarc/lang_german_audio.psarc" />
       <file path="cache/psarc/lang_italian_audio.psarc" />
       <file path="cache/psarc/lang_japanese_audio.psarc" />
       <file path="cache/psarc/lang_polish_audio.psarc" />
       <file path="cache/psarc/lang_portuguese_audio.psarc" />
       <file path="cache/psarc/lang_russian_audio.psarc" />
-      <file path="cache/psarc/lang_spanish_audio.psarc" />
     </patch>
   </patches>
 </pkgpatch>

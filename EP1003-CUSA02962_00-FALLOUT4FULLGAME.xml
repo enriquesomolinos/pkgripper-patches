@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA02962" content_id="EP1003-CUSA02962_00-FALLOUT4FULLGAME" />
+  <patches>
+    <patch description="Language German Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="data/fallout4 - voices_es.ba2" />
+      <file path="data/fallout4 - voices_fr.ba2" />
+      <file path="data/fallout4 - voices_it.ba2" />
+    </patch>
+    <patch description="Language Spanish Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="data/fallout4 - voices_fr.ba2" />
+      <file path="data/fallout4 - voices_it.ba2" />
+      <file path="data/fallout4 - voices_de.ba2" />
+    </patch>
+    <patch description="Language French Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="data/fallout4 - voices_it.ba2" />
+      <file path="data/fallout4 - voices_de.ba2" />
+      <file path="data/fallout4 - voices_es.ba2" />
+    </patch>
+    <patch description="Language Italian Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="data/fallout4 - voices_de.ba2" />
+      <file path="data/fallout4 - voices_es.ba2" />
+      <file path="data/fallout4 - voices_fr.ba2" />
+    </patch>
+    <patch description="Duplicated Content from update 01.22" pkg_required_version="01.00" update_version_required="01.22">
+      <file path="Data/Fallout4 - Animations.ba2" />
+      <file path="Data/Fallout4 - Interface.ba2" />
+      <file path="Data/Fallout4 - Localization.ba2" />
+      <file path="Data/Fallout4 - Materials.ba2" />
+      <file path="Data/Fallout4 - Meshes.ba2" />
+      <file path="Data/Fallout4 - Misc.ba2" />
+      <file path="Data/Fallout4 - Shaders.ba2" />
+      <file path="Data/Fallout4 - Startup.ba2" />
+      <file path="Data/Fallout4.esm" />
+      <file path="fallout4.ini" />
+    </patch>
+  </patches>
+</pkgpatch>

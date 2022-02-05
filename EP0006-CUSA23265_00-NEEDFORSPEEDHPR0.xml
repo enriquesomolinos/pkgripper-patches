@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA23265" content_id="EP0006-CUSA23265_00-NEEDFORSPEEDHPR0" />
+  <patches>
+    <patch description="Language German Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="EN_US" />
+      <file path="FR" />
+      <file path="IT" />
+      <file path="JA" />
+      <file path="RU" />
+      <file path="ES" />
+    </patch>
+    <patch description="Language English Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="FR" />
+      <file path="IT" />
+      <file path="JA" />
+      <file path="RU" />
+      <file path="ES" />
+      <file path="DE" />
+    </patch>
+    <patch description="Language French Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="IT" />
+      <file path="JA" />
+      <file path="RU" />
+      <file path="ES" />
+      <file path="DE" />
+      <file path="EN_US" />
+    </patch>
+    <patch description="Language Italian Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="JA" />
+      <file path="RU" />
+      <file path="ES" />
+      <file path="DE" />
+      <file path="EN_US" />
+      <file path="FR" />
+    </patch>
+    <patch description="Language Japanese Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="RU" />
+      <file path="ES" />
+      <file path="DE" />
+      <file path="EN_US" />
+      <file path="FR" />
+      <file path="IT" />
+    </patch>
+    <patch description="Language Russian Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="ES" />
+      <file path="DE" />
+      <file path="EN_US" />
+      <file path="FR" />
+      <file path="IT" />
+      <file path="JA" />
+    </patch>
+    <patch description="Language Spanish Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="DE" />
+      <file path="EN_US" />
+      <file path="FR" />
+      <file path="IT" />
+      <file path="JA" />
+      <file path="RU" />
+    </patch>
+  </patches>
+</pkgpatch>

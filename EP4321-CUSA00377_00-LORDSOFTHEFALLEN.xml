@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA00377" content_id="EP4321-CUSA00377_00-LORDSOFTHEFALLEN" />
+  <patches>
+    <patch description="Language English Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="media/ps4/shared/speech/speech-french.fsb" />
+      <file path="media/ps4/shared/speech/speech-german.fsb" />
+    </patch>
+    <patch description="Language French Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="media/ps4/shared/speech/speech-german.fsb" />
+      <file path="media/ps4/shared/speech/speech-english.fsb" />
+    </patch>
+    <patch description="Language German Only" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="media/ps4/shared/speech/speech-english.fsb" />
+      <file path="media/ps4/shared/speech/speech-french.fsb" />
+    </patch>
+    <patch description="Duplicated Content from update 01.03" pkg_required_version="01.00" update_version_required="01.03">
+      <file path="media/ps4/bundles/bootstrap.pkg" />
+      <file path="media/ps4/bundles/bundlesInfo.bin" />
+      <file path="media/ps4/bundles/catacombs.pkg" />
+      <file path="media/ps4/bundles/challenge_arena.pkg" />
+      <file path="media/ps4/bundles/chamber.pkg" />
+      <file path="media/ps4/bundles/citadel.pkg" />
+      <file path="media/ps4/bundles/data_bin.pkg" />
+      <file path="media/ps4/bundles/infinite_void.pkg" />
+      <file path="media/ps4/bundles/loading_level.pkg" />
+      <file path="media/ps4/bundles/old_monastery.pkg" />
+      <file path="media/ps4/bundles/palm.pkg" />
+      <file path="media/ps4/bundles/range.pkg" />
+      <file path="media/ps4/bundles/shared.pkg" />
+      <file path="media/ps4/bundles/starting_level.pkg" />
+      <file path="media/ps4/bundles/streamed.pkg" />
+      <file path="media/ps4/bundles/temple.pkg" />
+      <file path="media/ps4/bundles/treasury_void.pkg" />
+      <file path="media/ps4/shared/audio/audio_shared_loaded.fsb" />
+      <file path="media/ps4/shared/audio/audio_shared_streamed.fsb" />
+      <file path="media/ps4/shared/audio/audioproject.fev" />
+      <file path="media/ps4/shared/speech/speech-english.fsb" />
+      <file path="media/ps4/shared/speech/speech-french.fsb" />
+      <file path="media/ps4/shared/speech/speech-german.fsb" />
+      <file path="media/ps4/icon0.png" />
+      <file path="videos/lotf_credits_bg_loop.bk2" />
+      <file path="videos/lotf_extro.bk2" />
+      <file path="videos/lotf_logos_bn_ci_d13.bk2" />
+      <file path="videos/lotf_logos_ci_d13.bk2" />
+      <file path="videos/lotf_menu_bg_loop.bk2" />
+      <file path="videos/lotf_start_screen_loop.bk2" />
+      <file path="videos/lotf_trailer.bk2" />
+      <file path="bindings - Option1.ini" />
+      <file path="bindings - Option2.ini" />
+      <file path="bindings.ini" />
+      <file path="settings.ini" />
+    </patch>
+    <patch description="Language English Only update 01.03" pkg_required_version="01.03" update_version_required="01.03">
+      <file path="media/ps4/shared/speech/speech-french.fsb" />
+      <file path="media/ps4/shared/speech/speech-german.fsb" />
+    </patch>
+    <patch description="Language French Only update 01.03" pkg_required_version="01.03" update_version_required="01.03">
+      <file path="media/ps4/shared/speech/speech-german.fsb" />
+      <file path="media/ps4/shared/speech/speech-english.fsb" />
+    </patch>
+    <patch description="Language German Only update 01.03" pkg_required_version="01.03" update_version_required="01.03">
+      <file path="media/ps4/shared/speech/speech-english.fsb" />
+      <file path="media/ps4/shared/speech/speech-french.fsb" />
+    </patch>
+  </patches>
+</pkgpatch>
