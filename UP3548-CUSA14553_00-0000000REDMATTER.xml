@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA14553" content_id="UP3548-CUSA14553_00-0000000REDMATTER" />
+  <patches>
+    <patch description="Duplicated Content from update 01.03" pkg_required_version="01.00" update_version_required="01.03">
+      <file path="hypnos/binaries/ps4" />
+      <file path="hypnos/content/paks/hypnos-ps4.pak" />
+    </patch>
+    <patch description="Fake PKG" pkg_required_version="01.03" update_version_required="01.03" />
+  </patches>
+</pkgpatch>

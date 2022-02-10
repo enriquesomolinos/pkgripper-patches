@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA07875" content_id="EP9000-CUSA07875_00-UNCHD4LOSTLEGACY" />
+  <patches>
+    <patch description="Keep only Arabic" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="build/ps4/main/sound1/streams/speech/dutch.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/english.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/french.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/german.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/italian.psarc" />
+    </patch>
+    <patch description="Keep only Dutch" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="build/ps4/main/sound1/streams/speech/arabic.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/english.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/french.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/german.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/italian.psarc" />
+    </patch>
+    <patch description="Keep only English" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="build/ps4/main/sound1/streams/speech/arabic.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/dutch.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/french.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/german.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/italian.psarc" />
+    </patch>
+    <patch description="Keep only French" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="build/ps4/main/sound1/streams/speech/arabic.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/dutch.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/english.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/german.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/italian.psarc" />
+    </patch>
+    <patch description="Keep only German" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="build/ps4/main/sound1/streams/speech/arabic.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/dutch.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/english.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/french.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/italian.psarc" />
+    </patch>
+    <patch description="Keep only Italian" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="build/ps4/main/sound1/streams/speech/arabic.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/dutch.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/english.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/french.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/german.psarc" />
+    </patch>
+  </patches>
+</pkgpatch>

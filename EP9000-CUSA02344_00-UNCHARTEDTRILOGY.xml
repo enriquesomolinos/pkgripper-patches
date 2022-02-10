@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA02344" content_id="EP9000-CUSA02344_00-UNCHARTEDTRILOGY" />
+  <patches>
+    <patch description="Keep only Turkish" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="u1data/build/main/sound1/speech/english_ps4.psarc" />
+      <file path="u1data/build/main/sound1/speech/polish_ps4.psarc" />
+      <file path="u1data/build/main/sound1/speech/russian_ps4.psarc" />
+      <file path="u2data/build/main/sound1/speech/english_ps4.psarc" />
+      <file path="u2data/build/main/sound1/speech/polish_ps4.psarc" />
+      <file path="u2data/build/main/sound1/speech/russian_ps4.psarc" />
+      <file path="u3data/build/main/sound1/streams/speech/english_ps4.psarc" />
+      <file path="u3data/build/main/sound1/streams/speech/polish_ps4.psarc" />
+      <file path="u3data/build/main/sound1/streams/speech/russian_ps4.psarc" />
+    </patch>
+    <patch description="Keep only Russian" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="u1data/build/main/sound1/speech/english_ps4.psarc" />
+      <file path="u1data/build/main/sound1/speech/polish_ps4.psarc" />
+      <file path="u1data/build/main/sound1/speech/turkish_ps4.psarc" />
+      <file path="u2data/build/main/sound1/speech/english_ps4.psarc" />
+      <file path="u2data/build/main/sound1/speech/polish_ps4.psarc" />
+      <file path="u2data/build/main/sound1/speech/turkish_ps4.psarc" />
+      <file path="u3data/build/main/sound1/streams/speech/english_ps4.psarc" />
+      <file path="u3data/build/main/sound1/streams/speech/polish_ps4.psarc" />
+      <file path="u3data/build/main/sound1/streams/speech/turkish_ps4.psarc" />
+    </patch>
+    <patch description="Keep only Polish" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="u1data/build/main/sound1/speech/english_ps4.psarc" />
+      <file path="u1data/build/main/sound1/speech/russian_ps4.psarc" />
+      <file path="u1data/build/main/sound1/speech/turkish_ps4.psarc" />
+      <file path="u2data/build/main/sound1/speech/english_ps4.psarc" />
+      <file path="u2data/build/main/sound1/speech/russian_ps4.psarc" />
+      <file path="u2data/build/main/sound1/speech/turkish_ps4.psarc" />
+      <file path="u3data/build/main/sound1/streams/speech/english_ps4.psarc" />
+      <file path="u3data/build/main/sound1/streams/speech/russian_ps4.psarc" />
+      <file path="u3data/build/main/sound1/streams/speech/turkish_ps4.psarc" />
+    </patch>
+    <patch description="Keep only English" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="u1data/build/main/sound1/speech/polish_ps4.psarc" />
+      <file path="u1data/build/main/sound1/speech/russian_ps4.psarc" />
+      <file path="u1data/build/main/sound1/speech/turkish_ps4.psarc" />
+      <file path="u2data/build/main/sound1/speech/polish_ps4.psarc" />
+      <file path="u2data/build/main/sound1/speech/russian_ps4.psarc" />
+      <file path="u2data/build/main/sound1/speech/turkish_ps4.psarc" />
+      <file path="u3data/build/main/sound1/streams/speech/polish_ps4.psarc" />
+      <file path="u3data/build/main/sound1/streams/speech/russian_ps4.psarc" />
+      <file path="u3data/build/main/sound1/streams/speech/turkish_ps4.psarc" />
+    </patch>
+  </patches>
+</pkgpatch>

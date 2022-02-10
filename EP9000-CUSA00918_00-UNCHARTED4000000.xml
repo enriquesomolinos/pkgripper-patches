@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pkgpatch>
+  <patchInfo description="" title_id="CUSA00918" content_id="EP9000-CUSA00918_00-UNCHARTED4000000" />
+  <patches>
+    <patch description="Keep only English" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="build/ps4/main/sound1/streams/speech/arabic.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/french.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/portuguese.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/spanish.psarc" />
+    </patch>
+    <patch description="Keep only Arabic" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="build/ps4/main/sound1/streams/speech/english.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/french.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/portuguese.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/spanish.psarc" />
+    </patch>
+    <patch description="Keep only French" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="build/ps4/main/sound1/streams/speech/arabic.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/english.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/portuguese.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/spanish.psarc" />
+    </patch>
+    <patch description="Keep only Portuguese" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="build/ps4/main/sound1/streams/speech/arabic.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/english.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/french.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/spanish.psarc" />
+    </patch>
+    <patch description="Keep only Spanish" pkg_required_version="01.00" update_version_required="01.00">
+      <file path="build/ps4/main/sound1/streams/speech/arabic.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/english.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/french.psarc" />
+      <file path="build/ps4/main/sound1/streams/speech/portuguese.psarc" />
+    </patch>
+  </patches>
+</pkgpatch>
