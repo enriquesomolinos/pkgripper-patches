@@ -329,5 +329,26 @@
       <file path="overbite/content/paks/pakchunk0-ps4.pak" />
     </patch>
     <patch description="fake patch to repack update" pkg_required_version="01.01" update_version_required="01.01" />
+    <patch description="Duplicated Content from update 01.02" pkg_required_version="01.00" update_version_required="01.02">
+      <file path="cusa12982_00" />
+      <file path="overbite/binaries/ps4" />
+      <file path="overbite/content/emu/sces-00311/ps1.bin" />
+      <file path="overbite/content/emu/sces-01492/ps1.bin" />
+      <file path="overbite/content/emu/sces-01493/ps1.bin" />
+      <file path="overbite/content/emu/sces-01494/ps1.bin" />
+      <file path="overbite/content/emu/sces-01495/ps1.bin" />
+      <file path="overbite/content/emu/scps-10081/ps1.bin" />
+      <file path="overbite/content/emu/scus-94227/config-emu-ps4.txt" />
+      <file path="overbite/content/emu/scus-94227/ps1.bin" />
+      <file path="overbite/content/movies/credits.mp4" />
+      <file path="overbite/content/movies/gameintro.mp4" />
+      <file path="overbite/content/movies/gameoutro1.mp4" />
+      <file path="overbite/content/movies/gameoutro2.mp4" />
+      <file path="overbite/content/movies/level_av_00.mp4" />
+      <file path="overbite/content/movies/level_av_19.mp4" />
+      <file path="overbite/content/movies/level_av_20.mp4" />
+      <file path="overbite/content/paks/pakchunk0-ps4.pak" />
+    </patch>
+    <patch description="Fake PKG" pkg_required_version="01.02" update_version_required="01.02" />
   </patches>
 </pkgpatch>
